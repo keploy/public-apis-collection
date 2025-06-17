@@ -172,6 +172,10 @@ Most requested APIs for common application features:
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
 
 ---
+### 🧠 Fun APIs
+
+- [Bored API](https://www.boredapi.com/api/activity): Suggests random activities. No Auth. JSON. [Docs](https://www.boredapi.com/documentation)
+
 
 ## Anime & Manga
 
