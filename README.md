@@ -12,6 +12,12 @@
 
 </div>
 
+## 🚀 About Keploy
+
+Keploy is an open-source API testing toolkit that generates test cases and data mocks from API calls, enabling developers to create robust, production-grade tests with minimal effort. Keploy empowers teams to automate testing, improve code quality, and accelerate development cycles.
+
+----------
+
 ## About This Repository
 
 Welcome to the Public APIs Collection – a beautifully curated list of free, publicly available APIs, created by the talented API Fellows from our API Fellowship Program. This repository is a comprehensive resource designed to empower developers with access to powerful third-party services without spending a dime.
@@ -20,6 +26,13 @@ Whether you're building an MVP for your startup, learning to code, or hacking on
 
 This collection is the result of dedicated research by our API Fellows, who explored, tested, and documented these APIs to make them easily accessible for themselves and the broader developer community. Dive in and discover tools that can elevate your next project!
 
+---------------------
+
+## 👤 Contributing as an API Fellow
+
+This repository is maintained and enhanced by API Fellows from the Keploy API Fellowship Program. Fellows research, test, and document public APIs to make them accessible for the global developer community. Interested in joining? [Learn more about the API Fellowship Program](https://keploy.io/api-fellowship).
+
+-----------------------
 
 ## How to Contribute
 
@@ -31,11 +44,14 @@ We welcome contributions from the community! Here's how you can help:
 4. **Test** that the API is working and accessible
 5. **Submit** a pull request with a clear description
 
+
 ### Contribution Guidelines
 - APIs must be publicly accessible and free to use
 - Include accurate descriptions and authentication requirements
 - Maintain the table format for consistency
 - Verify all links are working before submitting
+- **New:** Add your name and GitHub profile to the [Contributors](#contributors) section below after your PR is merged!
+
 
 ---
 
@@ -584,11 +600,19 @@ Here are some powerful API combinations that work great together:
 
 ---
 
+## 👥 Contributors
+
+We thank all contributors for making this collection better!  
+Want to see your name here? Make a contribution and add yourself below.
+
+- [Keploy Team](https://github.com/keploy)
+- [Vanshika Singh](https://github.com/VanshikaSingh26) -->
+
 <div align="center">
   <p>Made with ❤️ by the Keploy Community and the API Fellows</p>
   <p>
     <a href="https://github.com/keploy/keploy">⭐ Star Keploy</a> •
     <a href="https://keploy.io/">🌐 Visit Keploy.io</a> •
-    <a href="https://twitter.com/keployio">🐦 Follow on Twitter</a>
+    <a href="https://twitter.com/keployio">🐦 Follow on Twitter</a> •
   </p>
 </div>
