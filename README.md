@@ -535,9 +535,9 @@ Here are some powerful API combinations that work great together:
 
 ### 🎮 **Gaming & Entertainment**
 - **RAWG** + **Twitch API** = Gaming community platforms
+- **Steam Web API** + **Discord API** = Gaming companion apps with community features
 - **Spotify** + **Last.fm** = Music discovery and social features
 - **YouTube** + **TMDb** = Entertainment content platforms
-- **Steam Web API** + **Discord API** = Gaming companion apps with community features
 
 ### 💼 **Business Applications**
 - **Stripe** + **SendGrid** = E-commerce with email notifications
