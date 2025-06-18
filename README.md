@@ -442,7 +442,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Twitter API](https://developer.twitter.com/en/docs) | <details><summary>Tweet data, user information, and social media analytics</summary>Build social media tools, sentiment analysis applications, and Twitter integrations.</details> | OAuth | Hard |
 | [Reddit](https://www.reddit.com/dev/api/) | <details><summary>Reddit posts, comments, and community data</summary>Access Reddit content for building social media analytics, content aggregators, and community tools.</details> | OAuth | Medium |
-
+| [BlueSky](https://docs.bsky.app/) | <details><summary>Skeet/user data, user information, and custom feeds</summary>Utilize the AT Protocol to access BlueSky's data to build bots, custom feeds and client apps.</details> | OAuth | Medium |
 ---
 
 ## Sports & Fitness
