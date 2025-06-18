@@ -216,7 +216,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Open Library](https://openlibrary.org/developers/api) | <details><summary>Book data from Internet Archive's Open Library</summary>Search books, get book information, covers, and author details for building library applications and book catalogs.</details> | None | Easy |
 | [Google Books](https://developers.google.com/books) | <details><summary>Search and access book information from Google's book database</summary>Build book search engines, reading lists, and book recommendation systems.</details> | API Key | Easy |
-| [PoetryDB](https://poetrydb.org/index.html) | <details><summary>PoetryDB is the World's First API for next generation internet poets.</details> | API Key | Easy |
+| [PoetryDB](https://poetrydb.org/index.html) | <details><summary>PoetryDB is the World's First API for next generation Internet poets.</details> | API Key | Easy |
 
 ---
 
