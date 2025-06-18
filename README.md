@@ -406,6 +406,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Pexels](https://www.pexels.com/api/) | <details><summary>Free stock photography and videos</summary>Access thousands of high-quality free photos and videos for your projects and applications.</details> | API Key | Easy |
 | [Pixabay](https://pixabay.com/api/docs/) | <details><summary>Free images, vectors, and videos</summary>Get royalty-free images, illustrations, and videos for commercial and personal use.</details> | API Key | Easy |
+| [Flickr](https://www.flickr.com/services/developer/api/) | <details><summary>Photo sharing and search API</summary>Access billions of public photos, search by tags, keywords, users, and more. Retrieve metadata, manage galleries, and interact with user content. Advanced features include group and collection management.</details> | API Key (OAuth for user data) | Medium |
 
 ---
 
