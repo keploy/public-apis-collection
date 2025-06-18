@@ -160,6 +160,7 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [ElevenLabs API](https://docs.elevenlabs.io/) | <details><summary>Text-to-speech API offering lifelike voice synthesis with multiple voices, emotions, and languages</summary>Create natural-sounding voiceovers, audiobooks, and voice interfaces with advanced AI voice synthesis technology.</details> | API Key | Medium |
 
 ---
 
