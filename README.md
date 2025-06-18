@@ -326,6 +326,7 @@ Most requested APIs for common application features:
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
+
 ---
 
 ## Government & Public Data
@@ -343,6 +344,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+| [COVID19 API](https://covid19api.com) | <details><summary>Global COVID-19 stats</summary>Get accurate, country-wise COVID-19 case numbers, deaths, and recovery trends.</details> | None | Easy |
 
 ---
 
@@ -469,6 +471,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
+| [Fun Translations](https://funtranslations.com/api) | <details><summary>Translate text to fun fictional styles</summary>Turn your messages into Yoda-speak, Minion language, Pirate lingo and more—great for fun apps or bots.</details> | None | Easy |
 
 ---
 
