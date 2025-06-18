@@ -160,6 +160,9 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [Gemini Pro (Google AI)](https://makersuite.google.com/) | <details><summary>Advanced generative AI platform by Google</summary>Use Gemini Flash and Gemini 1.5 Pro for tasks like text generation, scraping automation, summarization, and AI-powered content workflows. Ideal for NLP, intelligent agents, and structured data extraction.</details> | API Key | Medium |
+| [DeepAI](https://deepai.org/) | <details><summary>Wide range of AI APIs for vision and text</summary>Free APIs for text summarization, sentiment analysis, facial recognition, image colorization, and more. Perfect for prototyping AI use cases without model training.</details> | API Key | Easy |
+
 
 ---
 
@@ -262,6 +265,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
+| [Lingua Robot](https://www.linguarobot.io/docs) | <details><summary>Word definitions, pronunciation, and usage</summary>Powerful and developer-friendly dictionary API supporting phonetics, synonyms, and word meanings.</details> | API Key | Easy |
 
 ---
 
@@ -289,6 +293,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Weatherbit API](https://www.weatherbit.io/api) | <details><summary>Accurate weather forecasting and climate data API</summary>Provides real-time and forecast weather metrics like temperature, humidity, and rainfall. Useful for climate-aware agriculture, IoT, and automation systems.</details> | API Key | Easy |
+| [Open-Meteo](https://open-meteo.com/) | <details><summary>Open-source weather forecast API</summary>Free weather forecast API for specific locations with hourly updates, ideal for environmental dashboards and farming apps. No API key required.</details> | None | Easy |
 
 ---
 
@@ -298,6 +304,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Fixer.io](https://fixer.io/documentation) | <details><summary>Foreign exchange rates and currency conversion</summary>Get real-time and historical exchange rates for building currency converters and financial applications.</details> | API Key | Easy |
 | [CurrencyAPI](https://currencyapi.com/) | <details><summary>Real-time and historical currency exchange rates</summary>Access accurate currency data for e-commerce, financial apps, and international business applications.</details> | API Key | Easy |
+| [Exchangerate.host](https://exchangerate.host) | <details><summary>Free currency exchange & conversion API</summary>Provides real-time foreign exchange rates and historical data. No API key needed and supports base currency selection.</details> | None | Easy |
 
 ---
 
