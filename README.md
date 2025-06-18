@@ -160,6 +160,9 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [Anthropic Claude API](https://docs.anthropic.com/claude/reference/) | <details><summary>Conversational AI models with long context windows and reasoning capabilities</summary>Build advanced AI assistants, content generation tools, and knowledge systems with Claude's context-aware responses and nuanced text understanding.</details> | API Key | Medium |
+| [ElevenLabs](https://elevenlabs.io/docs) | <details><summary>Advanced text-to-speech with natural-sounding voices</summary>Convert text to lifelike speech with emotion control, voice cloning, and multiple languages. Ideal for content creation, accessibility, and virtual assistants.</details> | API Key | Easy |
+| [AssemblyAI](https://www.assemblyai.com/docs/) | <details><summary>Speech-to-text and audio intelligence API</summary>Transcribe audio with high accuracy, detect sentiment, identify speakers, and extract key insights from audio content.</details> | API Key | Easy |
 
 ---
 
@@ -316,6 +319,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [RAWG](https://rawg.io/apidocs) | <details><summary>Video game database with ratings, screenshots, and metadata</summary>Build gaming applications with comprehensive video game data, reviews, and media.</details> | API Key | Easy |
 | [Comic Vine](https://comicvine.gamespot.com/api/) | <details><summary>Comic book database with characters, issues, and publishers</summary>Access comic book information for building comic databases and recommendation systems.</details> | API Key | Medium |
+| [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) | <details><summary>Access Steam platform data including user profiles, game information, and statistics</summary>Build gaming applications with Steam integration, access user game libraries, achievements, and community features. Perfect for game companion apps and player statistics dashboards.</details> | API Key | Medium |
 
 ---
 
@@ -533,6 +537,7 @@ Here are some powerful API combinations that work great together:
 - **RAWG** + **Twitch API** = Gaming community platforms
 - **Spotify** + **Last.fm** = Music discovery and social features
 - **YouTube** + **TMDb** = Entertainment content platforms
+- **Steam API** + **Discord API** = Gaming companion apps with community features
 
 ### 💼 **Business Applications**
 - **Stripe** + **SendGrid** = E-commerce with email notifications
