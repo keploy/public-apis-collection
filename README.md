@@ -1,4 +1,4 @@
-# Public APIs Collection
+
 
 <div align="center">
   <img src="https://res.cloudinary.com/dqwbkjfuh/image/upload/v1746623768/keploy-logo-dark__1_-removebg-preview_lwg8b3.png" alt="Keploy Logo" width="500"/>
@@ -583,6 +583,9 @@ Here are some powerful API combinations that work great together:
 - To all the API fellows from the Keploy API Fellowship program for their research and contributions to the community
 
 ---
+### Jokes APIs
+
+- [JokeAPI](https://v2.jokeapi.dev/) - A RESTful API for getting programming and general jokes.
 
 <div align="center">
   <p>Made with ❤️ by the Keploy Community and the API Fellows</p>
