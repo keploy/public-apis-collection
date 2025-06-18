@@ -75,8 +75,15 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Neon](https://neon.tech/docs/reference/api-reference) | <details><summary>Serverless PostgreSQL database with branching</summary>Build applications with modern PostgreSQL features, automatic scaling, and database branching for development workflows.</details> | API Key | Medium |
 | [Railway](https://docs.railway.app/reference/public-api) | <details><summary>Infrastructure platform for deploying applications</summary>Deploy and manage applications, databases, and services with automatic scaling and built-in monitoring. Perfect for full-stack applications.</details> | API Key | Easy |
 | [Linear](https://developers.linear.app/docs/graphql/working-with-the-graphql-api) | <details><summary>Project management and issue tracking platform</summary>Build productivity tools, project dashboards, and workflow automation. Integrate with development workflows and team management systems.</details> | API Key | Medium |
+| [Deepgram](https://deepgram.com) | <details><summary>High-accuracy speech-to-text API for real-time and recorded audio</summary>Transcribe voice and audio with advanced ML. Great for voice-enabled apps, transcripts, and call intelligence. Free tier available.</details> | API Key | Medium |
+| [OCR.space](https://ocr.space/ocrapi) | <details><summary>Free Optical Character Recognition (OCR) API</summary>Extract text from images, scanned PDFs, or documents. Great for invoice scanners, academic tools, and ID verifications.</details> | API Key | Easy |
+| [Unsplash](https://unsplash.com/developers) | <details><summary>Free high-quality stock photos API</summary>Integrate royalty-free images into websites, blogs, e-commerce, or social content — attribution required.</details> | API Key | Easy |
+| [IPinfo](https://ipinfo.io) | <details><summary>IP geolocation and intelligence API</summary>Detect country, city, ISP, and more based on IP address — ideal for personalization, analytics, or content control.</details> | API Key | Easy |
+| [LibreTranslate](https://libretranslate.com/docs/) | <details><summary>Free and open-source translation API</summary>Translate text between major languages without any usage caps — no API key required. Self-hostable.</details> | None | Easy |
+| [Shields.io](https://shields.io/) | <details><summary>Create dynamic badges for GitHub, APIs, or metrics</summary>Great for displaying status, version, uptime, or custom metrics in projects and dashboards.</details> | None | Easy |
+| [DummyJSON](https://dummyjson.com/) | <details><summary>Fake API for e-commerce and user testing</summary>Use fake users, products, carts, and comments to prototype UI/UX designs and mock APIs easily.</details> | None | Easy |
+| [Open-Meteo](https://open-meteo.com/en/docs) | <details><summary>Free weather forecast API</summary>Weather data with no API key, great for travel, agriculture, or dashboard use cases.</details> | None | Easy |
 
----
 
 ## Popular Integrations
 
@@ -150,6 +157,8 @@ Most requested APIs for common application features:
 | [Auth0](https://auth0.com/docs/api) | <details><summary>Complete identity and access management platform</summary>Implement user authentication, single sign-on, multi-factor authentication, and user management in your applications.</details> | API Key | Medium |
 | [Firebase Auth](https://firebase.google.com/docs/auth) | <details><summary>Google's authentication service with multiple sign-in methods</summary>Add email/password, social logins, phone authentication, and anonymous authentication to your apps.</details> | API Key | Easy |
 | [Okta](https://developer.okta.com/docs/reference/) | <details><summary>Enterprise-grade identity and access management</summary>Secure your applications with advanced authentication, authorization, and user management capabilities.</details> | API Key | Hard |
+| [Magic.link](https://magic.link/docs/introduction/introduction) | <details><summary>Passwordless authentication using magic links</summary>Enable secure login with just an email address — no passwords required. Great for Web3, SaaS, and onboarding flows.</details> | API Key | Easy |
+| [SuperTokens](https://supertokens.com/docs/community/introduction) | <details><summary>Open-source authentication with prebuilt UI and backend</summary>Includes email/password, social login, and session management. Easily customizable and self-hostable.</details> | None | Medium |
 
 ---
 
@@ -160,6 +169,8 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [OpenRouter](https://openrouter.ai/docs) | <details><summary>Unified API for accessing multiple LLMs</summary>Query OpenAI, Anthropic, Mistral, Meta, and more through a single API endpoint — perfect for experimenting and benchmarking.</details> | API Key | Easy |
+| [DeepAI](https://deepai.org/) | <details><summary>AI-powered APIs for vision, language, and image generation</summary>Includes image colorization, captioning, NSFW detection, text generation, and more — with generous free tier.</details> | API Key | Easy |
 
 ---
 
@@ -170,6 +181,7 @@ Most requested APIs for common application features:
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
+| [Shibe.Online](http://shibe.online/api/shibes) | <details><summary>Get random pictures of Shiba Inus, cats, or birds</summary>Fun API returning cute images to brighten up your pet apps or splash screens.</details> | None | Easy |
 
 ---
 
@@ -179,6 +191,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
+| [Kitsu](https://kitsu.docs.apiary.io/) | <details><summary>Anime discovery and tracking platform API</summary>Access anime, manga, and user libraries with search and filtering options. Great for anime recommendation engines.</details> | OAuth | Medium |
 
 ---
 
@@ -188,6 +201,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
+| [IPQualityScore](https://www.ipqualityscore.com/documentation/overview) | <details><summary>Detect fraudulent users, bots, and malicious IPs</summary>Prevent fake signups and abuse with fraud scoring, email validation, and proxy/VPN detection.</details> | API Key | Medium |
+
 
 ---
 
@@ -198,6 +213,8 @@ Most requested APIs for common application features:
 | [Unsplash](https://unsplash.com/developers) | <details><summary>High-quality stock photography</summary>Access millions of free high-resolution photos for your applications, websites, and projects.</details> | API Key | Easy |
 | [Lorem Picsum](https://picsum.photos/) | <details><summary>Lorem Ipsum for photos - placeholder images</summary>Generate placeholder images of any size for mockups and development.</details> | None | Easy |
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | <details><summary>Access to museum's art collection and data</summary>Browse thousands of artworks, artist information, and exhibition data from one of the world's premier art museums.</details> | None | Easy |
+| [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | <details><summary>Access the Harvard Art Museums collection</summary>Search and retrieve high-quality images, artist bios, and artwork details from Harvard's open access collection.</details> | API Key | Easy |
+| [CoinPaprika](https://api.coinpaprika.com/) | <details><summary>Cryptocurrency metadata, historical data, and market statistics</summary>Free access to global crypto data with fast response time and no auth required.</details> | None | Easy |
 
 ---
 
@@ -525,25 +542,44 @@ Most requested APIs for common application features:
 Here are some powerful API combinations that work great together:
 
 ### 🤖 **AI-Powered Applications**
-- **OpenAI API** + **Eleven Labs** = AI chatbots with voice responses
-- **Hugging Face** + **Unsplash** = AI image analysis with stock photos
-- **Google Translate** + **Natural Language API** = Multi-language sentiment analysis
+
+* **OpenAI API** + **Eleven Labs** = AI chatbots with voice responses
+* **Hugging Face** + **Unsplash** = AI image analysis with stock photos
+* **Google Translate** + **Natural Language API** = Multi-language sentiment analysis
+* **Whisper API** + **Twilio Voice** = Voice-based AI assistants that transcribe and respond in real-time
+* **OpenAI Vision** + **OCR.space** = Image understanding + document parsing for automation
+
+---
 
 ### 🎮 **Gaming & Entertainment**
-- **RAWG** + **Twitch API** = Gaming community platforms
-- **Spotify** + **Last.fm** = Music discovery and social features
-- **YouTube** + **TMDb** = Entertainment content platforms
+
+* **RAWG** + **Twitch API** = Gaming community platforms with live integration
+* **Spotify** + **Last.fm** = Music discovery with listening analytics and social sharing
+* **YouTube** + **TMDb** = Create content-rich entertainment platforms
+* **Steam API** + **Discord API** = Social gaming tools with game stats and community chats
+* **Giphy** + **Emotion Detection API** = Meme/GIF suggestion engine based on facial expressions
+
+---
 
 ### 💼 **Business Applications**
-- **Stripe** + **SendGrid** = E-commerce with email notifications
-- **Google Maps** + **Twilio** = Location-based SMS services
-- **GitHub** + **Slack** = Developer productivity tools
+
+* **Stripe** + **SendGrid** = E-commerce with transactional and marketing emails
+* **Google Maps** + **Twilio** = Location-based SMS reminders or alerts
+* **GitHub** + **Slack** = DevOps & developer productivity stack
+* **Clearbit** + **Apollo.io** = B2B lead generation and enrichment
+* **Xero** + **OCR.space** = Auto-bookkeeping using scanned documents and invoices
+
+---
 
 ### 🌐 **Social & Communication**
-- **Liveblocks** + **Pusher** = Real-time collaborative applications
-- **Instagram** + **Unsplash** = Social media content tools
-- **Twitter** + **Sentiment Analysis** = Social media monitoring
 
+* **Liveblocks** + **Pusher** = Real-time collaborative applications (whiteboards, docs, chat)
+* **Instagram** + **Unsplash** = Tools for social media post automation with curated visuals
+* **Twitter** + **Sentiment Analysis** = Brand and trend monitoring in real-time
+* **Zoom API** + **Calendly API** = Instant meeting scheduling and coordination platform
+* **Firebase** + **Clerk.dev** = Authentication and real-time chat for community apps
+
+---
 ---
 
 ## 📊 API Difficulty Legend
