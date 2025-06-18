@@ -379,6 +379,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | <details><summary>Global development data and statistics</summary>Access economic, social, and development indicators for countries worldwide.</details> | None | Easy |
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
+| [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Access company data from over 140 jurisdictions — including legal entities, directors, and filing histories.</summary>Ideal for compliance tools, investigative journalism, B2B verification apps, and enterprise analytics.</details> | API Key | Hard |
+
 
 ---
 
@@ -388,6 +390,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Libraries.io](https://libraries.io/api) | <details><summary>Open source package and dependency data</summary>Track open source projects, dependencies, and package information across multiple package managers.</details> | API Key | Easy |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | <details><summary>GitLab project and repository management</summary>Access GitLab repositories, issues, merge requests, and CI/CD data for building developer tools.</details> | OAuth/Token | Medium |
+| [GHTorrent API](http://ghtorrent.org/) | <details><summary>Provides a mirror of GitHub's public event stream into a queryable database format.</summary>Excellent for open source research, contributor network analysis, and understanding GitHub trends over time.</details> | No | Hard |
+
 
 ---
 
