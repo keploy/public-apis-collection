@@ -160,6 +160,16 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [Deepgram Speech-to-Text API](https://deepgram.com/) | <details><summary>Real‑time Speech Recognition</summary>High-accuracy real-time speech-to-text transcription with support for diarization, language detection, and more.</details> | API Key | Medium |
+| [Deepgram Text-to-Speech API](https://play.ht/blog/deepgram-text-to-speech-python/) | <details><summary>Realistic Text-to-Speech</summary>Converts text into high-quality, natural-sounding audio using Deepgram’s TTS models.</details> | API Key | Medium |
+| [Mistral API](https://docs.mistral.ai/) | <details><summary>Language model API</summary>Access to open-weight models like Mistral-7B, Mixtral, and others for chat or text generation use cases.</details> | API Key | Medium |
+| [Groq API](https://console.groq.com/docs) | <details><summary>Ultra-fast inference API</summary>Runs LLMs (e.g., LLaMA 3) at extremely low latency using Groq's custom hardware accelerators.</details> | API Key | Medium |
+| [Together AI API](https://docs.together.ai/docs/welcome) | <details><summary>Inference for open models</summary>Unified endpoint to access and run open-source LLMs like Mixtral, GPT-JT, LLaMA 3 with pay-as-you-go pricing.</details> | API Key | Medium |
+
+
+
+
+
 
 ---
 
@@ -198,6 +208,8 @@ Most requested APIs for common application features:
 | [Unsplash](https://unsplash.com/developers) | <details><summary>High-quality stock photography</summary>Access millions of free high-resolution photos for your applications, websites, and projects.</details> | API Key | Easy |
 | [Lorem Picsum](https://picsum.photos/) | <details><summary>Lorem Ipsum for photos - placeholder images</summary>Generate placeholder images of any size for mockups and development.</details> | None | Easy |
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | <details><summary>Access to museum's art collection and data</summary>Browse thousands of artworks, artist information, and exhibition data from one of the world's premier art museums.</details> | None | Easy |
+| [Kroki Diagram API](https://kroki.io/) | <details><summary>Text-to-Diagram Generation</summary>Create diagrams like UML, flowcharts, and more from simple code syntax using a unified HTTP API.</details> | None | Medium |
+
 
 ---
 
@@ -225,6 +237,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/overview) | <details><summary>Unified Microsoft 365 Access</summary>Single API for accessing Microsoft 365 services including mail, calendar, Teams, and OneDrive.</details> | OAuth | Medium |
+
 
 ---
 
@@ -253,6 +267,8 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [SVIX Webhooks API](https://www.svix.com/) | <details><summary>Managed Webhook Infrastructure</summary>Scalable and secure webhooks with retries, logging, SDKs, and debugging tools.</details> | API Key | Medium |
+
 
 ---
 
@@ -280,6 +296,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [Watchmode API](https://www.watchmode.com/api/) | <details><summary>Streaming Metadata</summary>Movie/TV search API with metadata, cast, ratings, and streaming availability across platforms.</details> | API Key | Medium |
+| [Podcast Index API](https://podcastindex.org/api/docs) | <details><summary>Podcast Metadata & Directory</summary>Access podcast episodes, transcripts, feeds, and directories using open podcasting standards.</details> | API Key | Medium |
+
 
 ---
 
@@ -289,6 +308,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Open-Meteo API](https://open-meteo.com/) | <details><summary>Free Weather Forecasts</summary>No-auth hourly and daily weather forecasts, including wind, temperature, and precipitation data.</details> | None | Medium |
+
 
 ---
 
@@ -379,6 +400,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | <details><summary>Global development data and statistics</summary>Access economic, social, and development indicators for countries worldwide.</details> | None | Easy |
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
+| [DuckDuckGo Instant Answer API](https://duckduckgo.com/api) | <details><summary>Zero-Click Information Retrieval</summary>Provides instant answers (definitions, facts, conversions) without tracking or requiring API keys.</details> | None | Medium |
+
 
 ---
 
