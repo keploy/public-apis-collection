@@ -39,6 +39,55 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## Index
+
+- [🚀 **Project Enhancers**](#project-enhancers) 
+- [🎯 **Popular Integrations**](#popular-integrations) 
+- [🔒 **Authentication & Authorization**](#authentication--authorization)
+- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
+- [🐾 **Animals**](#animals)
+- [🎌 **Anime & Manga**](#anime--manga)
+- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
+- [🎨 **Art & Design**](#art--design)
+- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
+- [📚 **Books & Literature**](#books--literature)
+- [💼 **Business & Finance**](#business--finance)
+- [📅 **Calendar & Events**](#calendar--events)
+- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
+- [🔧 **Development & Testing**](#development--testing)
+- [📖 **Dictionaries & Language**](#dictionaries--language)
+- [📧 **Email & Communication**](#email--communication)
+- [🎬 **Entertainment & Media**](#entertainment--media)
+- [🌍 **Environment & Weather**](#environment--weather)
+- [🏦 **Finance & Banking**](#finance--banking)
+- [🍕 **Food & Drink**](#food--drink)
+- [🎮 **Games & Comics**](#games--comics)
+- [📍 **Geocoding & Maps**](#geocoding--maps)
+- [🏛️ **Government & Public Data**](#government--public-data)
+- [⚕️ **Health & Medical**](#health--medical)
+- [💼 **Jobs & Careers**](#jobs--careers)
+- [🎵 **Music & Audio**](#music--audio)
+- [📰 **News & Journalism**](#news--journalism)
+- [📊 **Open Data & Analytics**](#open-data--analytics)
+- [🔓 **Open Source Projects**](#open-source-projects)
+- [📱 **Phone & SMS**](#phone--sms)
+- [📸 **Photography & Images**](#photography--images)
+- [💻 **Programming & Code**](#programming--code)
+- [🔬 **Science & Mathematics**](#science--mathematics)
+- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
+- [👥 **Social Media & Networking**](#social-media--networking)
+- [⚽ **Sports & Fitness**](#sports--fitness)
+- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
+- [📝 **Text Analysis & Processing**](#text-analysis--processing)
+- [📦 **Tracking & Logistics**](#tracking--logistics)
+- [🚗 **Transportation & Travel**](#transportation--travel)
+- [🔗 **URL Shorteners**](#url-shorteners)
+- [🚙 **Vehicle Information**](#vehicle-information)
+- [🎥 **Video & Streaming**](#video--streaming)
+- [🧾 **QR & Barcode Generation**](#qr--barcode-generation)
+
+---
+
 ## Project Enhancers
 
 These APIs can significantly enhance your projects and provide professional-grade features:
@@ -92,55 +141,6 @@ Most requested APIs for common application features:
 | [OpenAI API](https://openai.com/api/) | <details><summary>Access to GPT models for building AI-powered chatbots, content generation, and intelligent applications</summary>Build ChatGPT-like interfaces, content generators, code assistants, and smart automation tools. Includes text generation, image creation, and code completion capabilities.</details> | API Key | Medium |
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
----
-
-
-## Index
-
-- [🚀 **Project Enhancers**](#project-enhancers) 
-- [🎯 **Popular Integrations**](#popular-integrations) 
-- [🔒 **Authentication & Authorization**](#authentication--authorization)
-- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
-- [🐾 **Animals**](#animals)
-- [🎌 **Anime & Manga**](#anime--manga)
-- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
-- [🎨 **Art & Design**](#art--design)
-- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
-- [📚 **Books & Literature**](#books--literature)
-- [💼 **Business & Finance**](#business--finance)
-- [📅 **Calendar & Events**](#calendar--events)
-- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
-- [🔧 **Development & Testing**](#development--testing)
-- [📖 **Dictionaries & Language**](#dictionaries--language)
-- [📧 **Email & Communication**](#email--communication)
-- [🎬 **Entertainment & Media**](#entertainment--media)
-- [🌍 **Environment & Weather**](#environment--weather)
-- [🏦 **Finance & Banking**](#finance--banking)
-- [🍕 **Food & Drink**](#food--drink)
-- [🎮 **Games & Comics**](#games--comics)
-- [📍 **Geocoding & Maps**](#geocoding--maps)
-- [🏛️ **Government & Public Data**](#government--public-data)
-- [⚕️ **Health & Medical**](#health--medical)
-- [💼 **Jobs & Careers**](#jobs--careers)
-- [🎵 **Music & Audio**](#music--audio)
-- [📰 **News & Journalism**](#news--journalism)
-- [📊 **Open Data & Analytics**](#open-data--analytics)
-- [🔓 **Open Source Projects**](#open-source-projects)
-- [📱 **Phone & SMS**](#phone--sms)
-- [📸 **Photography & Images**](#photography--images)
-- [💻 **Programming & Code**](#programming--code)
-- [🔬 **Science & Mathematics**](#science--mathematics)
-- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
-- [👥 **Social Media & Networking**](#social-media--networking)
-- [⚽ **Sports & Fitness**](#sports--fitness)
-- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
-- [📝 **Text Analysis & Processing**](#text-analysis--processing)
-- [📦 **Tracking & Logistics**](#tracking--logistics)
-- [🚗 **Transportation & Travel**](#transportation--travel)
-- [🔗 **URL Shorteners**](#url-shorteners)
-- [🚙 **Vehicle Information**](#vehicle-information)
-- [🎥 **Video & Streaming**](#video--streaming)
-
 ---
 
 ## Authentication & Authorization
@@ -519,6 +519,14 @@ Most requested APIs for common application features:
 | [Daily.co](https://docs.daily.co/) | <details><summary>Video calling and live streaming API</summary>Add video calls, live streaming, and real-time communication to your applications.</details> | API Key | Medium |
 
 ---
+
+## QR & Barcode Generation
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [GoQR API](https://goqr.me/api/) | <details><summary>Generate QR codes for URLs, text, emails, phone numbers, and more</summary>Free and simple API to dynamically generate QR codes in PNG format. No authentication required. Supports GET requests with customization options for size, data, and format.</details> | None | Easy |
+| [QR Code Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | <details><summary>Generate customizable QR codes with logos and color themes</summary>Free API to generate high-resolution QR codes in PNG, SVG, or PDF formats. Supports logo embedding, custom colors, error correction, and styling. No API key required.</details> | None | Easy |
+
 
 ## 🎯 Featured API Combinations
 
