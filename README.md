@@ -519,6 +519,13 @@ Most requested APIs for common application features:
 | [Daily.co](https://docs.daily.co/) | <details><summary>Video calling and live streaming API</summary>Add video calls, live streaming, and real-time communication to your applications.</details> | API Key | Medium |
 
 ---
+## Space and Science
+
+| API   | Description | Auth | Difficulty |
+|-------|-------------|------|------------|
+| [NASA API](https://api.nasa.gov) | <details><summary>Access NASA’s open data including space imagery, astronomy, and mission data.</summary>Endpoints include Astronomy Picture of the Day, Mars Rover Photos, and Near-Earth Object tracking.</details> | API Key | Medium |
+
+---
 
 ## 🎯 Featured API Combinations
 
