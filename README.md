@@ -216,6 +216,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Open Library](https://openlibrary.org/developers/api) | <details><summary>Book data from Internet Archive's Open Library</summary>Search books, get book information, covers, and author details for building library applications and book catalogs.</details> | None | Easy |
 | [Google Books](https://developers.google.com/books) | <details><summary>Search and access book information from Google's book database</summary>Build book search engines, reading lists, and book recommendation systems.</details> | API Key | Easy |
+| [Gutendex](https://gutendex.com/) | <details><summary>Free API for 60,000+ public domain books from Project Gutenberg</summary>Access metadata, author details, and download links for classic literature—perfect for building classic literature apps, educational tools, or book archives.</details> | None | Easy |
 
 ---
 
