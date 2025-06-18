@@ -1,0 +1,10 @@
+[
+  {
+    "API": "Public Holiday API",
+    "Description": "Get worldwide public holidays by country and year",
+    "Auth": "No",
+    "HTTPS": true,
+    "Link": "https://date.nager.at/",
+    "Category": "Calendar"
+  }
+]
