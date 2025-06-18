@@ -334,6 +334,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [REST Countries](https://restcountries.com/) | <details><summary>Country information including flags, currencies, and demographics</summary>Get comprehensive country data for building educational apps, travel applications, and geographical tools.</details> | None | Easy |
 | [US Census](https://www.census.gov/data/developers/data-sets.html) | <details><summary>US demographic and economic data</summary>Access population, economic, and demographic data for research and analysis applications.</details> | None/API Key | Medium |
+| [India IT Department](https://directory.apisetu.gov.in/api-collection/pan) | <details><summary>India income tax data</summary>Track PAN, verify PAN, organization PAN verification API</details> | None/API Key | Medium |
 
 ---
 
