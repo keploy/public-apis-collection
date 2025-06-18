@@ -160,6 +160,10 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+|Kaggle API|Access Kaggle datasets, competitions, and notebooks programmatically. Download datasets, submit competition entries, and manage Kaggle resources. Perfect for data science projects, ML model training, and accessing curated datasets from the world's largest data science community.|API Key|Easy|
+|TensorFlow Serving API|Deploy and serve TensorFlow models in production environments. REST and gRPC APIs for model inference, version management, and scalable ML model serving. Perfect for serving machine learning models at scale with high performance and reliability.|None|Medium|
+|Weights & Biases API|ML experiment tracking, hyperparameter optimization, and model management platform. Visualize training metrics, compare experiments, and collaborate on ML projects. Essential for professional ML development workflows.|API Key|Easy|
+|Papers With Code API|Access machine learning papers, datasets, and state-of-the-art results. Browse latest ML research, benchmark datasets, and implementation code. Perfect for staying updated with ML research and finding relevant papers for projects.|None|Easy|
 
 ---
 
