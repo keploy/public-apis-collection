@@ -51,7 +51,7 @@ We welcome contributions from the community! Whether you're an experienced devel
 
 Please follow the format below when adding a new API:
 
-```md
+
 | API        | Description                   | Auth | Difficulty |
 |------------|-------------------------------|------|------------|
 | AnimeChan  | Get random anime quotes       | None | Easy       |
