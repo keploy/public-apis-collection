@@ -225,6 +225,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [Domainsdb](https://domainsdb.info/) | <details><summary>Search across 260M+ registered domain names and 1000+ TLDs.</summary>Provides access to a vast index of registered domains, enabling keyword-based search across over 260 million domains and 1000+ TLDs.            </details> | None | Easy |
 
 ---
 
