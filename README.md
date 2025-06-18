@@ -262,8 +262,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
 | [DuckDuckGo Instant Answer API](https://api.duckduckgo.com/api) | <details><summary>Instant search answers, definitions, and facts</summary>Get summarized results, definitions, calculations, and tech explanations for any search query. Perfect for chatbots, productivity tools, and educational apps. No authentication required.</details> | None | Easy |
 
 ---
