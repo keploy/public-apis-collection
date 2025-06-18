@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d69d86c7-aadd-4118-838e-15bccd0cf536)# Public APIs Collection
+
 
 <div align="center">
   <img src="https://res.cloudinary.com/dqwbkjfuh/image/upload/v1746623768/keploy-logo-dark__1_-removebg-preview_lwg8b3.png" alt="Keploy Logo" width="500"/>
