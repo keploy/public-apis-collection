@@ -159,10 +159,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
-| [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
 | [Anthropic Claude](https://docs.anthropic.com/claude/reference/) | <details><summary>Conversational AI models with long context windows and reasoning capabilities</summary>Build advanced AI assistants, content generation tools, and knowledge systems with Claude's context-aware responses and nuanced text understanding.</details> | API Key | Medium |
-| [ElevenLabs](https://elevenlabs.io/docs) | <details><summary>Advanced text-to-speech with natural-sounding voices</summary>Convert text to lifelike speech with emotion control, voice cloning, and multiple languages. Ideal for content creation, accessibility, and virtual assistants.</details> | API Key | Easy |
 | [AssemblyAI](https://www.assemblyai.com/docs/) | <details><summary>Speech-to-text and audio intelligence API</summary>Transcribe audio with high accuracy, detect sentiment, identify speakers, and extract key insights from audio content.</details> | API Key | Easy |
+| [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [ElevenLabs](https://elevenlabs.io/docs) | <details><summary>Advanced text-to-speech with natural-sounding voices</summary>Convert text to lifelike speech with emotion control, voice cloning, and multiple languages. Ideal for content creation, accessibility, and virtual assistants.</details> | API Key | Easy |
 
 ---
 
