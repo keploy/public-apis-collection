@@ -350,7 +350,6 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [GitHub Jobs](https://jobs.github.com/api) | <details><summary>Developer job listings from GitHub</summary>Access tech job postings and build job search applications for developers.</details> | None | Easy |
 | [Adzuna](https://developer.adzuna.com/) | <details><summary>Job search data and salary information</summary>Get job listings, salary data, and employment statistics for building career platforms.</details> | API Key | Easy |
 
 ---
