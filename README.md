@@ -160,6 +160,7 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [Gemini API (Google AI Studio)](https://aistudio.google.com) | <details><summary>Generative AI for text content, similar to ChatGPT</summary>Supports text generation via Google’s Gemini models. Easily accessible with API key from AI Studio dashboard.</details> | API Key | Medium |
 
 ---
 
@@ -188,6 +189,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
+| [ALTCHA API](https://altcha.org/) | <details><summary>Proof-of-work CAPTCHA & anti-spam API</summary>Create and verify challenges to protect forms and APIs without using cookies or user tracking. Supports classification and customizable complexity.</details> | API Key | Medium |
+
 
 ---
 
@@ -271,6 +274,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [EmailJS](https://www.emailjs.com/docs/) | <details><summary>Send emails directly from client-side JavaScript</summary>Send emails from frontend applications without backend infrastructure. Great for contact forms and notifications.</details> | API Key | Easy |
 | [Mailgun](https://documentation.mailgun.com/en/latest/) | <details><summary>Email delivery service for developers</summary>Send transactional emails, newsletters, and notifications with high deliverability rates.</details> | API Key | Easy |
+| [Zoom API](https://marketplace.zoom.us/) | <details><summary>Schedule and manage video meetings via API</summary>Create meetings, manage users, and access recordings using JWT or OAuth authentication. Ideal for integrating Zoom into scheduling or video conferencing apps.</details> | API Key / OAuth | Medium |
+| [Google Meet (via Calendar API)](https://console.cloud.google.com/) | <details><summary>Create Meet links by scheduling calendar events</summary>Use the Google Calendar API to schedule events with embedded Google Meet links. Requires OAuth token and calendar scope.</details> | OAuth | Medium |
+
 
 ---
 
@@ -280,6 +286,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [GIPHY API](https://developers.giphy.com/) | <details><summary>GIF search and trending content from GIPHY</summary>Access GIFs, stickers, and reaction media using search, trending, and random endpoints. Requires a free API key.</details> | API Key | Easy |
+
 
 ---
 
@@ -289,6 +297,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Open-Meteo](https://open-meteo.com) | <details><summary>Weather forecast API, no authentication required</summary>Provides hourly/daily weather data for a given latitude & longitude. Great for prototyping weather widgets.</details> | None | Easy |
+| [REST Countries](https://restcountries.com/) | <details><summary>Country metadata API</summary>Fetch data like flags, capital, region, population for every country—useful for educational or travel apps.</details> | None | Easy |
+
 
 ---
 
@@ -325,7 +336,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
-
+| [SpaceX Launch Data](https://api.spacexdata.com/) | <details><summary>SpaceX launch information API</summary>Get data on recent and upcoming launches including rocket, crew, site, payload, and more.</details> | None | Easy |
 ---
 
 ## Government & Public Data
@@ -469,7 +480,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
-
+| [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/) | <details><summary>Random quotes API</summary>Fetch famous quotes by author or random ones—great for motivational widgets or writing prompts.</details> | None | Easy |
 ---
 
 ## Tracking & Logistics
