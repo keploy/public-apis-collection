@@ -160,6 +160,7 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [GroqCloud](https://console.groq.com/docs/overview) | <details><summary>GroqCloud is a free-to-start, high-speed public API platform that offers access to open-source LLMs with ultra-low latency. </summary>You can use GroqCloud by calling its OpenAI-compatible API endpoints with your API key to run fast, real-time inference on open-source LLMs like LLaMA and Mixtral.</details> | API Key | Easy |
 
 ---
 
