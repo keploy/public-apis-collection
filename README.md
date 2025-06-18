@@ -498,6 +498,7 @@ Most requested APIs for common application features:
 | [TinyURL](https://tinyurl.com/app/dev) | <details><summary>URL shortening service</summary>Create short URLs and track click statistics for link management applications.</details> | None | Easy |
 | [Bitly](https://dev.bitly.com/) | <details><summary>URL shortening with analytics and custom domains</summary>Shorten URLs, track clicks, and analyze link performance with detailed analytics.</details> | OAuth | Medium |
 | [Is.gd](https://is.gd/apishortenservice.php) | <details><summary>Simple URL shortening service</summary>Basic URL shortening without registration requirements.</details> | None | Easy |
+| [CleanURI](https://cleanuri.com) | <details><summary>Simple and privacy-focused URL shortener</summary>URL shortening with a focus on user privacy, no tracking.</details> | None | Easy |
 
 ---
 
