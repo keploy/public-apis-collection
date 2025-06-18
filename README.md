@@ -520,6 +520,21 @@ Most requested APIs for common application features:
 
 ---
 
+### 😄 Jokes
+
+| API | Description | Auth | HTTPS | CORS | Link |
+|-----|-------------|------|--------|------|------|
+| [JokeAPI](https://v2.jokeapi.dev/) | Programming, general, and dark jokes. | No | Yes | Yes | [Go!](https://v2.jokeapi.dev/) |
+| [Official Joke API](https://official-joke-api.appspot.com/) | Short general and programming jokes. | No | Yes | Yes | [Go!](https://official-joke-api.appspot.com/) |
+| [Chuck Norris API](https://api.chucknorris.io/) | Random Chuck Norris jokes. | No | Yes | Yes | [Go!](https://api.chucknorris.io/) |
+| [Dad Jokes API](https://icanhazdadjoke.com/api) | Dad jokes in JSON format. | No | Yes | Yes | [Go!](https://icanhazdadjoke.com/api) |
+| [Yo Momma API](https://yomomma-api.herokuapp.com/) | Funny "yo momma" jokes. | No | Yes | Yes | [Go!](https://yomomma-api.herokuapp.com/) |
+| [JokeAPI.xyz](https://jokeapi.xyz/) | Random one-line jokes from a simple API. | No | Yes | Unknown | [Go!](https://jokeapi.xyz/) |
+ |
+
+
+---
+
 ## 🎯 Featured API Combinations
 
 Here are some powerful API combinations that work great together:
