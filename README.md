@@ -451,6 +451,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [ESPN](http://www.espn.com/apis/devcenter/) | <details><summary>Sports scores, statistics, and news</summary>Get live sports data, player statistics, and sports news for building sports applications.</details> | None | Easy |
 | [Football-Data](https://www.football-data.org/) | <details><summary>Soccer/football match data and statistics</summary>Access fixture lists, match results, and team statistics for soccer applications.</details> | API Key | Easy |
+| [Balldontlie](https://www.balldontlie.io/) | <details><summary>NBA data including players, teams, games, and season stats.</summary>Get live sports data, player season averages, player comparisons, and nba news for nba applications.</details> | None | Easy |
 
 ---
 
