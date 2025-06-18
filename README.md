@@ -271,7 +271,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [EmailJS](https://www.emailjs.com/docs/) | <details><summary>Send emails directly from client-side JavaScript</summary>Send emails from frontend applications without backend infrastructure. Great for contact forms and notifications.</details> | API Key | Easy |
 | [Mailgun](https://documentation.mailgun.com/en/latest/) | <details><summary>Email delivery service for developers</summary>Send transactional emails, newsletters, and notifications with high deliverability rates.</details> | API Key | Easy |
-
+| [Disify](https://docs.disify.com/#introduction) | <details><summary>Validate and verify single email address. Check if email address is disposable, temporary, has invalid MX records, detect if its mistyped, inactive or non-existent.</details> | NO | Easy |
 ---
 
 ## Entertainment & Media
