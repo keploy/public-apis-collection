@@ -334,6 +334,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [REST Countries](https://restcountries.com/) | <details><summary>Country information including flags, currencies, and demographics</summary>Get comprehensive country data for building educational apps, travel applications, and geographical tools.</details> | None | Easy |
 | [US Census](https://www.census.gov/data/developers/data-sets.html) | <details><summary>US demographic and economic data</summary>Access population, economic, and demographic data for research and analysis applications.</details> | None/API Key | Medium |
+| [Indian Government Open Data ](https://www.data.gov.in/apis) | <details><summary>Access to public datasets from Indian government agencies</summary>Access population, economic, and demographic data for research and analysis applications.</details> | API Key | Easy |
 
 ---
 
@@ -370,7 +371,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
-
+| [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 ---
 
 ## Open Data & Analytics
