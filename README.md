@@ -142,6 +142,10 @@ Most requested APIs for common application features:
 - [🎥 **Video & Streaming**](#video--streaming)
 
 ---
+### 📦 Weather APIs
+- **WeatherAPI** – Provides real-time and forecast weather data.  
+  🔗 https://www.weatherapi.com/  
+  🔑 Auth: Required
 
 ## Authentication & Authorization
 
