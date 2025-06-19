@@ -291,6 +291,7 @@ Most requested APIs for common application features:
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
 | [Open‑Meteo](https://open-meteo.com) | <details><summary>Free weather forecasts with hourly data</summary>Get accurate hourly weather data like temperature, wind speed, and precipitation for any location without needing an API key. Great for prototypes and educational use.</details> | No | Easy |
 
+
 ---
 
 ## Finance & Banking
