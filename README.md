@@ -387,8 +387,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
 | [Napster API](https://developer.prod.napster.com/) | <details><summary>Comprehensive music catalog & playback API</summary>Access millions of tracks, artist metadata, user playlists, favorites, play counts, and more for building streaming apps.</details> | apiKey | Medium |
 | [Musixmatch API](https://developer.musixmatch.com/) | <details><summary>Huge lyrics database</summary>Search and retrieve licensed lyrics and translations for millions of songs, sync lyrics with media playback.</details> | API Key | Medium |
 | [SoundCloud API](https://developers.soundcloud.com/docs/api/guide) | <details><summary>Audio upload, insights & discovery</summary>Build apps leveraging user-uploaded tracks, comments, playlists, user profiles, and search/explore features on SoundCloud.</details> | OAuth (client_id/client_secret) | Medium |
