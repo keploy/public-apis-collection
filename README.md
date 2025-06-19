@@ -406,6 +406,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Pexels](https://www.pexels.com/api/) | <details><summary>Free stock photography and videos</summary>Access thousands of high-quality free photos and videos for your projects and applications.</details> | API Key | Easy |
 | [Pixabay](https://pixabay.com/api/docs/) | <details><summary>Free images, vectors, and videos</summary>Get royalty-free images, illustrations, and videos for commercial and personal use.</details> | API Key | Easy |
+| [Lorem Picsum](https://picsum.photos/) | <details><summary>Random placeholder images for mockups</summary>Generate random images with customizable dimensions and grayscale, blur, and seed options. Perfect for prototyping and UI design.</details> | None | Easy |
 
 ---
 
