@@ -520,6 +520,19 @@ Most requested APIs for common application features:
 
 ---
 
+<!-- ✨ Added by @sakshiSejal296 — for dreamers, writers, and journaling souls -->
+
+### 🖋️ Writing & Journaling Tools
+
+> “A writer only begins a book. A reader finishes it.” – Samuel Johnson  
+> Whether you're journaling your thoughts at midnight, composing poetry, or crafting prose, these APIs serve as companions to the creative mind — turning silence into sentences and sparks into stories.
+
+| API        | Description                                                                                      | Auth | Difficulty |
+|------------|--------------------------------------------------------------------------------------------------|------|------------|
+| [Quotable](https://github.com/lukePeavey/quotable)   | A beautifully crafted API that delivers quotes from famous authors, categories, or random musings. Ideal for journaling prompts, motivational nudges, or simply starting your day with words that matter. | None | Easy       |
+| [Datamuse](https://www.datamuse.com/api/)   | A lexical treasure chest for writers and poets. Discover rhymes, similar-sounding words, adjectives, synonyms, and more to elevate your expression, polish your poetry, or break through writer’s block. | None | Easy       |
+
+
 ## 🎯 Featured API Combinations
 
 Here are some powerful API combinations that work great together:
