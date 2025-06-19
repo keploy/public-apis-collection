@@ -460,6 +460,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
+| [Mockaroo](https://www.mockaroo.com/) | <details><summary>Generate realistic fake data for testing and development.</summary> Mockaroo allows you to easily download large amounts of randomly generated test data based on your own specs/schemas which you can then load directly into your test environment using CSV, SQL, JSON and many other formats.</details> | API Key | Easy |
 
 ---
 
