@@ -185,7 +185,7 @@ Most requested APIs for common application features:
 | [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2) | <details><summary>Official API for MyAnimeList</summary>Manage and access anime/manga lists, reviews, and user profiles.</details> | OAuth | Medium |
 | [NekosBest](https://docs.nekos.best/) | <details><summary>Anime image and reaction API</summary>Serve reaction images and GIFs for anime roleplaying bots and fan apps.</details> | None | Easy |
 | [Shikimori API](https://shikimori.one/api/doc) | <details><summary>Anime tracking and discovery</summary>Get anime, manga, character, and user rating data along with forums and social info.</details> | OAuth | Medium |
-| [Trace.moe](https://soruly.github.io/trace.moe-wiki/) | <details><summary>Reverse search anime scenes</summary>Identify the anime, episode, and timestamp using a single screenshot.</details> | None | Easy |
+
 ---
 
 ## Anti-Malware & Security
