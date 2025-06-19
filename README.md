@@ -424,7 +424,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
-
+| [Open-Meteo Astronomy API](https://open-meteo.com/en/docs) | <details><summary>Get sunrise, sunset, moonrise, moonset, and moon phase data</summary>Access detailed astronomical data for any location. Great for weather, farming, night photography, and stargazing apps.</details> | None | Easy |
 ---
 
 ## Shopping & E-commerce
