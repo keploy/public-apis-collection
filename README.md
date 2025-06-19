@@ -280,6 +280,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [PokéAPI](https://pokeapi.co/) | <details><summary>Pokémon data including abilities, stats, and evolution</summary>Useful for games, fan apps, or learning how to work with structured APIs and datasets.</details> | None | Easy |
 
 ---
 
