@@ -213,8 +213,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [CoinGecko](https://www.coingecko.com/en/api) | <details><summary>Cryptocurrency data including prices, market cap, and trading volume</summary>Get real-time crypto prices, historical data, market trends, and coin information for building crypto applications.</details> | None | Easy |
 | [Blockchain.info](https://www.blockchain.com/api) | <details><summary>Bitcoin blockchain data and statistics</summary>Access Bitcoin transaction data, wallet information, and blockchain statistics.</details> | None | Easy |
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
 | [Binance API](https://www.binance.com/en/binance-api) | <details><summary>Comprehensive crypto exchange API</summary>Provides endpoints for spot, margin, futures, and options trading across 300+ coins with high‑performance real-time data and order execution.</details> | API Key | Medium |
 | [Brave New Coin API](https://bravenewcoin.com/developers) | <details><summary>Global digital asset market data</summary>Provides real-time and historical price indices, trading data, and analytics from 250+ exchanges via REST and WebSocket feeds.</details> | API Token | Medium |
 | [Coinbase API](https://docs.cdp.coinbase.com/coinbase-app/docs/auth/api-key-authentication) | <details><summary>Retail & institutional crypto trading</summary>Offers account management, market data, and trading endpoints; requires API key, secret, and passphrase—supports both wallet and exchange operations.</details> | API Key + Secret + Passphrase | Medium |
