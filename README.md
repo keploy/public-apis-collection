@@ -179,10 +179,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
-| [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
 | [AnimeChan](https://animechan.io/) | <details><summary>Random anime quotes</summary>Access over 10,000 quotes from a wide variety of anime titles and characters.</details> | None | Easy |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | <details><summary>Anime industry news</summary>Fetch industry-related news, staff, and anime information directly from ANN’s database.</details> | None | Medium |
-| [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [MangaDex](https://api.mangadex.org/docs/) | <details><summary>Manga database and community</summary>Provides multilingual manga data, scanlations, user content, and reading statistics.</details> | apiKey | Medium |
 | [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2) | <details><summary>Official API for MyAnimeList</summary>Manage and access anime/manga lists, reviews, and user profiles.</details> | OAuth | Medium |
 | [NekosBest](https://docs.nekos.best/) | <details><summary>Anime image and reaction API</summary>Serve reaction images and GIFs for anime roleplaying bots and fan apps.</details> | None | Easy |
