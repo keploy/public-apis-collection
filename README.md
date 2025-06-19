@@ -325,6 +325,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+| [IP-API](https://ip-api.com/docs/) | <details><summary>Free IP geolocation and network information API</summary>Returns location data (country, city, latitude/longitude), timezone, ISP, and more for any IPv4 or IPv6 address. Useful for personalization, analytics, or fraud prevention. No API key required. Free tier limited to 45 requests/minute and supports only HTTP.</details> | None | Easy |
 
 ---
 
