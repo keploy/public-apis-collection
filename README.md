@@ -460,6 +460,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
+| [Bored API](https://www.boredapi.com/api/activity) | <details><summary>Returns random fun activity suggestions</summary>Useful for demo projects, hackathons, or practicing API integrations.</details> | None | Easy |
+
 
 ---
 
