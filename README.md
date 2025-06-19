@@ -179,7 +179,15 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
-
+| [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
+| [AnimeChan](https://animechan.io/) | <details><summary>Random anime quotes</summary>Access over 10,000 quotes from a wide variety of anime titles and characters.</details> | None | Easy |
+| [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | <details><summary>Anime industry news</summary>Fetch industry-related news, staff, and anime information directly from ANN’s database.</details> | None | Medium |
+| [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
+| [MangaDex](https://api.mangadex.org/docs/) | <details><summary>Manga database and community</summary>Provides multilingual manga data, scanlations, user content, and reading statistics.</details> | apiKey | Medium |
+| [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2) | <details><summary>Official API for MyAnimeList</summary>Manage and access anime/manga lists, reviews, and user profiles.</details> | OAuth | Medium |
+| [NekosBest](https://docs.nekos.best/) | <details><summary>Anime image and reaction API</summary>Serve reaction images and GIFs for anime roleplaying bots and fan apps.</details> | None | Easy |
+| [Shikimori API](https://shikimori.one/api/doc) | <details><summary>Anime tracking and discovery</summary>Get anime, manga, character, and user rating data along with forums and social info.</details> | OAuth | Medium |
+| [Trace.moe](https://soruly.github.io/trace.moe-wiki/) | <details><summary>Reverse search anime scenes</summary>Identify the anime, episode, and timestamp using a single screenshot.</details> | None | Easy |
 ---
 
 ## Anti-Malware & Security
@@ -207,6 +215,13 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [CoinGecko](https://www.coingecko.com/en/api) | <details><summary>Cryptocurrency data including prices, market cap, and trading volume</summary>Get real-time crypto prices, historical data, market trends, and coin information for building crypto applications.</details> | None | Easy |
 | [Blockchain.info](https://www.blockchain.com/api) | <details><summary>Bitcoin blockchain data and statistics</summary>Access Bitcoin transaction data, wallet information, and blockchain statistics.</details> | None | Easy |
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Binance API](https://www.binance.com/en/binance-api) | <details><summary>Comprehensive crypto exchange API</summary>Provides endpoints for spot, margin, futures, and options trading across 300+ coins with high‑performance real-time data and order execution.</details> | API Key | Medium |
+| [Brave New Coin API](https://bravenewcoin.com/developers) | <details><summary>Global digital asset market data</summary>Provides real-time and historical price indices, trading data, and analytics from 250+ exchanges via REST and WebSocket feeds.</details> | API Token | Medium |
+| [Coinbase API](https://docs.cdp.coinbase.com/coinbase-app/docs/auth/api-key-authentication) | <details><summary>Retail & institutional crypto trading</summary>Offers account management, market data, and trading endpoints; requires API key, secret, and passphrase—supports both wallet and exchange operations.</details> | API Key + Secret + Passphrase | Medium |
+| [CoinDCX API](https://docs.coindcx.com/) | <details><summary>India-based INR crypto trading</summary>Liquid, low-latency REST APIs for spot and futures, market data, and trading on 700+ markets (INR/crypto and crypto/crypto).</details> | API Key | Medium |
+| [Gemini API](https://docs.gemini.com/rest-api/) | <details><summary>US-based crypto exchange platform</summary>Provides secure account, order, and market data endpoints; supports both REST and FIX; strict rate limits and robust request signing are required.</details> | API Key + Secret | Medium |
 
 ---
 
@@ -316,6 +331,16 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [RAWG](https://rawg.io/apidocs) | <details><summary>Video game database with ratings, screenshots, and metadata</summary>Build gaming applications with comprehensive video game data, reviews, and media.</details> | API Key | Easy |
 | [Comic Vine](https://comicvine.gamespot.com/api/) | <details><summary>Comic book database with characters, issues, and publishers</summary>Access comic book information for building comic databases and recommendation systems.</details> | API Key | Medium |
+| [AmiiboAPI](https://amiiboapi.com/docs/) | <details><summary>Amiibo character data</summary>Read-only REST API providing details on Amiibo figures, series, characters, and release usage. Great for game‑related trivia or collection apps.</details> | None | Easy |
+| [Chess.com API](https://support.chess.com/en/articles/9650547-published-data-api) | <details><summary>Public chess data access</summary>REST JSON‑LD API for player profiles, game archives, club & tournament info. Read‑only; no private data.</details> | None | Easy |
+| [Clash Royale API](https://developer.clashroyale.com/) | <details><summary>Official Clash Royale data</summary>Provides player stats, clan info, leaderboards, card data, and tournaments via REST with token‑based auth.</details> | API Key | Medium |
+| [Clash of Clans API](https://developer.clashofclans.com/) | <details><summary>Official Clash of Clans endpoints</summary>Access clan searches, leaderboards, player and clan profiles, wars, raids; uses JWT Bearer tokens.</details> | Token | Medium |
+| [Disney API](https://disneyapi.dev/docs/) | <details><summary>Disney characters & media</summary>REST & GraphQL API delivering Disney character metadata, films, TV shows, games, and attractions.</details> | None | Easy |
+| [Fortnite-API](https://fortnite-api.com/) | <details><summary>Fortnite cosmetic/shop & stats</summary>Extensive REST API for cosmetics, daily shop, player stats, news, game modes; community‑driven with token‑based auth.</details> | API Key | Medium |
+| [Genshin Impact API](https://publicapi.dev/genshin-impact-api) | <details><summary>Genshin Impact game data</summary>Unofficial REST API providing characters, weapons, artifacts, stats, and other static game data.</details> | None | Easy |
+| [Lichess API](https://lichess.org/api) | <details><summary>Free, open-source chess server API</summary>Access user profiles, game archives, tournaments, live game streams, and bot endpoints. Great for building analysis tools, custom clients, and tournament integrations.</details> | OAuth | Medium |
+| [Raider API](https://genshinlist.com/developer-api) | <details><summary>Alternate Genshin game data</summary>REST API (genshinlist.com) offering characters, weapon, and artifact endpoints; requires credit & non‑competing policy.</details> | None | Medium |
+
 
 ---
 
@@ -343,6 +368,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+| [Nutritionix API](https://developer.nutritionix.com/docs/v2) | <details><summary>Nutrition & food database</summary>Search branded and generic foods, fetch nutrition facts, serving sizes, UPC lookups, and natural language meal parsing.</details> | API Key | Medium |
 
 ---
 
@@ -361,6 +387,15 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Napster API](https://developer.prod.napster.com/) | <details><summary>Comprehensive music catalog & playback API</summary>Access millions of tracks, artist metadata, user playlists, favorites, play counts, and more for building streaming apps.</details> | apiKey | Medium |
+| [Musixmatch API](https://developer.musixmatch.com/) | <details><summary>Huge lyrics database</summary>Search and retrieve licensed lyrics and translations for millions of songs, sync lyrics with media playback.</details> | API Key | Medium |
+| [SoundCloud API](https://developers.soundcloud.com/docs/api/guide) | <details><summary>Audio upload, insights & discovery</summary>Build apps leveraging user-uploaded tracks, comments, playlists, user profiles, and search/explore features on SoundCloud.</details> | OAuth (client_id/client_secret) | Medium |
+| [Mixcloud API](https://www.mixcloud.com/developers/) | <details><summary>Podcasts & DJ mix data</summary>Fetch user profiles, cloudcasts, tags, playlists, and embed/stream content from Mixcloud.</details> | OAuth | Medium |
+| [TheAudioDB API](https://www.theaudiodb.com/free_music_api) | <details><summary>Community-driven music metadata</summary>Retrieve artist info, albums, tracks, images, and music videos; free tier with test key (“2”).</details> | API Key (test-level free) | Easy |
+| [Shazam (via ShazamKit / third-party)](https://developer.apple.com/shazamkit/) | <details><summary>Music recognition & discovery</summary>Use Shazam’s audio recognition in apps to identify songs, access metadata, lyrics, artist info, and match audio from mic or file.</details> | SDK Key | Medium |
+
 
 ---
 
@@ -370,6 +405,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [New York Times API](https://developer.nytimes.com/apis) | <details><summary>Access NYT news content & data</summary>Retrieve articles, movie reviews, book bestsellers, real‑time political data, archives, and more from The New York Times’ various endpoints.</details> | API Key | Medium |
+| [The Guardian Open Platform](https://open-platform.theguardian.com/documentation/) | <details><summary>Full‑text articles & metadata</summary>Search and retrieve content, tags, sections, images, and multimedia from The Guardian’s archive and live site.</details> | API Key | Medium |
+| [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
 
 ---
 
@@ -424,6 +462,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
+| [Wolfram Alpha API](https://products.wolframalpha.com/api/) | <details><summary>Computational knowledge engine</summary>Submit queries to get structured data, charts, or plain‑text answers across math, science, culture, history, and more.</details> | API Key | Hard |
 
 ---
 
