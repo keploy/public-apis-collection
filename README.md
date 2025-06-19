@@ -273,6 +273,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
+| [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
 
 ---
 
@@ -401,7 +402,6 @@ Most requested APIs for common application features:
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
 | [New York Times API](https://developer.nytimes.com/apis) | <details><summary>Access NYT news content & data</summary>Retrieve articles, movie reviews, book bestsellers, real‑time political data, archives, and more from The New York Times’ various endpoints.</details> | API Key | Medium |
 | [The Guardian Open Platform](https://open-platform.theguardian.com/documentation/) | <details><summary>Full‑text articles & metadata</summary>Search and retrieve content, tags, sections, images, and multimedia from The Guardian’s archive and live site.</details> | API Key | Medium |
-| [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
 
 ---
 
