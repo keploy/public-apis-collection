@@ -198,6 +198,8 @@ Most requested APIs for common application features:
 | [Unsplash](https://unsplash.com/developers) | <details><summary>High-quality stock photography</summary>Access millions of free high-resolution photos for your applications, websites, and projects.</details> | API Key | Easy |
 | [Lorem Picsum](https://picsum.photos/) | <details><summary>Lorem Ipsum for photos - placeholder images</summary>Generate placeholder images of any size for mockups and development.</details> | None | Easy |
 | [Art Institute of Chicago](https://api.artic.edu/docs/) | <details><summary>Access to museum's art collection and data</summary>Browse thousands of artworks, artist information, and exhibition data from one of the world's premier art museums.</details> | None | Easy |
+| [xColors](https://github.com/cheatsnake/xColors-api) | <details><summary>A free API for generating & converting colors</summary>Easily generate and convert color formats like HEX, RGB, and HSL with a simple, free API.</details> | None | Easy |
+| [EmojiHub](https://github.com/cheatsnake/emojihub) | <details><summary>Access random emojis from sorted categories and groups</summary>Access random emojis from sorted categories, group, with addition to full emoji lists or the entire database. All in simple JSON format with HTML codes ready for web use.</details> | None | Easy |
 
 ---
 
