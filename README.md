@@ -75,6 +75,7 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Neon](https://neon.tech/docs/reference/api-reference) | <details><summary>Serverless PostgreSQL database with branching</summary>Build applications with modern PostgreSQL features, automatic scaling, and database branching for development workflows.</details> | API Key | Medium |
 | [Railway](https://docs.railway.app/reference/public-api) | <details><summary>Infrastructure platform for deploying applications</summary>Deploy and manage applications, databases, and services with automatic scaling and built-in monitoring. Perfect for full-stack applications.</details> | API Key | Easy |
 | [Linear](https://developers.linear.app/docs/graphql/working-with-the-graphql-api) | <details><summary>Project management and issue tracking platform</summary>Build productivity tools, project dashboards, and workflow automation. Integrate with development workflows and team management systems.</details> | API Key | Medium |
+| [Medium RSS to JSON](https://rss2json.com) | Fetch Medium blog posts using RSS feed parsed as JSON (example: `@eatulrajput`) | Not Required | Easy |
 
 ---
 
