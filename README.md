@@ -460,6 +460,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
+| [Cat Facts](https://catfact.ninja/) | <details><summary>Random cat facts for applications</summary>Get daily cat facts and trivia for pet applications, educational content, or just for fun. Perfect for adding engaging content to apps and learning about our feline friends. Provides JSON responses with fact text and length.</details> | None | Easy |
+| [CoinGecko](https://api.coingecko.com/api/v3/) | <details><summary>Cryptocurrency prices and market data</summary>Get real-time cryptocurrency prices, market cap, trading volume, and historical data for building crypto tracking apps and financial dashboards. Free tier includes comprehensive market data.</details> | None | Easy |
+| [Advice Slip](https://api.adviceslip.com/) | <details><summary>Random advice and motivational quotes</summary>Get random pieces of advice and motivational quotes for lifestyle apps, daily inspiration features, and personal development applications. Simple JSON responses with advice text.</details> | None | Easy |
 
 ---
 
