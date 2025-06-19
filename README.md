@@ -592,3 +592,7 @@ Here are some powerful API combinations that work great together:
     <a href="https://twitter.com/keployio">🐦 Follow on Twitter</a>
   </p>
 </div>
+- **Cat Facts API** – Free API for random cat facts.  
+  **Auth:** No  
+  **HTTPS:** Yes  
+  **Link:** https://catfact.ninja/fact
