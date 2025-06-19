@@ -577,10 +577,10 @@ Here are some powerful API combinations that work great together:
 
 ## 🙏 Acknowledgments
 
-- Thanks to all API providers for offering free access to their services
-- Community contributors who help maintain and expand this list
-- Developers who use these APIs to build amazing applications
-- To all the API fellows from the Keploy API Fellowship program for their research and contributions to the community
+- Thanks to all API providers for offering free access to their services.
+- Community contributors who help maintain and expand this list.
+- Developers who use these APIs to build amazing applications.
+- To all the API fellows from the Keploy API Fellowship program for their research and contributions to the community.
 
 ---
 
