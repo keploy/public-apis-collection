@@ -165,11 +165,13 @@ Most requested APIs for common application features:
 
 ## Animals
 
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
-| [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
-| [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
+| API                                       | Description                                                                                                                                                            | Auth     | Difficulty |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
+| [Dog API](https://dog.ceo/dog-api/)       | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None     | Easy       |
+| [Cat API](https://thecatapi.com/)         | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy       |
+| [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details>                                                      | None     | Easy       |
+| [Capy](https://capy.lol/)                 | <details><summary>Capybara Images</summary>capybara-api is a sweet, cute, fast API to get a whole bunch of images or a random image of a capybara</details>| None     | Easy       |      
+
 
 ---
 
