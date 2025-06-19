@@ -225,6 +225,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [ExchangeRate API](https://api.exchangerate.host) | <details><summary>Free currency exchange rate data</summary>Provides current and historical foreign exchange rates for multiple currencies with no auth required.</details> | No | Easy |
+
+
 
 ---
 
