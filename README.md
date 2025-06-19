@@ -169,6 +169,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
+| [Cat Facts API](https://catfact.ninja/) | <details><summary>Fun cat facts</summary>Provides random cat facts for trivia apps, games, or animal-related content.</details> | None | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
 
 ---
@@ -280,6 +281,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+[JokeAPI](https://v2.jokeapi.dev/) | <details><summary>Developer jokes API</summary>Get programming jokes and general humor with category filters and NSFW toggle.</details> | None | Easy |
+
 
 ---
 
@@ -307,6 +310,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Spoonacular](https://spoonacular.com/food-api) | <details><summary>Food and recipe data with nutrition information</summary>Build recipe apps, meal planners, and nutrition trackers with detailed food and recipe data.</details> | API Key | Easy |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | <details><summary>Cocktail recipes and drink information</summary>Get cocktail recipes, ingredients, and drink information for building bar and recipe applications.</details> | None/API Key | Easy |
+[Open Brewery DB](https://www.openbrewerydb.org/) | <details><summary>Breweries in the US</summary>Find breweries by type, name, or location across the US.</details> | None | Easy |
+
 
 ---
 
@@ -325,6 +330,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+[IP Geolocation API](http://ip-api.com/json) | <details><summary>Get location by IP</summary>Returns city, country, ZIP code, and geo-coordinates from an IP address.</details> | None | Easy |
+| [PositionStack](https://positionstack.com/) | <details><summary>Forward and reverse geocoding</summary>Convert addresses to coordinates (and vice versa) using a scalable and reliable location API.</details> | API Key | Medium |
+
+
 
 ---
 
@@ -361,6 +370,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
+| [AudioDB](https://www.theaudiodb.com/api_guide.php) | <details><summary>Music artist and album data</summary>Search for artists, albums, tracks, and music videos — includes artwork and biography details.</details> | API Key | Easy |
+
 
 ---
 
@@ -370,6 +381,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [Aylien News API](https://developer.aylien.com/newsapi) | <details><summary>AI-powered news analysis</summary>Search and analyze global news stories using NLP: filter by entities, categories, sentiment, and more.</details> | API Key | Medium |
+
 
 ---
 
@@ -469,6 +482,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
+| [Twinword Text Analysis API](https://www.twinword.com/api/text-analysis.php) | <details><summary>Multi-feature text analysis (sentiment, emotion, keyword, etc.)</summary>Analyze text to extract keywords, check grammar, detect topics, measure readability, and classify sentiment/emotions using NLP models.</details> | API Key | Medium |
+| [DeepAI Text Generator](https://deepai.org/machine-learning-model/text-generator) | <details><summary>GPT-based text generation</summary>Generate realistic and human-like text based on a given prompt using DeepAI’s generative language model.</details> | API Key | Medium |
+
+
 
 ---
 
@@ -488,6 +505,8 @@ Most requested APIs for common application features:
 | [Amadeus](https://developers.amadeus.com/) | <details><summary>Flight search, hotel booking, and travel data</summary>Build travel applications with flight search, hotel availability, and destination information.</details> | API Key | Medium |
 | [Rome2rio](https://www.rome2rio.com/documentation/) | <details><summary>Multi-modal transport search and routing</summary>Find transportation options between destinations including flights, trains, buses, and driving directions.</details> | API Key | Medium |
 | [Skyscanner](https://developers.skyscanner.net/) | <details><summary>Flight search and travel booking platform</summary>Search flights, compare prices, and access travel data for building travel booking applications.</details> | API Key | Medium |
+| [AviationStack](https://aviationstack.com/) | <details><summary>Real-time flight data</summary>Access live flight status, airline routes, airport data, and historical flights from around the world.</details> | API Key | Medium |
+
 
 ---
 
