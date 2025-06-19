@@ -382,6 +382,9 @@ Most requested APIs for common application features:
 
 ---
 
+| [IPify](https://www.ipify.org/) | Simple public IP address API for IP address lookup | None | Easy |
+
+
 ## Open Source Projects
 
 | API | Description | Auth | Difficulty |
