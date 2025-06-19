@@ -253,6 +253,9 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [UptimeRobot](https://uptimerobot.com/api) | <details><summary>Website and API uptime monitoring service with alerting</summary>Monitor the uptime, downtime, and performance of websites and APIs with automated alerts. Great for monitoring deployed apps during development and production.</details> | API Key | Easy |
+
+
 
 ---
 
