@@ -307,6 +307,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Spoonacular](https://spoonacular.com/food-api) | <details><summary>Food and recipe data with nutrition information</summary>Build recipe apps, meal planners, and nutrition trackers with detailed food and recipe data.</details> | API Key | Easy |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | <details><summary>Cocktail recipes and drink information</summary>Get cocktail recipes, ingredients, and drink information for building bar and recipe applications.</details> | None/API Key | Easy |
+| [TheMealDB](https://www.themealdb.com/api.php) | <details><summary>Free crowd‑sourced global recipe database</summary>Search meals by name/ingredient, get full recipe details including category, area, instructions, and thumbnail images.</details> | None/API Key | Easy |
 
 ---
 
