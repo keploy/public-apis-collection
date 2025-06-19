@@ -560,7 +560,7 @@ Here are some powerful API combinations that work great together:
 
 1. **Start with Easy APIs**: Begin with APIs marked as "Easy" to get familiar with API integration
 2. **Read the Documentation**: Always check the official documentation for rate limits, authentication, and best practices
-3. **Test in Postman**: Use tools like Postman or Insomnia to test APIs before implementing them in your code
+3. **Test in Postman**: Use tools like [Postman](https://www.postman.com/downloads/) or [Insomnia](https://insomnia.rest/) to test APIs before implementing them in your code
 4. **Handle Errors Gracefully**: Always implement proper error handling and respect rate limits
 5. **Keep API Keys Secure**: Never expose API keys in client-side code or public repositories
 
