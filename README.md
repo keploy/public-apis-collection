@@ -75,7 +75,6 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Neon](https://neon.tech/docs/reference/api-reference) | <details><summary>Serverless PostgreSQL database with branching</summary>Build applications with modern PostgreSQL features, automatic scaling, and database branching for development workflows.</details> | API Key | Medium |
 | [Railway](https://docs.railway.app/reference/public-api) | <details><summary>Infrastructure platform for deploying applications</summary>Deploy and manage applications, databases, and services with automatic scaling and built-in monitoring. Perfect for full-stack applications.</details> | API Key | Easy |
 | [Linear](https://developers.linear.app/docs/graphql/working-with-the-graphql-api) | <details><summary>Project management and issue tracking platform</summary>Build productivity tools, project dashboards, and workflow automation. Integrate with development workflows and team management systems.</details> | API Key | Medium |
-| [Bored API](https://www.boredapi.com/api/) | <details><summary>Get random fun activities to do when you're bored</summary>Great for entertainment apps or generating activity ideas for users. Returns activity suggestions with categories like education, relaxation, and social.</details> | No | Easy |
 | [Fun Translations API](https://api.funtranslations.com/translate/) | <details><summary>Translate text into fun and fictional languages</summary>Supports Yoda Speak, Shakespeare, Pirate, and more. Perfect for playful apps or themed user experiences.</details> | Optional (for limited use) | Easy |
 | [Evil Insult Generator](https://evilinsult.com/api/generate_insult.php) | <details><summary>Generate humorous and creative insults</summary>Great for prank or fun apps. Returns random, witty insults with an optional language parameter.</details> | No | Easy |
 | [Numbers API](https://numbersapi.com/) | <details><summary>Get interesting facts about numbers, dates, and years</summary>Returns trivia, math facts, historical events, and more. Fun for educational apps or trivia games.</details> | No | Easy |
@@ -192,7 +191,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
-| [Shodan API](https://developer.shodan.io/api) | <details><summary>Search engine for internet-connected devices</summary>Find servers, routers, webcams, or IoT devices exposed online. Used for security auditing, research, or network mapping.</details> | API Key | Medium |
 
 ---
 
