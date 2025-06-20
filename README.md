@@ -170,6 +170,8 @@ Most requested APIs for common application features:
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
+| [Cat Facts](https://catfact.ninja) | <details><summary>Daily cat facts</summary>Get random cat facts to use in fun, educational, or animal-related apps. Great for trivia, pet blogs, or learning tools.</details> | None | Easy |
+
 
 ---
 
