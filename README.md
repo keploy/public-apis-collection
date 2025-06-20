@@ -170,6 +170,7 @@ Most requested APIs for common application features:
 | [Dog API](https://dog.ceo/dog-api/) | <details><summary>Collection of dog images by breed</summary>Get random dog images, images by breed, and breed information for pet applications or fun projects.</details> | None | Easy |
 | [Cat API](https://thecatapi.com/) | <details><summary>Cat images, facts, and breed information</summary>Access thousands of cat images, breed data, and fun cat facts for pet-related applications.</details> | Optional | Easy |
 | [Random Fox](https://randomfox.ca/floof/) | <details><summary>Random fox images</summary>Get cute fox images for your applications or just for fun!</details> | None | Easy |
+| [Shibe Online API](http://shibe.online/) | <details><summary>Random pictures of shibes, cats, and birds</summary>Great for pet-themed apps and generating cute animal images randomly.</details> | None | Easy |
 
 ---
 
@@ -216,6 +217,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Open Library](https://openlibrary.org/developers/api) | <details><summary>Book data from Internet Archive's Open Library</summary>Search books, get book information, covers, and author details for building library applications and book catalogs.</details> | None | Easy |
 | [Google Books](https://developers.google.com/books) | <details><summary>Search and access book information from Google's book database</summary>Build book search engines, reading lists, and book recommendation systems.</details> | API Key | Easy |
+| [Gutendex](https://gutendex.com/) | <details><summary>API for Project Gutenberg’s free eBook collection</summary>Search, browse, and retrieve metadata of public domain books from Project Gutenberg.</details> | None | Easy |
 
 ---
 
