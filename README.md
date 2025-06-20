@@ -75,6 +75,10 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Neon](https://neon.tech/docs/reference/api-reference) | <details><summary>Serverless PostgreSQL database with branching</summary>Build applications with modern PostgreSQL features, automatic scaling, and database branching for development workflows.</details> | API Key | Medium |
 | [Railway](https://docs.railway.app/reference/public-api) | <details><summary>Infrastructure platform for deploying applications</summary>Deploy and manage applications, databases, and services with automatic scaling and built-in monitoring. Perfect for full-stack applications.</details> | API Key | Easy |
 | [Linear](https://developers.linear.app/docs/graphql/working-with-the-graphql-api) | <details><summary>Project management and issue tracking platform</summary>Build productivity tools, project dashboards, and workflow automation. Integrate with development workflows and team management systems.</details> | API Key | Medium |
+| [Bored API](https://www.boredapi.com/api/) | <details><summary>Get random fun activities to do when you're bored</summary>Great for entertainment apps or generating activity ideas for users. Returns activity suggestions with categories like education, relaxation, and social.</details> | No | Easy |
+| [Fun Translations API](https://api.funtranslations.com/translate/) | <details><summary>Translate text into fun and fictional languages</summary>Supports Yoda Speak, Shakespeare, Pirate, and more. Perfect for playful apps or themed user experiences.</details> | Optional (for limited use) | Easy |
+| [Evil Insult Generator](https://evilinsult.com/api/generate_insult.php) | <details><summary>Generate humorous and creative insults</summary>Great for prank or fun apps. Returns random, witty insults with an optional language parameter.</details> | No | Easy |
+| [Numbers API](https://numbersapi.com/) | <details><summary>Get interesting facts about numbers, dates, and years</summary>Returns trivia, math facts, historical events, and more. Fun for educational apps or trivia games.</details> | No | Easy |
 
 ---
 
@@ -188,6 +192,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
+| [Shodan API](https://developer.shodan.io/api) | <details><summary>Search engine for internet-connected devices</summary>Find servers, routers, webcams, or IoT devices exposed online. Used for security auditing, research, or network mapping.</details> | API Key | Medium |
 
 ---
 
@@ -225,6 +230,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [Frankfurter API](https://api.frankfurter.dev/) | <details><summary>Free currency conversion and exchange rate API</summary>Provides real-time and historical exchange rates between currencies. Lightweight and ideal for financial apps or travel apps.</details> | No | Easy |
+| [People Data Labs](https://docs.peopledatalabs.com/) | <details><summary>Enriches people profiles with professional data</summary>Use email or LinkedIn to find job title, location, skills, company, and more. Ideal for recruiting, HR, and lead generation tools.</details> | API Key | Medium |
 
 ---
 
@@ -280,6 +287,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [Breaking Bad Quotes API](https://breakingbadquotes.xyz/) | <details><summary>Returns random quotes from Breaking Bad</summary>Perfect for fan-based apps or quote generators. Returns a quote and the speaker.</details> | No | Easy |
+| [The Rick and Morty API](https://rickandmortyapi.com/) | <details><summary>Get data from the Rick and Morty universe</summary>Characters, locations, episodes, and relationships with a robust query system. Useful for building fan-based UIs or games.</details> | No | Easy |
+| [Star Wars API (SWAPI)](https://swapi.dev/) | <details><summary>Access Star Wars universe data</summary>Retrieve structured data on characters, planets, starships, and more. Popular in tutorials and fan apps.</details> | No | Easy |
+| [Marvel Comics API](https://developer.marvel.com/) | <details><summary>Access Marvel characters, comics, stories, and events</summary>Official API for developers to integrate Marvel universe data into their apps. Requires registration.</details> | API Key | Medium |
 
 ---
 
@@ -289,6 +300,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Open-Meteo API](https://open-meteo.com/) | <details><summary>Free weather forecast API with no API key</summary>Lightweight weather forecast by latitude and longitude. Perfect for quick integrations without rate limits or auth.</details> | No | Easy |
 
 ---
 
@@ -370,6 +382,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [WebHose API](https://webhose.io/) | <details><summary>Aggregates news, blog, and forum content in real time</summary>Filter by language, sentiment, keyword, site type, etc. Useful for trend tracking and content analysis tools.</details> | API Key | Medium |
 
 ---
 
@@ -379,6 +392,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | <details><summary>Global development data and statistics</summary>Access economic, social, and development indicators for countries worldwide.</details> | None | Easy |
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
+| [DataCommons API](https://datacommons.org/) | <details><summary>Open access to aggregated public data</summary>Get census, demographics, economy, and health data across different locations. Great for data visualization or policy apps.</details> | No | Medium |
 
 ---
 
