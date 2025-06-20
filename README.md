@@ -126,6 +126,7 @@ Most requested APIs for common application features:
 - [📰 **News & Journalism**](#news--journalism)
 - [📊 **Open Data & Analytics**](#open-data--analytics)
 - [🔓 **Open Source Projects**](#open-source-projects)
+- [🎙️ **Podcasting**](#podcasting)
 - [📱 **Phone & SMS**](#phone--sms)
 - [📸 **Photography & Images**](#photography--images)
 - [💻 **Programming & Code**](#programming--code)
@@ -388,6 +389,19 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Libraries.io](https://libraries.io/api) | <details><summary>Open source package and dependency data</summary>Track open source projects, dependencies, and package information across multiple package managers.</details> | API Key | Easy |
 | [GitLab API](https://docs.gitlab.com/ee/api/) | <details><summary>GitLab project and repository management</summary>Access GitLab repositories, issues, merge requests, and CI/CD data for building developer tools.</details> | OAuth/Token | Medium |
+
+---
+
+## Podcasting
+
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Listen Notes](https://www.listennotes.com/api/docs/) | <details><summary>The most comprehensive podcast database. Search for podcasts, episodes, and even listen to audio clips.</summary>This API is often called the "Google of podcasts." It allows you to build podcast players, discovery platforms, or analytical tools.</details> | API Key | Easy |
+| [Podcast Index](https://podcastindex-org.github.io/docs-api/) | <details><summary>An open, developer-friendly podcast database. Focused on preserving podcasting as a platform for free speech.</summary>Provides a free and open alternative for accessing podcast metadata, including feeds, episodes, and categories.</details> | API Key | Easy |
+| [Podbean](https://developers.podbean.com/) | <details><summary>Podcast hosting and management platform with a free plan and a 14-day free trial for premium features.</summary>Allows programmatic management of podcasts, episodes, stats, and publishing workflows.</details> | API Key | Easy |
+| [Anchor (Spotify for Podcasters)](https://podcasters.spotify.com/) | <details><summary>Free podcast hosting and distribution platform by Spotify.</summary>Allows unlimited uploads, analytics, and one-step distribution to Spotify and other platforms. API access for episode management and analytics.</details> | Account | Easy |
+| [Transistor](https://developers.transistor.fm/) | <details><summary>Professional podcast hosting with a free trial and a comprehensive API.</summary>API allows uploading episodes, managing analytics, and more. Free trial available for new users.</details> | API Key | Easy |
 
 ---
 
