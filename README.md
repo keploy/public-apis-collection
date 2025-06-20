@@ -280,6 +280,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [Breaking Bad Quotes API](https://breakingbadquotes.xyz/) | <details><summary>Returns random quotes from Breaking Bad</summary>Perfect for fan-based apps or quote generators. Returns a quote and the speaker.</details> | None | Easy |
+| [The Rick and Morty API](https://rickandmortyapi.com/) | <details><summary>Get data from the Rick and Morty universe</summary>Characters, locations, episodes, and relationships with a robust query system. Useful for building fan-based UIs or games.</details> | None | Easy |
+| [Star Wars API (SWAPI)](https://swapi.dev/) | <details><summary>Access Star Wars universe data</summary>Retrieve structured data on characters, planets, starships, and more. Popular in tutorials and fan apps.</details> | None | Easy |
+| [Marvel Comics API](https://developer.marvel.com/) | <details><summary>Access Marvel characters, comics, stories, and events</summary>Official API for developers to integrate Marvel universe data into their apps. Requires registration.</details> | API Key | Easy |
 
 ---
 
