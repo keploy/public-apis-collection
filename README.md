@@ -397,6 +397,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Twilio](https://www.twilio.com/docs/api) | <details><summary>SMS, voice, and communication services</summary>Send SMS messages, make voice calls, and build communication features into your applications.</details> | API Key | Easy |
 | [TextBelt](https://textbelt.com/) | <details><summary>Free SMS API for sending text messages</summary>Send SMS messages programmatically with a simple REST API.</details> | None/API Key | Easy |
+| [Vonage](https://developer.vonage.com/) | <details><summary>SMS, Voice, Video and Verification APIs</summary>Add messaging, voice calls, video conferencing, and 2FA verification to applications. Supports global number provisioning and advanced communication workflows.</details> | API Key | Medium |
 
 ---
 
