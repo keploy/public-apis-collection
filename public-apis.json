@@ -1,0 +1,11 @@
+[
+  {
+    "API": "Imgflip Meme Generator",
+    "Description": "API to generate and get memes with customizable templates",
+    "Auth": "No",
+    "HTTPS": true,
+    "Cors": "yes",
+    "Link": "https://api.imgflip.com/",
+    "Category": "Fun"
+  }
+]
