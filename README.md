@@ -179,6 +179,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
+| [Dragon Ball API](https://dragon-ball-api-grlr.onrender.com) | <details><summary>Custom-built API for Dragon Ball fans</summary>A fully functional, free-to-use API with real CRUD support—not just pseudo responses. Users can perform real operations like delete/reset, and the server restores to its base state within milliseconds. Built with Express.js, TypeScript, MongoDB, and JWT authentication. Perfect for learning and testing full-stack API interactions. [Docs](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)</details> | JWT (Admin) | Medium |
+
 
 ---
 
@@ -188,6 +190,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
+| [Dragon Ball API](https://dragon-ball-api-grlr.onrender.com) | <details><summary>Custom-built API for Dragon Ball fans</summary>Access, update, and manage Dragon Ball-themed questions. Includes full CRUD support, JWT-protected admin routes, and MongoDB backend. Built with Express.js and TypeScript.</details> | JWT (Admin) | Medium |
+
 
 ---
 
