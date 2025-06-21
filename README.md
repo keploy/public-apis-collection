@@ -89,7 +89,6 @@ Most requested APIs for common application features:
 | [Spotify Web API](https://developer.spotify.com/documentation/web-api/) | <details><summary>Access Spotify's music catalog, user playlists, and playback features</summary>Create music recommendation engines, playlist managers, music discovery apps, and audio analysis tools. Control playback and access user's music data.</details> | OAuth | Medium |
 | [Google Maps API](https://developers.google.com/maps) | <details><summary>Comprehensive mapping, geocoding, and location services</summary>Add interactive maps, location search, directions, and geolocation features to your applications. Perfect for delivery apps, store locators, and travel applications.</details> | API Key | Easy |
 | [SendGrid API](https://docs.sendgrid.com/api-reference) | <details><summary>Reliable email delivery service for transactional and marketing emails</summary>Send welcome emails, password resets, newsletters, and notifications. Includes email analytics, template management, and delivery optimization.</details> | API Key | Easy |
-| [OpenAI API](https://openai.com/api/) | <details><summary>Access to GPT models for building AI-powered chatbots, content generation, and intelligent applications</summary>Build ChatGPT-like interfaces, content generators, code assistants, and smart automation tools. Includes text generation, image creation, and code completion capabilities.</details> | API Key | Medium |
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 ---
@@ -158,6 +157,7 @@ Most requested APIs for common application features:
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
+| [Hugging Face Inference API](https://huggingface.co/inference-api) | <details><summary>Run ML models via API</summary>Run NLP, image, and audio ML models via simple HTTP calls. Use pretrained models from Hugging Face without any infra setup.</details> | API Key | Medium |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
 
@@ -253,6 +253,8 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [IPify](https://www.ipify.org/) | <details><summary>Get your public IP address</summary>Simple API to return your public IP address in JSON or plain text. Useful for diagnostics and logging.</details> | None | Easy |
+
 
 ---
 
@@ -325,6 +327,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+| [Zippopotam.us](http://api.zippopotam.us/) | <details><summary>Postal code geolocation API</summary>Retrieve location data (city, state, and country) based on postal codes across multiple countries. Great for geocoding-lite use cases or ZIP-to-location conversions.</details> | None | Easy |
+
 
 ---
 
@@ -495,7 +499,7 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [TinyURL](https://tinyurl.com/app/dev) | <details><summary>URL shortening service</summary>Create short URLs and track click statistics for link management applications.</details> | None | Easy |
+| [TinyURL](https://tinyurl.com/app/dev) | <details><summary>Shorten long URLs</summary>Use TinyURL’s API to programmatically shorten links for use in emails, websites, and SMS. Includes basic analytics.</details> | API Key | Easy |
 | [Bitly](https://dev.bitly.com/) | <details><summary>URL shortening with analytics and custom domains</summary>Shorten URLs, track clicks, and analyze link performance with detailed analytics.</details> | OAuth | Medium |
 | [Is.gd](https://is.gd/apishortenservice.php) | <details><summary>Simple URL shortening service</summary>Basic URL shortening without registration requirements.</details> | None | Easy |
 
