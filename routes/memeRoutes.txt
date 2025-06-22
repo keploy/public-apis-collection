@@ -1,0 +1,28 @@
+@'
+const express = require("express");
+const Meme = require("../models/Meme");
+const router = express.Router();
+
+router.get("/", async (req, res) => {
+  const memes = await Meme.find();
+  res.json(memes);
+});
+
+router.post("/", async (req, res) => {
+  const meme = new Meme(req.body);
+  await meme.save();
+  res.status(201).json(meme);
+});
+
+router.put("/:id", async (req, res) => {
+  const updated = await Meme.findByIdAndUpdate(req.params.id, req.body, { new: true });
+  res.json(updated);
+});
+
+router.delete("/:id", async (req, res) => {
+  await Meme.findByIdAndDelete(req.params.id);
+  res.status(204).send();
+});
+
+module.exports = router;
+'@ | Set-Content routes/memeRoutes.js
