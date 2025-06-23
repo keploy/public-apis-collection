@@ -253,6 +253,8 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [GoQR](https://goqr.me/api/) | <details><summary>Generate customizable QR codes via URL</summary>Create QR codes for text, URLs, and more with easy URL parameters. Useful for web apps, events, and product tagging.</details> | None | Easy |
+
 
 ---
 
