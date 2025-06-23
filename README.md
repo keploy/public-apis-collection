@@ -51,7 +51,7 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 | [Twilio API](https://www.twilio.com/docs/api) | <details><summary>Communication APIs for SMS, voice calls, video, and messaging features</summary>Add SMS notifications, voice calls, video conferencing, and WhatsApp messaging to your applications. Perfect for building communication platforms and notification systems.</details> | API Key | Easy |
-| [Playroom Kit](https://docs.playroom.dev/) | <details><summary>Multiplayer game development platform with real-time features</summary>Build multiplayer games with lobby systems, real-time state sync, voice chat, and player matching. Perfect for creating social games, party games, and collaborative gaming experiences.</details> | API Key | Medium |
+| [Playroom Kit](https://docs.joinplayroom.com/apidocs) | <details><summary>Multiplayer game development platform with real-time features</summary>Build multiplayer games with lobby systems, real-time state sync, voice chat, and player matching. Perfect for creating social games, party games, and collaborative gaming experiences.</details> | API Key | Medium |
 | [Twitter API v2](https://developer.twitter.com/en/docs/twitter-api) | <details><summary>Social media automation, bot creation, and analytics platform</summary>Create Twitter bots, social media schedulers, sentiment analysis tools, and automated content systems. Build social listening platforms and engagement automation.</details> | OAuth | Hard |
 | [Discord API](https://discord.com/developers/docs/intro) | <details><summary>Community and gaming platform integration</summary>Build Discord bots, server management tools, community platforms, and gaming integrations. Create automated moderation, custom commands, and interactive bot experiences.</details> | Bot Token | Medium |
 | [Clerk](https://clerk.com/docs) | <details><summary>Complete user management and authentication platform</summary>Add sign-up, sign-in, user profiles, and session management with beautiful pre-built UI components. Includes social logins, MFA, and user organization features.</details> | API Key | Easy |
@@ -350,7 +350,6 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [GitHub Jobs](https://jobs.github.com/api) | <details><summary>Developer job listings from GitHub</summary>Access tech job postings and build job search applications for developers.</details> | None | Easy |
 | [Adzuna](https://developer.adzuna.com/) | <details><summary>Job search data and salary information</summary>Get job listings, salary data, and employment statistics for building career platforms.</details> | API Key | Easy |
 
 ---
@@ -424,6 +423,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
+| [Where the ISS at?](https://wheretheiss.at/w/developer) | <details><summary>Current, past, or future position of the ISS</summary>Can get current, past, or future position of the ISS, timezone information about a set of coordinates, and also TLE data on the ISS.</details> | None | Easy |
 
 ---
 
