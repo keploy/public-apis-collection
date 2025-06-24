@@ -343,6 +343,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+| [Affirmations.dev](https://affirmations.dev/) | <details><summary>Positive self-affirmations</summary>API that returns simple, uplifting affirmations — ideal for apps focused on self-care and emotional health.</details> | None | Easy |
 
 ---
 
