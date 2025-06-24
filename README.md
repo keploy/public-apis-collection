@@ -582,7 +582,9 @@ Here are some powerful API combinations that work great together:
 - Developers who use these APIs to build amazing applications
 - To all the API fellows from the Keploy API Fellowship program for their research and contributions to the community
 
----
+---### Jokes APIs
+
+-| [JokeAPI](https://jokeapi.dev/) | <details><summary>Programming and general jokes in JSON</summary>Get random jokes, customize joke type and categories (programming, dark, pun, etc.). Supports safe mode, blacklist, and language selection.</details> | None | Easy |
 
 <div align="center">
   <p>Made with ❤️ by the Keploy Community and the API Fellows</p>
