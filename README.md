@@ -112,6 +112,7 @@ Most requested APIs for common application features:
 - [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
 - [🔧 **Development & Testing**](#development--testing)
 - [📖 **Dictionaries & Language**](#dictionaries--language)
+- [🌍 **Disaster Management & Safety**](#disaster--safety)
 - [📧 **Email & Communication**](#email--communication)
 - [🎬 **Entertainment & Media**](#entertainment--media)
 - [🌍 **Environment & Weather**](#environment--weather)
@@ -262,6 +263,16 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
+
+---
+
+## Disaster & Safety
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/) | <details><summary>Real-time earthquake data globally</summary>Provides real-time earthquake data such as magnitude, location, and time from the U.S. Geological Survey.</details> | None | Medium |
+| [ReliefWeb API](https://api.reliefweb.int/docs) | <details><summary>Humanitarian disaster alerts and data</summary>Offers curated humanitarian information including disaster updates, jobs, and reports published by UN and NGOs.</details> | None | Medium |
+| [Global Disaster Alert (GDACS)](https://www.gdacs.org/) | <details><summary>Alerts on earthquakes, floods, cyclones</summary>The Global Disaster Alert and Coordination System gives updates on natural disasters like earthquakes, floods, and cyclones.</details> | None | Medium |
 
 ---
 
