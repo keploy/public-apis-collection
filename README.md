@@ -501,6 +501,14 @@ Most requested APIs for common application features:
 
 ---
 
+## Fun & Entertainment
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | <details><summary>Random cat facts for fun applications</summary>Get entertaining and educational facts about cats. Perfect for building fun applications, chatbots, or just learning interesting tidbits about our feline friends.</details> | None | Easy |
+
+---
+
 ## Vehicle Information
 
 | API | Description | Auth | Difficulty |
