@@ -289,6 +289,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Open-Meteo](https://open-meteo.com/) | <details><summary>Weather forecasts with JSON API</summary>Global hourly weather forecast without requiring API key. Includes temperature, rain, wind, and more.</details> | No | Easy |
+
 
 ---
 
