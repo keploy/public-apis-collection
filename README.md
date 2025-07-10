@@ -167,6 +167,44 @@ Most requested APIs for common application features:
 
 ---
 
+## Weather & Environment
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [WeatherAPI](https://openweathermap.org/api) | Access weather forecast and current weather data | API Key | Easy |
+| [Weatherstack](https://weatherstack.com/) | <details><summary>Real-time weather data for any location worldwide</summary>Get temperature, wind speed, precipitation, and forecasts — great for dashboards and travel apps.</details> | API Key | Easy |
+
+## Maps & Location
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Zippopotam.us](http://www.zippopotam.us/) | <details><summary>Get location data by postal/ZIP codes for many countries</summary>Supports country-wise postal code queries to fetch city, state, and geographical info. Great for shipping forms, delivery tracking, and address validation.</details> | None | Easy |
+| [PositionStack](https://positionstack.com/) | <details><summary>Geocoding and reverse geocoding API</summary>Convert addresses into coordinates and vice versa. Useful for logistics, mapping apps, and location tracking.</details> | API Key | Medium |
+
+
+## IP & Network Tools
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [IPify](https://www.ipify.org/) | <details><summary>Get public IP address of the client device</summary>Useful for logging, analytics, geolocation, and showing user network details in applications.</details> | None | Easy |
+| [ipinfo.io](https://ipinfo.io/) | <details><summary>Provides IP geolocation and network information</summary>Returns data like city, region, country, location coordinates, organization, and timezone.</details> | API Key (Free Tier) | Easy |
+
+
+## Books & Education
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Open Library API](https://openlibrary.org/developers/api) | <details><summary>Access book data, authors, ISBN, covers, and more</summary>Build educational, cataloging, or book recommendation platforms using open access to millions of books from the Internet Archive.</details> | None | Medium |
+| [Google Books API](https://developers.google.com/books/) | <details><summary>Search and access millions of books with metadata, previews, and ISBN</summary>Useful for education platforms, library systems, or any application that deals with books and reading materials.</details> | API Key | Medium |
+
+## Currency & Finance
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [ExchangeRate API](https://www.exchangerate-api.com/) | <details><summary>Get real-time exchange rates for 160+ currencies</summary>Simple REST API for adding currency conversion to your app, finance dashboard, or e-commerce platform.</details> | API Key | Easy |
+## Media / Music
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Get lyrics for songs by title and artist</summary>Free, no-auth lyrics API useful for music player apps, karaoke apps, and entertainment dashboards.</details> | None | Easy |
+
+
+
+
 ## Authentication & Authorization
 
 | API | Description | Auth | Difficulty |
