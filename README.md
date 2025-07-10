@@ -83,6 +83,7 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Shields.io](https://shields.io/) | <details><summary>Create dynamic badges for GitHub, APIs, or metrics</summary>Great for displaying status, version, uptime, or custom metrics in projects and dashboards.</details> | None | Easy |
 | [DummyJSON](https://dummyjson.com/) | <details><summary>Fake API for e-commerce and user testing</summary>Use fake users, products, carts, and comments to prototype UI/UX designs and mock APIs easily.</details> | None | Easy |
 | [Open-Meteo](https://open-meteo.com/en/docs) | <details><summary>Free weather forecast API</summary>Weather data with no API key, great for travel, agriculture, or dashboard use cases.</details> | None | Easy |
+| [Uptime Robot](https://uptimerobot.com/api/) | <details><summary>Website and API monitoring with downtime alerts</summary>Continuously check the status of websites and services. Get real-time alerts when endpoints are down, measure performance, and integrate with dashboards and status pages. Great for DevOps, SaaS apps, and backend health monitoring.</details> | API Key | Easy |
 
 
 ## Popular Integrations
@@ -133,6 +134,7 @@ Most requested APIs for common application features:
 - [📰 **News & Journalism**](#news--journalism)
 - [📊 **Open Data & Analytics**](#open-data--analytics)
 - [🔓 **Open Source Projects**](#open-source-projects)
+- [🎙️ **Podcasting**](#podcasting)
 - [📱 **Phone & SMS**](#phone--sms)
 - [📸 **Photography & Images**](#photography--images)
 - [💻 **Programming & Code**](#programming--code)
@@ -171,6 +173,8 @@ Most requested APIs for common application features:
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
 | [OpenRouter](https://openrouter.ai/docs) | <details><summary>Unified API for accessing multiple LLMs</summary>Query OpenAI, Anthropic, Mistral, Meta, and more through a single API endpoint — perfect for experimenting and benchmarking.</details> | API Key | Easy |
 | [DeepAI](https://deepai.org/) | <details><summary>AI-powered APIs for vision, language, and image generation</summary>Includes image colorization, captioning, NSFW detection, text generation, and more — with generous free tier.</details> | API Key | Easy |
+| [ElevenLabs API](https://docs.elevenlabs.io/) | <details><summary>Text-to-speech API offering lifelike voice synthesis with multiple voices, emotions, and languages</summary>Create natural-sounding voiceovers, audiobooks, and voice interfaces with advanced AI voice synthesis technology.</details> | API Key | Medium |
+| [DeepL](https://www.deepl.com/docs-api) | <details><summary>Language translation API</summary>Accurate and fast machine translation for text and documents in multiple languages, with support for glossaries and document translation.</details> | API Key | Easy |
 
 ---
 
@@ -192,6 +196,7 @@ Most requested APIs for common application features:
 | [Jikan](https://jikan.moe/) | <details><summary>Unofficial MyAnimeList API for anime and manga data</summary>Access anime/manga information, ratings, reviews, and recommendations for building anime databases and recommendation systems.</details> | None | Easy |
 | [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/) | <details><summary>GraphQL API for anime and manga data</summary>Comprehensive anime/manga database with user data, statistics, and social features.</details> | OAuth | Medium |
 | [Kitsu](https://kitsu.docs.apiary.io/) | <details><summary>Anime discovery and tracking platform API</summary>Access anime, manga, and user libraries with search and filtering options. Great for anime recommendation engines.</details> | OAuth | Medium |
+| [Dragon Ball API](https://dragon-ball-api-grlr.onrender.com) | <details><summary>Custom-built API for Dragon Ball fans</summary>A fully functional, free-to-use API with real CRUD support—not just pseudo responses. Users can perform real operations like delete/reset, and the server restores to its base state within milliseconds. Built with Express.js, TypeScript, MongoDB, and JWT authentication. Perfect for learning and testing full-stack API interactions. [Docs](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)</details> | JWT (Admin) | Medium |
 
 ---
 
@@ -242,6 +247,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [ExchangeRate API](https://api.exchangerate.host) | <details><summary>Free currency exchange rate data</summary>Provides current and historical foreign exchange rates for multiple currencies with no auth required.</details> | No | Easy |
+
+
 
 ---
 
@@ -297,6 +305,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [PokéAPI](https://pokeapi.co/) | <details><summary>Pokémon data including abilities, stats, and evolution</summary>Useful for games, fan apps, or learning how to work with structured APIs and datasets.</details> | None | Easy |
 
 ---
 
@@ -306,6 +315,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [Electricity Maps](https://www.electricitymaps.com/) | <details><summary>Electricity data and carbon intensity worldwide</summary>Get real time, historical, and forecasted data on electricity mix, prices, and carbon emissions.</details> | API Key | Easy |
 
 ---
 
@@ -342,7 +352,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
-
+| [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
 ---
 
 ## Government & Public Data
@@ -408,6 +418,19 @@ Most requested APIs for common application features:
 
 ---
 
+## Podcasting
+
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Listen Notes](https://www.listennotes.com/api/docs/) | <details><summary>The most comprehensive podcast database. Search for podcasts, episodes, and even listen to audio clips.</summary>This API is often called the "Google of podcasts." It allows you to build podcast players, discovery platforms, or analytical tools.</details> | API Key | Easy |
+| [Podcast Index](https://podcastindex-org.github.io/docs-api/) | <details><summary>An open, developer-friendly podcast database. Focused on preserving podcasting as a platform for free speech.</summary>Provides a free and open alternative for accessing podcast metadata, including feeds, episodes, and categories.</details> | API Key | Easy |
+| [Podbean](https://developers.podbean.com/) | <details><summary>Podcast hosting and management platform with a free plan and a 14-day free trial for premium features.</summary>Allows programmatic management of podcasts, episodes, stats, and publishing workflows.</details> | API Key | Easy |
+| [Anchor (Spotify for Podcasters)](https://podcasters.spotify.com/) | <details><summary>Free podcast hosting and distribution platform by Spotify.</summary>Allows unlimited uploads, analytics, and one-step distribution to Spotify and other platforms. API access for episode management and analytics.</details> | Account | Easy |
+| [Transistor](https://developers.transistor.fm/) | <details><summary>Professional podcast hosting with a free trial and a comprehensive API.</summary>API allows uploading episodes, managing analytics, and more. Free trial available for new users.</details> | API Key | Easy |
+
+---
+
 ## Phone & SMS
 
 | API | Description | Auth | Difficulty |
@@ -459,7 +482,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Twitter API](https://developer.twitter.com/en/docs) | <details><summary>Tweet data, user information, and social media analytics</summary>Build social media tools, sentiment analysis applications, and Twitter integrations.</details> | OAuth | Hard |
 | [Reddit](https://www.reddit.com/dev/api/) | <details><summary>Reddit posts, comments, and community data</summary>Access Reddit content for building social media analytics, content aggregators, and community tools.</details> | OAuth | Medium |
-
+| [BlueSky](https://docs.bsky.app/) | <details><summary>Skeet/user data, user information, and custom feeds</summary>Utilize the AT Protocol to access BlueSky's data to build bots, custom feeds and client apps.</details> | OAuth | Medium |
 ---
 
 ## Sports & Fitness
@@ -477,6 +500,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
+| [Bored API](https://www.boredapi.com/api/activity) | <details><summary>Returns random fun activity suggestions</summary>Useful for demo projects, hackathons, or practicing API integrations.</details> | None | Easy |
+
 
 ---
 
@@ -515,6 +540,7 @@ Most requested APIs for common application features:
 | [TinyURL](https://tinyurl.com/app/dev) | <details><summary>URL shortening service</summary>Create short URLs and track click statistics for link management applications.</details> | None | Easy |
 | [Bitly](https://dev.bitly.com/) | <details><summary>URL shortening with analytics and custom domains</summary>Shorten URLs, track clicks, and analyze link performance with detailed analytics.</details> | OAuth | Medium |
 | [Is.gd](https://is.gd/apishortenservice.php) | <details><summary>Simple URL shortening service</summary>Basic URL shortening without registration requirements.</details> | None | Easy |
+| [CleanURI](https://cleanuri.com) | <details><summary>Simple and privacy-focused URL shortener</summary>URL shortening with a focus on user privacy, no tracking.</details> | None | Easy |
 
 ---
 
