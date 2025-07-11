@@ -20,6 +20,13 @@ Whether you're building an MVP for your startup, learning to code, or hacking on
 
 This collection is the result of dedicated research by our API Fellows, who explored, tested, and documented these APIs to make them easily accessible for themselves and the broader developer community. Dive in and discover tools that can elevate your next project!
 
+---
+
+## 🚀 New Public APIs Added
+
+- [Dog CEO API](https://dog.ceo/dog-api/) - Free API for random dog images and breed info
+
+
 
 ## How to Contribute
 
