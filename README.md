@@ -39,55 +39,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## Index
-
-- [🚀 **Project Enhancers**](#project-enhancers) 
-- [🎯 **Popular Integrations**](#popular-integrations) 
-- [🔒 **Authentication & Authorization**](#authentication--authorization)
-- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
-- [🐾 **Animals**](#animals)
-- [🎌 **Anime & Manga**](#anime--manga)
-- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
-- [🎨 **Art & Design**](#art--design)
-- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
-- [📚 **Books & Literature**](#books--literature)
-- [💼 **Business & Finance**](#business--finance)
-- [📅 **Calendar & Events**](#calendar--events)
-- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
-- [🔧 **Development & Testing**](#development--testing)
-- [📖 **Dictionaries & Language**](#dictionaries--language)
-- [📧 **Email & Communication**](#email--communication)
-- [🎬 **Entertainment & Media**](#entertainment--media)
-- [🌍 **Environment & Weather**](#environment--weather)
-- [🏦 **Finance & Banking**](#finance--banking)
-- [🍕 **Food & Drink**](#food--drink)
-- [🎮 **Games & Comics**](#games--comics)
-- [📍 **Geocoding & Maps**](#geocoding--maps)
-- [🏛️ **Government & Public Data**](#government--public-data)
-- [⚕️ **Health & Medical**](#health--medical)
-- [💼 **Jobs & Careers**](#jobs--careers)
-- [🎵 **Music & Audio**](#music--audio)
-- [📰 **News & Journalism**](#news--journalism)
-- [📊 **Open Data & Analytics**](#open-data--analytics)
-- [🔓 **Open Source Projects**](#open-source-projects)
-- [📱 **Phone & SMS**](#phone--sms)
-- [📸 **Photography & Images**](#photography--images)
-- [💻 **Programming & Code**](#programming--code)
-- [🔬 **Science & Mathematics**](#science--mathematics)
-- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
-- [👥 **Social Media & Networking**](#social-media--networking)
-- [⚽ **Sports & Fitness**](#sports--fitness)
-- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
-- [📝 **Text Analysis & Processing**](#text-analysis--processing)
-- [📦 **Tracking & Logistics**](#tracking--logistics)
-- [🚗 **Transportation & Travel**](#transportation--travel)
-- [🔗 **URL Shorteners**](#url-shorteners)
-- [🚙 **Vehicle Information**](#vehicle-information)
-- [🎥 **Video & Streaming**](#video--streaming)
-- [🧾 **QR & Barcode Generation**](#qr--barcode-generation)
-
----
-
 ## Project Enhancers
 
 These APIs can significantly enhance your projects and provide professional-grade features:
@@ -153,6 +104,56 @@ Most requested APIs for common application features:
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 ---
+
+## Index
+
+- [🚀 **Project Enhancers**](#project-enhancers) 
+- [🎯 **Popular Integrations**](#popular-integrations) 
+- [🔒 **Authentication & Authorization**](#authentication--authorization)
+- [🤖 **Artificial Intelligence & Machine Learning**](#artificial-intelligence--machine-learning)
+- [🐾 **Animals**](#animals)
+- [🎌 **Anime & Manga**](#anime--manga)
+- [🛡️ **Anti-Malware & Security**](#anti-malware--security)
+- [🎨 **Art & Design**](#art--design)
+- [⛓️ **Blockchain & Cryptocurrency**](#blockchain--cryptocurrency)
+- [📚 **Books & Literature**](#books--literature)
+- [💼 **Business & Finance**](#business--finance)
+- [📅 **Calendar & Events**](#calendar--events)
+- [☁️ **Cloud Storage & File Sharing**](#cloud-storage--file-sharing)
+- [🔧 **Development & Testing**](#development--testing)
+- [📖 **Dictionaries & Language**](#dictionaries--language)
+- [📧 **Email & Communication**](#email--communication)
+- [🎬 **Entertainment & Media**](#entertainment--media)
+- [🌍 **Environment & Weather**](#environment--weather)
+- [🏦 **Finance & Banking**](#finance--banking)
+- [🍕 **Food & Drink**](#food--drink)
+- [🎮 **Games & Comics**](#games--comics)
+- [📍 **Geocoding & Maps**](#geocoding--maps)
+- [🏛️ **Government & Public Data**](#government--public-data)
+- [⚕️ **Health & Medical**](#health--medical)
+- [💼 **Jobs & Careers**](#jobs--careers)
+- [🎵 **Music & Audio**](#music--audio)
+- [📰 **News & Journalism**](#news--journalism)
+- [📊 **Open Data & Analytics**](#open-data--analytics)
+- [🔓 **Open Source Projects**](#open-source-projects)
+- [📱 **Phone & SMS**](#phone--sms)
+- [📸 **Photography & Images**](#photography--images)
+- [💻 **Programming & Code**](#programming--code)
+- [🔬 **Science & Mathematics**](#science--mathematics)
+- [🛒 **Shopping & E-commerce**](#shopping--e-commerce)
+- [👥 **Social Media & Networking**](#social-media--networking)
+- [⚽ **Sports & Fitness**](#sports--fitness)
+- [🧪 **Test Data & Mock APIs**](#test-data--mock-apis)
+- [📝 **Text Analysis & Processing**](#text-analysis--processing)
+- [📦 **Tracking & Logistics**](#tracking--logistics)
+- [🚗 **Transportation & Travel**](#transportation--travel)
+- [🔗 **URL Shorteners**](#url-shorteners)
+- [🚙 **Vehicle Information**](#vehicle-information)
+- [🎥 **Video & Streaming**](#video--streaming)
+- [🧾 **QR & Barcode Generation**](#qr--barcode-generation)
+
+---
+
 
 ## Authentication & Authorization
 
@@ -277,6 +278,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [Domainsdb](https://domainsdb.info/) | <details><summary>Search across 260M+ registered domain names and 1000+ TLDs.</summary>Provides access to a vast index of registered domains, enabling keyword-based search across over 260 million domains and 1000+ TLDs.            </details> | None | Easy |
 | [ExchangeRate API](https://api.exchangerate.host) | <details><summary>Free currency exchange rate data</summary>Provides current and historical foreign exchange rates for multiple currencies with no auth required.</details> | No | Easy |
 
 ---
@@ -402,7 +404,6 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [RAWG](https://rawg.io/apidocs) | <details><summary>Video game database with ratings, screenshots, and metadata</summary>Build gaming applications with comprehensive video game data, reviews, and media.</details> | API Key | Easy |
 | [Comic Vine](https://comicvine.gamespot.com/api/) | <details><summary>Comic book database with characters, issues, and publishers</summary>Access comic book information for building comic databases and recommendation systems.</details> | API Key | Medium |
-
 | [AmiiboAPI](https://amiiboapi.com/docs/) | <details><summary>Amiibo character data</summary>Read-only REST API providing details on Amiibo figures, series, characters, and release usage. Great for game‑related trivia or collection apps.</details> | None | Easy |
 | [Chess.com API](https://support.chess.com/en/articles/9650547-published-data-api) | <details><summary>Public chess data access</summary>REST JSON‑LD API for player profiles, game archives, club & tournament info. Read‑only; no private data.</details> | None | Easy |
 | [Clash Royale API](https://developer.clashroyale.com/) | <details><summary>Official Clash Royale data</summary>Provides player stats, clan info, leaderboards, card data, and tournaments via REST with token‑based auth.</details> | API Key | Medium |
@@ -412,7 +413,6 @@ Most requested APIs for common application features:
 | [Genshin Impact API](https://publicapi.dev/genshin-impact-api) | <details><summary>Genshin Impact game data</summary>Unofficial REST API providing characters, weapons, artifacts, stats, and other static game data.</details> | None | Easy |
 | [Lichess API](https://lichess.org/api) | <details><summary>Free, open-source chess server API</summary>Access user profiles, game archives, tournaments, live game streams, and bot endpoints. Great for building analysis tools, custom clients, and tournament integrations.</details> | OAuth | Medium |
 | [Raider API](https://genshinlist.com/developer-api) | <details><summary>Alternate Genshin game data</summary>REST API (genshinlist.com) offering characters, weapon, and artifact endpoints; requires credit & non‑competing policy.</details> | None | Medium |
-
 | [Deck of Cards API](https://deckofcardsapi.com/) | <details><summary>Simulate a deck of cards including shuffling and drawing</summary>Useful for creating card games, testing logic, or teaching card mechanics.</details> | None | Easy |
 
 
@@ -447,9 +447,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
-
 | [Nutritionix API](https://developer.nutritionix.com/docs/v2) | <details><summary>Nutrition & food database</summary>Search branded and generic foods, fetch nutrition facts, serving sizes, UPC lookups, and natural language meal parsing.</details> | API Key | Medium |
-
 | [COVID19 API](https://covid19api.com) | <details><summary>Global COVID-19 stats</summary>Get accurate, country-wise COVID-19 case numbers, deaths, and recovery trends.</details> | None | Easy |
 | [Affirmations.dev](https://affirmations.dev/) | <details><summary>Positive self-affirmations</summary>API that returns simple, uplifting affirmations — ideal for apps focused on self-care and emotional health.</details> | None | Easy |
 
@@ -481,14 +479,12 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
-
 | [Napster API](https://developer.prod.napster.com/) | <details><summary>Comprehensive music catalog & playback API</summary>Access millions of tracks, artist metadata, user playlists, favorites, play counts, and more for building streaming apps.</details> | apiKey | Medium |
 | [Musixmatch API](https://developer.musixmatch.com/) | <details><summary>Huge lyrics database</summary>Search and retrieve licensed lyrics and translations for millions of songs, sync lyrics with media playback.</details> | API Key | Medium |
 | [SoundCloud API](https://developers.soundcloud.com/docs/api/guide) | <details><summary>Audio upload, insights & discovery</summary>Build apps leveraging user-uploaded tracks, comments, playlists, user profiles, and search/explore features on SoundCloud.</details> | OAuth (client_id/client_secret) | Medium |
 | [Mixcloud API](https://www.mixcloud.com/developers/) | <details><summary>Podcasts & DJ mix data</summary>Fetch user profiles, cloudcasts, tags, playlists, and embed/stream content from Mixcloud.</details> | OAuth | Medium |
 | [TheAudioDB API](https://www.theaudiodb.com/free_music_api) | <details><summary>Community-driven music metadata</summary>Retrieve artist info, albums, tracks, images, and music videos; free tier with test key (“2”).</details> | API Key (test-level free) | Easy |
 | [Shazam (via ShazamKit / third-party)](https://developer.apple.com/shazamkit/) | <details><summary>Music recognition & discovery</summary>Use Shazam’s audio recognition in apps to identify songs, access metadata, lyrics, artist info, and match audio from mic or file.</details> | SDK Key | Medium |
-
 | [AudioDB](https://www.theaudiodb.com/api_guide.php) | <details><summary>Music artist and album data</summary>Search for artists, albums, tracks, and music videos — includes artwork and biography details.</details> | API Key | Easy |
 
 
@@ -502,10 +498,8 @@ Most requested APIs for common application features:
 | [Spaceflight News API](https://api.spaceflightnewsapi.net/v4/docs/) | <details><summary>Spaceflight and rocket launch news data</summary>Get the latest news on rocket launches, missions, and spaceflight updates. No authentication required.</details> | None | Easy |
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
-
 | [New York Times API](https://developer.nytimes.com/apis) | <details><summary>Access NYT news content & data</summary>Retrieve articles, movie reviews, book bestsellers, real‑time political data, archives, and more from The New York Times’ various endpoints.</details> | API Key | Medium |
 | [The Guardian Open Platform](https://open-platform.theguardian.com/documentation/) | <details><summary>Full‑text articles & metadata</summary>Search and retrieve content, tags, sections, images, and multimedia from The Guardian’s archive and live site.</details> | API Key | Medium |
-
 | [Aylien News API](https://developer.aylien.com/newsapi) | <details><summary>AI-powered news analysis</summary>Search and analyze global news stories using NLP: filter by entities, categories, sentiment, and more.</details> | API Key | Medium |
 | [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 | [Currents API](https://currentsapi.services/en) | <details><summary>Recent news published on blogs, websites, and news outlets</summary>Provides headlines and news articles across categories with filtering by language and region.</details> | API Key | Easy |
@@ -743,8 +737,7 @@ Here are some powerful API combinations that work great together:
 * **Twitter** + **Sentiment Analysis** = Brand and trend monitoring in real-time
 * **Zoom API** + **Calendly API** = Instant meeting scheduling and coordination platform
 * **Firebase** + **Clerk.dev** = Authentication and real-time chat for community apps
-
----
+  
 ---
 
 ## 📊 API Difficulty Legend
