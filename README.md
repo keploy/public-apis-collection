@@ -569,6 +569,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [GitHub](https://docs.github.com/en/rest) | <details><summary>Code repositories, issues, and development data</summary>Build developer tools, portfolio sites, and code analysis applications with comprehensive GitHub data.</details> | OAuth/Token | Medium |
 | [Stack Overflow](https://api.stackexchange.com/) | <details><summary>Programming Q&A data from Stack Overflow</summary>Access questions, answers, and programming knowledge from the largest developer community.</details> | None/API Key | Easy |
+| [Judge0](https://judge0.com/docs) | <details><summary>Online code execution and compiling API</summary>Execute and evaluate code in multiple programming languages, ideal for building online compilers, coding challenges, and auto-graders.</details> | API Key | Medium |
 
 ---
 
