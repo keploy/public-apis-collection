@@ -322,9 +322,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
-
 | [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
-
 | [Lingua Robot](https://www.linguarobot.io/docs) | <details><summary>Word definitions, pronunciation, and usage</summary>Powerful and developer-friendly dictionary API supporting phonetics, synonyms, and word meanings.</details> | API Key | Easy |
 
 ---
@@ -653,8 +651,8 @@ Most requested APIs for common application features:
 | [Amadeus](https://developers.amadeus.com/) | <details><summary>Flight search, hotel booking, and travel data</summary>Build travel applications with flight search, hotel availability, and destination information.</details> | API Key | Medium |
 | [Rome2rio](https://www.rome2rio.com/documentation/) | <details><summary>Multi-modal transport search and routing</summary>Find transportation options between destinations including flights, trains, buses, and driving directions.</details> | API Key | Medium |
 | [Skyscanner](https://developers.skyscanner.net/) | <details><summary>Flight search and travel booking platform</summary>Search flights, compare prices, and access travel data for building travel booking applications.</details> | API Key | Medium |
+| [Flightradar24](https://fr24api.flightradar24.com/docs/endpoints/overview) | <details><summary>Our API grants you immediate access to real-time and historical flight data</summary>Along with comprehensive information about airports and airlines. Whether you are developing an aviation app, integrating flight data into your systems, or conducting research, our API provides robust and reliable data to meet your needs</details> | API Key | Medium |
 | [AviationStack](https://aviationstack.com/) | <details><summary>Real-time flight data</summary>Access live flight status, airline routes, airport data, and historical flights from around the world.</details> | API Key | Medium |
-
 
 ---
 
