@@ -101,7 +101,6 @@ Most requested APIs for common application features:
 | [Spotify Web API](https://developer.spotify.com/documentation/web-api/) | <details><summary>Access Spotify's music catalog, user playlists, and playback features</summary>Create music recommendation engines, playlist managers, music discovery apps, and audio analysis tools. Control playback and access user's music data.</details> | OAuth | Medium |
 | [Google Maps API](https://developers.google.com/maps) | <details><summary>Comprehensive mapping, geocoding, and location services</summary>Add interactive maps, location search, directions, and geolocation features to your applications. Perfect for delivery apps, store locators, and travel applications.</details> | API Key | Easy |
 | [SendGrid API](https://docs.sendgrid.com/api-reference) | <details><summary>Reliable email delivery service for transactional and marketing emails</summary>Send welcome emails, password resets, newsletters, and notifications. Includes email analytics, template management, and delivery optimization.</details> | API Key | Easy |
-| [OpenAI API](https://openai.com/api/) | <details><summary>Access to GPT models for building AI-powered chatbots, content generation, and intelligent applications</summary>Build ChatGPT-like interfaces, content generators, code assistants, and smart automation tools. Includes text generation, image creation, and code completion capabilities.</details> | API Key | Medium |
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
 ---
@@ -174,6 +173,7 @@ Most requested APIs for common application features:
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
+| [Hugging Face Inference API](https://huggingface.co/inference-api) | <details><summary>Run ML models via API</summary>Run NLP, image, and audio ML models via simple HTTP calls. Use pretrained models from Hugging Face without any infra setup.</details> | API Key | Medium |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
 | [OpenRouter](https://openrouter.ai/docs) | <details><summary>Unified API for accessing multiple LLMs</summary>Query OpenAI, Anthropic, Mistral, Meta, and more through a single API endpoint — perfect for experimenting and benchmarking.</details> | API Key | Easy |
@@ -183,6 +183,8 @@ Most requested APIs for common application features:
 | [GroqCloud](https://console.groq.com/docs/overview) | <details><summary>GroqCloud is a free-to-start, high-speed public API platform that offers access to open-source LLMs with ultra-low latency. </summary>You can use GroqCloud by calling its OpenAI-compatible API endpoints with your API key to run fast, real-time inference on open-source LLMs like LLaMA and Mixtral.</details> | API Key | Easy |
 | [ElevenLabs API](https://docs.elevenlabs.io/) | <details><summary>Text-to-speech API offering lifelike voice synthesis with multiple voices, emotions, and languages</summary>Create natural-sounding voiceovers, audiobooks, and voice interfaces with advanced AI voice synthesis technology.</details> | API Key | Medium |
 | [DeepL](https://www.deepl.com/docs-api) | <details><summary>Language translation API</summary>Accurate and fast machine translation for text and documents in multiple languages, with support for glossaries and document translation.</details> | API Key | Easy |
+| [DeepAI](https://deepai.org/) | <details><summary>AI-powered APIs for image recognition, text summarization, and more</summary>Free and paid APIs for image recognition, NSFW detection, text analysis, and style transfer.</details> | API Key | Easy |
+
 
 ---
 
@@ -308,8 +310,10 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [GoQR](https://goqr.me/api/) | <details><summary>Generate customizable QR codes via URL</summary>Create QR codes for text, URLs, and more with easy URL parameters. Useful for web apps, events, and product tagging.</details> | None | Easy |
+| [IPify](https://www.ipify.org/) | <details><summary>Get your public IP address</summary>Simple API to return your public IP address in JSON or plain text. Useful for diagnostics and logging.</details> | None | Easy |
 | [UptimeRobot](https://uptimerobot.com/api) | <details><summary>Website and API uptime monitoring service with alerting</summary>Monitor the uptime, downtime, and performance of websites and APIs with automated alerts. Great for monitoring deployed apps during development and production.</details> | API Key | Easy |
-
+| [Postman Echo](https://www.postman.com/postman/workspace/published-postman-templates/overview) | <details><summary>Test and debug your REST APIs</summary>Test your REST clients and API calls with a fully-featured HTTP request & response service.</details> | None | Easy |
 
 
 ---
@@ -425,10 +429,10 @@ Most requested APIs for common application features:
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [IP Geolocation API](http://ip-api.com/json) | <details><summary>Get location by IP</summary>Returns city, country, ZIP code, and geo-coordinates from an IP address.</details> | None | Easy |
 | [PositionStack](https://positionstack.com/) | <details><summary>Forward and reverse geocoding</summary>Convert addresses to coordinates (and vice versa) using a scalable and reliable location API.</details> | API Key | Medium |
-| [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy || [N2YO](https://www.n2yo.com/api/) | <details><summary>Real-time satellite tracking data services</summary>Track real-time satellite positions, visibility passes, and orbital data using NORAD TLEs with N2YO’s easy-to-use satellite tracking API.</details> | API Key | Medium |
+| [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+| [Zippopotam.us](http://api.zippopotam.us/) | <details><summary>Postal code geolocation API</summary>Retrieve location data (city, state, and country) based on postal codes across multiple countries. Great for geocoding-lite use cases or ZIP-to-location conversions.</details> | None | Easy |
+| [N2YO](https://www.n2yo.com/api/) | <details><summary>Real-time satellite tracking data services</summary>Track real-time satellite positions, visibility passes, and orbital data using NORAD TLEs with N2YO’s easy-to-use satellite tracking API.</details> | API Key | Medium |
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
-
----
 
 ## Government & Public Data
 
@@ -460,7 +464,6 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [GitHub Jobs](https://jobs.github.com/api) | <details><summary>Developer job listings from GitHub</summary>Access tech job postings and build job search applications for developers.</details> | None | Easy |
 | [Adzuna](https://developer.adzuna.com/) | <details><summary>Job search data and salary information</summary>Get job listings, salary data, and employment statistics for building career platforms.</details> | API Key | Easy |
 
 ---
@@ -587,9 +590,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NASA](https://api.nasa.gov/) | <details><summary>Space and astronomy data from NASA</summary>Access space images, astronomical data, and NASA mission information for educational and space applications.</details> | API Key | Easy |
 | [Numbers API](http://numbersapi.com/) | <details><summary>Interesting facts about numbers</summary>Get mathematical facts, date facts, and trivia about numbers for educational applications.</details> | None | Easy |
-
 | [Wolfram Alpha API](https://products.wolframalpha.com/api/) | <details><summary>Computational knowledge engine</summary>Submit queries to get structured data, charts, or plain‑text answers across math, science, culture, history, and more.</details> | API Key | Hard |
-
 | [Periodic Table API](https://neelpatel05.pythonanywhere.com/) | <details><summary>Info about all elements of the periodic table</summary>Educational API for accessing atomic data and chemistry-related information.</details> | None | Easy |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | <details><summary>Track the ISS and get people-in-space data</summary>Get real-time data about the ISS location, upcoming passes over coordinates, and the current crew in space — no authentication needed.</details> | None | Easy |
 
@@ -671,7 +672,7 @@ Most requested APIs for common application features:
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
-| [TinyURL](https://tinyurl.com/app/dev) | <details><summary>URL shortening service</summary>Create short URLs and track click statistics for link management applications.</details> | None | Easy |
+| [TinyURL](https://tinyurl.com/app/dev) | <details><summary>Shorten long URLs</summary>Use TinyURL’s API to programmatically shorten links for use in emails, websites, and SMS. Includes basic analytics.</details> | API Key | Easy |
 | [Bitly](https://dev.bitly.com/) | <details><summary>URL shortening with analytics and custom domains</summary>Shorten URLs, track clicks, and analyze link performance with detailed analytics.</details> | OAuth | Medium |
 | [Is.gd](https://is.gd/apishortenservice.php) | <details><summary>Simple URL shortening service</summary>Basic URL shortening without registration requirements.</details> | None | Easy |
 | [CleanURI](https://cleanuri.com) | <details><summary>Simple and privacy-focused URL shortener</summary>URL shortening with a focus on user privacy, no tracking.</details> | None | Easy |
