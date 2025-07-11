@@ -175,6 +175,7 @@ Most requested APIs for common application features:
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | <details><summary>Run ML models via API</summary>Run NLP, image, and audio ML models via simple HTTP calls. Use pretrained models from Hugging Face without any infra setup.</details> | API Key | Medium |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [Gemini API (Google AI Studio)](https://aistudio.google.com) | <details><summary>Generative AI for text content, similar to ChatGPT</summary>Supports text generation via Google’s Gemini models. Easily accessible with API key from AI Studio dashboard.</details> | API Key | Medium |
 | [OpenRouter](https://openrouter.ai/docs) | <details><summary>Unified API for accessing multiple LLMs</summary>Query OpenAI, Anthropic, Mistral, Meta, and more through a single API endpoint — perfect for experimenting and benchmarking.</details> | API Key | Easy |
 | [Gemini Pro (Google AI)](https://makersuite.google.com/) | <details><summary>Advanced generative AI platform by Google</summary>Use Gemini Flash and Gemini 1.5 Pro for tasks like text generation, scraping automation, summarization, and AI-powered content workflows. Ideal for NLP, intelligent agents, and structured data extraction.</details> | API Key | Medium |
 | [DeepAI](https://deepai.org/) | <details><summary>Wide range of AI APIs for vision and text</summary>Free APIs for text summarization, sentiment analysis, facial recognition, image colorization, and more. Perfect for prototyping AI use cases without model training.</details> | API Key | Easy |
@@ -183,7 +184,6 @@ Most requested APIs for common application features:
 | [ElevenLabs API](https://docs.elevenlabs.io/) | <details><summary>Text-to-speech API offering lifelike voice synthesis with multiple voices, emotions, and languages</summary>Create natural-sounding voiceovers, audiobooks, and voice interfaces with advanced AI voice synthesis technology.</details> | API Key | Medium |
 | [DeepL](https://www.deepl.com/docs-api) | <details><summary>Language translation API</summary>Accurate and fast machine translation for text and documents in multiple languages, with support for glossaries and document translation.</details> | API Key | Easy |
 | [DeepAI](https://deepai.org/) | <details><summary>AI-powered APIs for image recognition, text summarization, and more</summary>Free and paid APIs for image recognition, NSFW detection, text analysis, and style transfer.</details> | API Key | Easy |
-
 
 ---
 
@@ -228,6 +228,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [VirusTotal](https://developers.virustotal.com/reference) | <details><summary>File and URL scanning for malware detection</summary>Scan files and URLs for viruses, malware, and security threats using multiple antivirus engines.</details> | API Key | Easy |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | <details><summary>Check if email addresses have been compromised in data breaches</summary>Help users check if their credentials have been exposed in known data breaches.</details> | API Key | Easy |
+| [ALTCHA API](https://altcha.org/) | <details><summary>Proof-of-work CAPTCHA & anti-spam API</summary>Create and verify challenges to protect forms and APIs without using cookies or user tracking. Supports classification and customizable complexity.</details> | API Key | Medium |
 | [IPQualityScore](https://www.ipqualityscore.com/documentation/overview) | <details><summary>Detect fraudulent users, bots, and malicious IPs</summary>Prevent fake signups and abuse with fraud scoring, email validation, and proxy/VPN detection.</details> | API Key | Medium |
 | [AbuseIPDB](https://docs.abuseipdb.com/) | <details><summary>Check if an IP address has been reported for abuse</summary>Check IP addresses for reports of abusive behavior such as spam, hacking attempts, or malicious activity. Useful for threat intelligence and security applications.</details> | API Key | Easy |
 
@@ -344,6 +345,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [EmailJS](https://www.emailjs.com/docs/) | <details><summary>Send emails directly from client-side JavaScript</summary>Send emails from frontend applications without backend infrastructure. Great for contact forms and notifications.</details> | API Key | Easy |
 | [Mailgun](https://documentation.mailgun.com/en/latest/) | <details><summary>Email delivery service for developers</summary>Send transactional emails, newsletters, and notifications with high deliverability rates.</details> | API Key | Easy |
+| [Zoom API](https://marketplace.zoom.us/) | <details><summary>Schedule and manage video meetings via API</summary>Create meetings, manage users, and access recordings using JWT or OAuth authentication. Ideal for integrating Zoom into scheduling or video conferencing apps.</details> | API Key / OAuth | Medium |
+| [Google Meet (via Calendar API)](https://console.cloud.google.com/) | <details><summary>Create Meet links by scheduling calendar events</summary>Use the Google Calendar API to schedule events with embedded Google Meet links. Requires OAuth token and calendar scope.</details> | OAuth | Medium |
+
 
 ---
 
@@ -353,6 +357,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [The Movie Database (TMDb)](https://developers.themoviedb.org/3) | <details><summary>Movie and TV show database with images, ratings, and metadata</summary>Build movie recommendation systems, entertainment apps, and media catalogs with comprehensive film and TV data.</details> | API Key | Easy |
 | [TV Maze](https://www.tvmaze.com/api) | <details><summary>TV show information including episodes, cast, and schedules</summary>Get detailed TV show information, episode guides, and cast details for entertainment applications.</details> | None | Easy |
+| [GIPHY API](https://developers.giphy.com/) | <details><summary>GIF search and trending content from GIPHY</summary>Access GIFs, stickers, and reaction media using search, trending, and random endpoints. Requires a free API key.</details> | API Key | Easy |
 | [Breaking Bad Quotes API](https://breakingbadquotes.xyz/) | <details><summary>Returns random quotes from Breaking Bad</summary>Perfect for fan-based apps or quote generators. Returns a quote and the speaker.</details> | None | Easy |
 | [The Rick and Morty API](https://rickandmortyapi.com/) | <details><summary>Get data from the Rick and Morty universe</summary>Characters, locations, episodes, and relationships with a robust query system. Useful for building fan-based UIs or games.</details> | None | Easy |
 | [Star Wars API (SWAPI)](https://swapi.dev/) | <details><summary>Access Star Wars universe data</summary>Retrieve structured data on characters, planets, starships, and more. Popular in tutorials and fan apps.</details> | None | Easy |
@@ -367,6 +372,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [REST Countries](https://restcountries.com/) | <details><summary>Country metadata API</summary>Fetch data like flags, capital, region, population for every country—useful for educational or travel apps.</details> | None | Easy |
 | [Weatherbit API](https://www.weatherbit.io/api) | <details><summary>Accurate weather forecasting and climate data API</summary>Provides real-time and forecast weather metrics like temperature, humidity, and rainfall. Useful for climate-aware agriculture, IoT, and automation systems.</details> | API Key | Easy |
 | [OpenAQ](https://docs.openaq.org/) | <details><summary>Global real-time air quality data</summary>Access worldwide air pollution measurements from verified sources. Useful for monitoring environmental conditions and pollution levels.</details> | API Key | Easy |
 | [MetaWeather](https://www.metaweather.com/) | <details><summary>Free weather data with no authentication</summary>Get current weather, forecasts, and historical weather data. Useful for quick testing and demos.</details> | No | Easy |
@@ -424,6 +430,7 @@ Most requested APIs for common application features:
 | [IP Geolocation API](http://ip-api.com/json) | <details><summary>Get location by IP</summary>Returns city, country, ZIP code, and geo-coordinates from an IP address.</details> | None | Easy |
 | [PositionStack](https://positionstack.com/) | <details><summary>Forward and reverse geocoding</summary>Convert addresses to coordinates (and vice versa) using a scalable and reliable location API.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+| [SpaceX Launch Data](https://api.spacexdata.com/) | <details><summary>SpaceX launch information API</summary>Get data on recent and upcoming launches including rocket, crew, site, payload, and more.</details> | None | Easy |
 | [Zippopotam.us](http://api.zippopotam.us/) | <details><summary>Postal code geolocation API</summary>Retrieve location data (city, state, and country) based on postal codes across multiple countries. Great for geocoding-lite use cases or ZIP-to-location conversions.</details> | None | Easy |
 | [N2YO](https://www.n2yo.com/api/) | <details><summary>Real-time satellite tracking data services</summary>Track real-time satellite positions, visibility passes, and orbital data using NORAD TLEs with N2YO’s easy-to-use satellite tracking API.</details> | API Key | Medium |
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
@@ -630,6 +637,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Natural Language API](https://cloud.google.com/natural-language/docs) | <details><summary>Text analysis including sentiment, entities, and syntax</summary>Analyze text for sentiment, extract entities, and understand document structure using Google's ML models.</details> | API Key | Medium |
 | [Perspective API](https://perspectiveapi.com/) | <details><summary>Toxicity and comment analysis</summary>Identify toxic comments and analyze text for harmful content to improve online conversations.</details> | API Key | Easy |
+| [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/) | <details><summary>Random quotes API</summary>Fetch famous quotes by author or random ones—great for motivational widgets or writing prompts.</details> | None | Easy |
 | [Fun Translations](https://funtranslations.com/api) | <details><summary>Translate text to fun fictional styles</summary>Turn your messages into Yoda-speak, Minion language, Pirate lingo and more—great for fun apps or bots.</details> | None | Easy |
 | [Twinword Text Analysis API](https://www.twinword.com/api/text-analysis.php) | <details><summary>Multi-feature text analysis (sentiment, emotion, keyword, etc.)</summary>Analyze text to extract keywords, check grammar, detect topics, measure readability, and classify sentiment/emotions using NLP models.</details> | API Key | Medium |
 | [DeepAI Text Generator](https://deepai.org/machine-learning-model/text-generator) | <details><summary>GPT-based text generation</summary>Generate realistic and human-like text based on a given prompt using DeepAI’s generative language model.</details> | API Key | Medium |
