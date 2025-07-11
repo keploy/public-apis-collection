@@ -686,7 +686,15 @@ Most requested APIs for common application features:
 
 ---
 
-## QR & Barcode Generation
+###  Writing & Journaling Tools
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Quotable](https://github.com/lukePeavey/quotable) | <details><summary>A beautifully crafted API that delivers quotes from famous authors, categories, or random musings</summary>. Ideal for journaling prompts, motivational nudges, or simply starting your day with words that matter.</details> | None | Easy |
+| [Datamuse](https://www.datamuse.com/api/) | <details><summary>A lexical treasure chest for writers and poets</summary>. Discover rhymes, similar-sounding words, adjectives, synonyms, and more to elevate your expression, polish your poetry, or break through writer’s block.</details> | None | Easy |
+
+  
+### QR & Barcode Generation
 
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
