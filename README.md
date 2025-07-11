@@ -21,21 +21,41 @@ Whether you're building an MVP for your startup, learning to code, or hacking on
 This collection is the result of dedicated research by our API Fellows, who explored, tested, and documented these APIs to make them easily accessible for themselves and the broader developer community. Dive in and discover tools that can elevate your next project!
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome contributions from the community! Here's how you can help:
+We welcome contributions from the community! Whether you're an experienced developer or just getting started, here's how you can contribute:
 
-1. **Fork** this repository
-2. **Add** your API to the appropriate section following our format
-3. **Ensure** the API is free to use (with or without registration)
-4. **Test** that the API is working and accessible
-5. **Submit** a pull request with a clear description
+### 🪜 Steps to Contribute
 
-### Contribution Guidelines
-- APIs must be publicly accessible and free to use
-- Include accurate descriptions and authentication requirements
-- Maintain the table format for consistency
-- Verify all links are working before submitting
+1. **Fork** this repository to your GitHub account  
+2. **Clone** your fork locally and create a new branch  
+   Example: `git checkout -b your-name-api-contribution`
+3. **Add** your API entry to the correct section using the table format  
+4. **Ensure** the API is free to use (with or without registration)  
+5. **Verify** the API is working and publicly accessible  
+6. **Commit** your changes with a clear message  
+7. **Push** your branch and open a **Pull Request (PR)** with a meaningful title and description
+
+---
+
+### 📌 Contribution Guidelines
+
+- 🔗 APIs **must be publicly accessible** and **free to use**
+- 🧾 Provide **accurate descriptions** and **authentication details** (`API Key`, `OAuth`, or `None`)
+- 📐 Stick to the **markdown table format** for consistency
+- ✅ Double-check that **all links work**
+
+---
+
+### ✍️ API Entry Format (Example)
+
+Please follow the format below when adding a new API:
+
+
+| API        | Description                   | Auth | Difficulty |
+|------------|-------------------------------|------|------------|
+| AnimeChan  | Get random anime quotes       | None | Easy       |
+
 
 ---
 
@@ -155,6 +175,44 @@ Most requested APIs for common application features:
 - [🎥 **Video & Streaming**](#video--streaming)
 
 ---
+
+## Weather & Environment
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [WeatherAPI](https://openweathermap.org/api) | Access weather forecast and current weather data | API Key | Easy |
+| [Weatherstack](https://weatherstack.com/) | <details><summary>Real-time weather data for any location worldwide</summary>Get temperature, wind speed, precipitation, and forecasts — great for dashboards and travel apps.</details> | API Key | Easy |
+
+## Maps & Location
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Zippopotam.us](http://www.zippopotam.us/) | <details><summary>Get location data by postal/ZIP codes for many countries</summary>Supports country-wise postal code queries to fetch city, state, and geographical info. Great for shipping forms, delivery tracking, and address validation.</details> | None | Easy |
+| [PositionStack](https://positionstack.com/) | <details><summary>Geocoding and reverse geocoding API</summary>Convert addresses into coordinates and vice versa. Useful for logistics, mapping apps, and location tracking.</details> | API Key | Medium |
+
+
+## IP & Network Tools
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [IPify](https://www.ipify.org/) | <details><summary>Get public IP address of the client device</summary>Useful for logging, analytics, geolocation, and showing user network details in applications.</details> | None | Easy |
+| [ipinfo.io](https://ipinfo.io/) | <details><summary>Provides IP geolocation and network information</summary>Returns data like city, region, country, location coordinates, organization, and timezone.</details> | API Key (Free Tier) | Easy |
+
+
+## Books & Education
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Open Library API](https://openlibrary.org/developers/api) | <details><summary>Access book data, authors, ISBN, covers, and more</summary>Build educational, cataloging, or book recommendation platforms using open access to millions of books from the Internet Archive.</details> | None | Medium |
+| [Google Books API](https://developers.google.com/books/) | <details><summary>Search and access millions of books with metadata, previews, and ISBN</summary>Useful for education platforms, library systems, or any application that deals with books and reading materials.</details> | API Key | Medium |
+
+## Currency & Finance
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [ExchangeRate API](https://www.exchangerate-api.com/) | <details><summary>Get real-time exchange rates for 160+ currencies</summary>Simple REST API for adding currency conversion to your app, finance dashboard, or e-commerce platform.</details> | API Key | Easy |
+## Media / Music
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Get lyrics for songs by title and artist</summary>Free, no-auth lyrics API useful for music player apps, karaoke apps, and entertainment dashboards.</details> | None | Easy |
+
+
+
 
 ## Authentication & Authorization
 
