@@ -315,7 +315,9 @@ Most requested APIs for common application features:
 | [IPify](https://www.ipify.org/) | <details><summary>Get your public IP address</summary>Simple API to return your public IP address in JSON or plain text. Useful for diagnostics and logging.</details> | None | Easy |
 | [UptimeRobot](https://uptimerobot.com/api) | <details><summary>Website and API uptime monitoring service with alerting</summary>Monitor the uptime, downtime, and performance of websites and APIs with automated alerts. Great for monitoring deployed apps during development and production.</details> | API Key | Easy |
 | [Postman Echo](https://www.postman.com/postman/workspace/published-postman-templates/overview) | <details><summary>Test and debug your REST APIs</summary>Test your REST clients and API calls with a fully-featured HTTP request & response service.</details> | None | Easy |
-
+| [Sentry API](https://docs.sentry.io/api/) | <details><summary>Error tracking and performance monitoring for applications.</summary>Automate issue tracking, manage releases, and get detailed error reports to resolve bugs faster. Essential for production-grade applications.</details> | Bearer Token | Medium |
+| [Codecov API](https://docs.codecov.com/reference/api-overview) | <details><summary>Code coverage reporting and analysis.</summary>Integrate code coverage reports into your CI/CD pipeline to ensure code quality and maintain testing standards.</details> | API Key | Medium |
+| [FeatureFlags.io API](https://featureflags.io/docs/api/) | <details><summary>Feature flag and remote configuration management.</summary>Roll out features to specific user segments, perform A/B testing, and remotely control application features without deploying new code.</details> | API Key | Easy |
 
 ---
 
@@ -436,6 +438,8 @@ Most requested APIs for common application features:
 | [Zippopotam.us](http://api.zippopotam.us/) | <details><summary>Postal code geolocation API</summary>Retrieve location data (city, state, and country) based on postal codes across multiple countries. Great for geocoding-lite use cases or ZIP-to-location conversions.</details> | None | Easy |
 | [N2YO](https://www.n2yo.com/api/) | <details><summary>Real-time satellite tracking data services</summary>Track real-time satellite positions, visibility passes, and orbital data using NORAD TLEs with N2YO’s easy-to-use satellite tracking API.</details> | API Key | Medium |
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
+| [what3words API](https://developer.what3words.com/public-api) | <details><summary>A unique way to identify any 3m x 3m square in the world with just three words.</summary>Ideal for precise location sharing for deliveries, emergencies, and travel applications where street addresses are not accurate enough.</details> | API Key | Easy |
+| [OpenSky Network API](https://opensky-network.org/apidoc/rest.html) | <details><summary>Real-time and historical flight data for academic and non-commercial use.</summary>Track flights, get aircraft positions, and access a wealth of aviation data. A great free alternative for hobbyist projects.</details> | None | Medium |
 
 ## Government & Public Data
 
