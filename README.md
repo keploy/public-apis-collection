@@ -570,6 +570,12 @@ Most requested APIs for common application features:
 
 ---
 
+
+### Developer Tools
+
+- **Public APIs**: [Public APIs](https://api.publicapis.org/) — A collective list of free APIs for development across many topics.
+
+
 ## Programming & Code
 
 | API | Description | Auth | Difficulty |
