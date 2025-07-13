@@ -96,6 +96,7 @@ These APIs can significantly enhance your projects and provide professional-grad
 | [Railway](https://docs.railway.app/reference/public-api) | <details><summary>Infrastructure platform for deploying applications</summary>Deploy and manage applications, databases, and services with automatic scaling and built-in monitoring. Perfect for full-stack applications.</details> | API Key | Easy |
 | [Linear](https://developers.linear.app/docs/graphql/working-with-the-graphql-api) | <details><summary>Project management and issue tracking platform</summary>Build productivity tools, project dashboards, and workflow automation. Integrate with development workflows and team management systems.</details> | API Key | Medium |
 
+
 ---
 
 ## Popular Integrations
@@ -112,6 +113,8 @@ Most requested APIs for common application features:
 | [OpenAI API](https://openai.com/api/) | <details><summary>Access to GPT models for building AI-powered chatbots, content generation, and intelligent applications</summary>Build ChatGPT-like interfaces, content generators, code assistants, and smart automation tools. Includes text generation, image creation, and code completion capabilities.</details> | API Key | Medium |
 | [GitHub API](https://docs.github.com/en/rest) | <details><summary>Comprehensive access to GitHub's features for building developer tools and integrations</summary>Create code portfolio sites, automated deployment tools, issue trackers, code analysis tools, and development dashboards. Access repositories, commits, issues, and user data.</details> | OAuth/Token | Medium |
 | [Stripe API](https://stripe.com/docs/api) | <details><summary>Complete payment processing solution for e-commerce and subscription applications</summary>Handle payments, subscriptions, invoicing, and financial operations in your applications. Supports multiple payment methods and currencies with robust security.</details> | API Key | Medium |
+
+
 ---
 
 
@@ -163,40 +166,6 @@ Most requested APIs for common application features:
 
 ---
 
-## Weather & Environment
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [WeatherAPI](https://openweathermap.org/api) | Access weather forecast and current weather data | API Key | Easy |
-| [Weatherstack](https://weatherstack.com/) | <details><summary>Real-time weather data for any location worldwide</summary>Get temperature, wind speed, precipitation, and forecasts — great for dashboards and travel apps.</details> | API Key | Easy |
-
-## Maps & Location
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [Zippopotam.us](http://www.zippopotam.us/) | <details><summary>Get location data by postal/ZIP codes for many countries</summary>Supports country-wise postal code queries to fetch city, state, and geographical info. Great for shipping forms, delivery tracking, and address validation.</details> | None | Easy |
-| [PositionStack](https://positionstack.com/) | <details><summary>Geocoding and reverse geocoding API</summary>Convert addresses into coordinates and vice versa. Useful for logistics, mapping apps, and location tracking.</details> | API Key | Medium |
-
-
-## IP & Network Tools
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [IPify](https://www.ipify.org/) | <details><summary>Get public IP address of the client device</summary>Useful for logging, analytics, geolocation, and showing user network details in applications.</details> | None | Easy |
-| [ipinfo.io](https://ipinfo.io/) | <details><summary>Provides IP geolocation and network information</summary>Returns data like city, region, country, location coordinates, organization, and timezone.</details> | API Key (Free Tier) | Easy |
-
-
-## Books & Education
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [Open Library API](https://openlibrary.org/developers/api) | <details><summary>Access book data, authors, ISBN, covers, and more</summary>Build educational, cataloging, or book recommendation platforms using open access to millions of books from the Internet Archive.</details> | None | Medium |
-| [Google Books API](https://developers.google.com/books/) | <details><summary>Search and access millions of books with metadata, previews, and ISBN</summary>Useful for education platforms, library systems, or any application that deals with books and reading materials.</details> | API Key | Medium |
-
-## Currency & Finance
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [ExchangeRate API](https://www.exchangerate-api.com/) | <details><summary>Get real-time exchange rates for 160+ currencies</summary>Simple REST API for adding currency conversion to your app, finance dashboard, or e-commerce platform.</details> | API Key | Easy |
-## Media / Music
-| API | Description | Auth | Difficulty |
-|-----|-------------|------|------------|
-| [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Get lyrics for songs by title and artist</summary>Free, no-auth lyrics API useful for music player apps, karaoke apps, and entertainment dashboards.</details> | None | Easy |
 
 
 
@@ -218,6 +187,8 @@ Most requested APIs for common application features:
 | [Hugging Face](https://huggingface.co/docs/api-inference/index) | <details><summary>Access to thousands of machine learning models for NLP, computer vision, and audio</summary>Use pre-trained models for text classification, image recognition, language translation, and more without building models from scratch.</details> | API Key | Easy |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
+| [OpenAI API](https://platform.openai.com/docs) | <details><summary>Access powerful AI models like GPT-4 and DALL·E</summary>Use for chatbots, code generation, image creation, and natural language processing apps.</details> | API Key | Medium |
+
 
 ---
 
@@ -274,6 +245,11 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Open Library](https://openlibrary.org/developers/api) | <details><summary>Book data from Internet Archive's Open Library</summary>Search books, get book information, covers, and author details for building library applications and book catalogs.</details> | None | Easy |
 | [Google Books](https://developers.google.com/books) | <details><summary>Search and access book information from Google's book database</summary>Build book search engines, reading lists, and book recommendation systems.</details> | API Key | Easy |
+| [Open Library API](https://openlibrary.org/developers/api) | <details><summary>Access book data, authors, covers, ISBNs</summary>Great for cataloging apps and book-related tools.</details> | None | Medium |
+| [Google Books API](https://developers.google.com/books/) | <details><summary>Search and preview millions of books</summary>Perfect for reading apps, educational platforms, and book directories.</details> | API Key | Medium |
+| [Gutendex](https://gutendex.com/) | <details><summary>Access public domain books from Project Gutenberg</summary>Provides metadata, formats, and text content for thousands of classic books. Great for readers, researchers, and education platforms.</details> | None | Easy |
+
+
 
 ---
 
@@ -283,6 +259,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Alpha Vantage](https://www.alphavantage.co/documentation/) | <details><summary>Stock market data, forex, and cryptocurrency information</summary>Get real-time and historical stock prices, technical indicators, and financial data for building trading applications.</details> | API Key | Easy |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
+| [ExchangeRate API](https://www.exchangerate-api.com/) | <details><summary>Currency exchange rates for 160+ currencies</summary>Useful for pricing apps, dashboards, and financial tools.</details> | API Key | Easy |
+| [CoinGecko API](https://www.coingecko.com/en/api) | <details><summary>Cryptocurrency market data</summary>Real-time prices, charts, market cap, and token info for thousands of coins. Great for crypto dashboards and finance apps.</details> | None | Medium |
+
+
 
 ---
 
@@ -292,6 +272,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Google Calendar](https://developers.google.com/calendar) | <details><summary>Calendar management and event scheduling</summary>Integrate calendar functionality, create events, manage schedules, and build scheduling applications.</details> | OAuth | Medium |
 | [Calendarific](https://calendarific.com/api-documentation) | <details><summary>Public holidays and observances for 230+ countries</summary>Get holiday information and observances to enhance calendar applications and scheduling systems.</details> | API Key | Easy |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | <details><summary>Search events, venues, and organizers</summary>Used for event discovery apps, calendar integrations, and ticketing platforms.</details> | OAuth | Medium |
 
 ---
 
@@ -311,6 +292,10 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for frontend development, testing, and learning. Provides fake posts, comments, users, and more.</details> | None | Easy |
 | [httpbin](https://httpbin.org/) | <details><summary>HTTP request and response testing service</summary>Test HTTP libraries, debug requests, and understand HTTP behavior with various endpoints.</details> | None | Easy |
 | [ReqRes](https://reqres.in/) | <details><summary>Test your front-end against a real API</summary>Simulate real API responses for user management, authentication testing, and API integration testing.</details> | None | Easy |
+| [IPify](https://www.ipify.org/) | <details><summary>Get public IP address of the client</summary>Useful for network logging, analytics, and system info.</details> | None | Easy |
+| [ipinfo.io](https://ipinfo.io/) | <details><summary>IP geolocation and ISP details</summary>Returns region, country, coordinates, and more for a given IP address.</details> | API Key | Easy |
+| [HTTPBin](https://httpbin.org/) | <details><summary>Test HTTP methods and responses</summary>Free tool to simulate GET, POST, headers, delays, redirects, and more. Ideal for debugging API calls.</details> | None | Easy |
+
 
 ---
 
@@ -320,6 +305,7 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dictionary API](https://dictionaryapi.dev/) | <details><summary>Free English dictionary with definitions, pronunciations, and examples</summary>Add dictionary functionality to your applications with word definitions, phonetics, and usage examples.</details> | None | Easy |
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
+| [Free Dictionary API](https://dictionaryapi.dev/) | <details><summary>Get word definitions, phonetics, and examples</summary>Perfect for language learning apps, writing tools, and vocabulary practice platforms.</details> | None | Easy |
 
 ---
 
@@ -329,6 +315,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [EmailJS](https://www.emailjs.com/docs/) | <details><summary>Send emails directly from client-side JavaScript</summary>Send emails from frontend applications without backend infrastructure. Great for contact forms and notifications.</details> | API Key | Easy |
 | [Mailgun](https://documentation.mailgun.com/en/latest/) | <details><summary>Email delivery service for developers</summary>Send transactional emails, newsletters, and notifications with high deliverability rates.</details> | API Key | Easy |
+| [Mailchimp Transactional API (Mandrill)](https://mailchimp.com/developer/transactional/api/) | <details><summary>Send transactional emails, track opens, clicks, and bounces</summary>Perfect for apps needing email confirmations, receipts, and notifications.</details> | API Key | Medium |
+
 
 ---
 
@@ -347,6 +335,11 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [OpenWeatherMap](https://openweathermap.org/api) | <details><summary>Weather data including current conditions, forecasts, and historical data</summary>Add weather information to your applications with current conditions, forecasts, and weather maps.</details> | API Key | Easy |
 | [AirVisual](https://www.iqair.com/air-pollution-data-api) | <details><summary>Air quality data for cities worldwide</summary>Get real-time air quality information, pollution data, and health recommendations.</details> | API Key | Easy |
+| [WeatherAPI](https://openweathermap.org/api) | Weather forecast and current weather data | API Key | Easy |
+| [Weatherstack](https://weatherstack.com/) | <details><summary>Real-time weather data</summary>Get temperature, wind speed, precipitation, and forecasts — great for dashboards and travel apps.</details> | API Key | Easy |
+| [AQICN API](https://aqicn.org/api/) | <details><summary>Air quality and pollution data</summary>Global air quality index (AQI) with PM2.5, PM10, NO₂, etc. Perfect for health apps and environmental dashboards.</details> | API Key | Medium |
+
+
 
 ---
 
@@ -365,6 +358,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Spoonacular](https://spoonacular.com/food-api) | <details><summary>Food and recipe data with nutrition information</summary>Build recipe apps, meal planners, and nutrition trackers with detailed food and recipe data.</details> | API Key | Easy |
 | [TheCocktailDB](https://www.thecocktaildb.com/api.php) | <details><summary>Cocktail recipes and drink information</summary>Get cocktail recipes, ingredients, and drink information for building bar and recipe applications.</details> | None/API Key | Easy |
+| [TheMealDB](https://www.themealdb.com/api.php) | <details><summary>Get recipes, ingredients, categories, and images</summary>Perfect for food blogs, cooking apps, or meal-planning tools. Offers filterable recipes by region or category.</details> | None | Easy |
+
 
 ---
 
@@ -383,6 +378,11 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Mapbox](https://docs.mapbox.com/api/) | <details><summary>Maps, geocoding, and location services</summary>Add interactive maps, geocoding, and navigation features to your applications with customizable styling.</details> | API Key | Medium |
 | [OpenStreetMap Nominatim](https://nominatim.org/release-docs/develop/api/Overview/) | <details><summary>Free geocoding service using OpenStreetMap data</summary>Convert addresses to coordinates and vice versa using open-source mapping data.</details> | None | Easy |
+| [Zippopotam.us](http://www.zippopotam.us/) | <details><summary>Postal/ZIP code location lookup</summary>Supports postal code queries for country, city, state. Great for forms and logistics.</details> | None | Easy |
+| [PositionStack](https://positionstack.com/) | <details><summary>Geocoding and reverse geocoding</summary>Convert addresses to coordinates and vice versa. Useful for location tracking apps.</details> | API Key | Medium |
+| [MapQuest Geocoding API](https://developer.mapquest.com/documentation/geocoding-api/) | <details><summary>Convert addresses to lat/lon and vice versa</summary>Used in mapping, delivery apps, travel tools, and location services.</details> | API Key | Medium |
+
+
 
 ---
 
@@ -392,6 +392,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [REST Countries](https://restcountries.com/) | <details><summary>Country information including flags, currencies, and demographics</summary>Get comprehensive country data for building educational apps, travel applications, and geographical tools.</details> | None | Easy |
 | [US Census](https://www.census.gov/data/developers/data-sets.html) | <details><summary>US demographic and economic data</summary>Access population, economic, and demographic data for research and analysis applications.</details> | None/API Key | Medium |
+| [Data.gov APIs](https://api.data.gov/) | <details><summary>Access US government datasets via various APIs</summary>Includes data on health, agriculture, energy, education, and more. Useful for civic-tech and research tools.</details> | API Key | Medium |
+
 
 ---
 
@@ -401,6 +403,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Disease.sh](https://disease.sh/docs/) | <details><summary>COVID-19 and disease statistics</summary>Get global disease data, COVID-19 statistics, and health information for building health tracking applications.</details> | None | Easy |
 | [FHIR](https://www.hl7.org/fhir/) | <details><summary>Healthcare interoperability standard for medical data</summary>Access and exchange healthcare information using industry-standard medical data formats.</details> | Varies | Hard |
+| [OpenFDA](https://open.fda.gov/apis/) | <details><summary>Access FDA data on drugs, devices, and food safety</summary>Great for building health-related research tools, alerts, and dashboards.</details> | None | Medium |
+
 
 ---
 
@@ -419,6 +423,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Last.fm](https://www.last.fm/api) | <details><summary>Music metadata, user listening data, and recommendations</summary>Build music discovery apps, scrobbling services, and music recommendation systems.</details> | API Key | Easy |
 | [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Song lyrics database</summary>Get song lyrics for music applications and karaoke systems.</details> | None | Easy |
+| [Lyrics.ovh](https://lyricsovh.docs.apiary.io/) | <details><summary>Get lyrics by song title and artist</summary>Great for music apps, entertainment platforms, and fun projects.</details> | None | Easy |
+
 
 ---
 
@@ -428,6 +434,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [NewsAPI](https://newsapi.org/) | <details><summary>News articles from thousands of sources worldwide</summary>Build news aggregators, current events apps, and media monitoring tools with real-time news data.</details> | API Key | Easy |
 | [Guardian API](https://open-platform.theguardian.com/) | <details><summary>Access to The Guardian's content and archives</summary>Get articles, multimedia content, and editorial data from The Guardian newspaper.</details> | API Key | Easy |
+| [NewsData API](https://newsdata.io/) | <details><summary>Get real-time news articles from 50+ countries</summary>Search by keyword, language, region, or category. Supports breaking news alerts.</details> | API Key | Medium |
+
 
 ---
 
@@ -464,6 +472,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Pexels](https://www.pexels.com/api/) | <details><summary>Free stock photography and videos</summary>Access thousands of high-quality free photos and videos for your projects and applications.</details> | API Key | Easy |
 | [Pixabay](https://pixabay.com/api/docs/) | <details><summary>Free images, vectors, and videos</summary>Get royalty-free images, illustrations, and videos for commercial and personal use.</details> | API Key | Easy |
+| [Pexels API](https://www.pexels.com/api/) | <details><summary>Free high-quality stock photos and videos</summary>Search and access stunning media content for blogs, portfolios, and creative tools.</details> | API Key | Easy |
+
 
 ---
 
@@ -500,6 +510,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Twitter API](https://developer.twitter.com/en/docs) | <details><summary>Tweet data, user information, and social media analytics</summary>Build social media tools, sentiment analysis applications, and Twitter integrations.</details> | OAuth | Hard |
 | [Reddit](https://www.reddit.com/dev/api/) | <details><summary>Reddit posts, comments, and community data</summary>Access Reddit content for building social media analytics, content aggregators, and community tools.</details> | OAuth | Medium |
+| [Telegram Bot API](https://core.telegram.org/bots/api) | <details><summary>Create bots for messaging, groups, and integrations</summary>Send and receive messages, media, and interactive buttons. Great for building automation and tools.</details> | Token | Medium |
+
 
 ---
 
@@ -509,6 +521,8 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [ESPN](http://www.espn.com/apis/devcenter/) | <details><summary>Sports scores, statistics, and news</summary>Get live sports data, player statistics, and sports news for building sports applications.</details> | None | Easy |
 | [Football-Data](https://www.football-data.org/) | <details><summary>Soccer/football match data and statistics</summary>Access fixture lists, match results, and team statistics for soccer applications.</details> | API Key | Easy |
+| [API-Football](https://www.api-football.com/documentation-v3) | <details><summary>Live scores, fixtures, and player stats for football/soccer</summary>Covers leagues, teams, matches, and live updates — great for sports dashboards and apps.</details> | API Key | Medium |
+
 
 ---
 
@@ -518,6 +532,11 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
+| [ReqRes](https://reqres.in/) | <details><summary>Mock user API for simulating POST, GET, PUT, DELETE requests</summary>Ideal for testing authentication, pagination, and UI states using dummy user data.</details> | None | Easy |
+| [Mockaroo](https://mockaroo.com/) | <details><summary>Generate realistic fake data with custom schemas</summary>Supports over 140 data types including names, emails, credit cards, and more. Download as JSON, CSV, SQL, Excel, etc.</details> | None | Easy |
+| [Bored API](https://www.boredapi.com/) | <details><summary>Get random fun activity suggestions</summary>Returns a creative activity to try when you're bored. Great for demos, boredom relievers, or casual apps.</details> | None | Easy |
+| [FakerAPI](https://fakerapi.it/en) | <details><summary>Generate fake people, products, texts, and companies</summary>Great for testing dashboards, cards, tables, and other UI components with rich sample data.</details> | None | Easy |
+
 
 ---
 
