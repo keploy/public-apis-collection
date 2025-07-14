@@ -181,10 +181,7 @@ Most requested APIs for common application features:
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | <details><summary>Run ML models via API</summary>Run NLP, image, and audio ML models via simple HTTP calls. Use pretrained models from Hugging Face without any infra setup.</details> | API Key | Medium |
 | [Cohere](https://docs.cohere.com/docs) | <details><summary>Natural language processing API for text generation, classification, and embeddings</summary>Build chatbots, content generators, semantic search, and text analysis applications with powerful language models.</details> | API Key | Easy |
 | [Clarifai](https://docs.clarifai.com/) | <details><summary>Computer vision and natural language processing platform</summary>Add image recognition, video analysis, text processing, and custom model training to your applications.</details> | API Key | Medium |
-
 | [OpenAI API](https://platform.openai.com/docs) | <details><summary>Access powerful AI models like GPT-4 and DALL·E</summary>Use for chatbots, code generation, image creation, and natural language processing apps.</details> | API Key | Medium |
-
-
 | [Gemini API (Google AI Studio)](https://aistudio.google.com) | <details><summary>Generative AI for text content, similar to ChatGPT</summary>Supports text generation via Google’s Gemini models. Easily accessible with API key from AI Studio dashboard.</details> | API Key | Medium |
 | [OpenRouter](https://openrouter.ai/docs) | <details><summary>Unified API for accessing multiple LLMs</summary>Query OpenAI, Anthropic, Mistral, Meta, and more through a single API endpoint — perfect for experimenting and benchmarking.</details> | API Key | Easy |
 | [Gemini Pro (Google AI)](https://makersuite.google.com/) | <details><summary>Advanced generative AI platform by Google</summary>Use Gemini Flash and Gemini 1.5 Pro for tasks like text generation, scraping automation, summarization, and AI-powered content workflows. Ideal for NLP, intelligent agents, and structured data extraction.</details> | API Key | Medium |
