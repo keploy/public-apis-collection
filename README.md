@@ -164,6 +164,10 @@ Most requested APIs for common application features:
 | [Okta](https://developer.okta.com/docs/reference/) | <details><summary>Enterprise-grade identity and access management</summary>Secure your applications with advanced authentication, authorization, and user management capabilities.</details> | API Key | Hard |
 | [Magic.link](https://magic.link/docs/introduction/introduction) | <details><summary>Passwordless authentication using magic links</summary>Enable secure login with just an email address — no passwords required. Great for Web3, SaaS, and onboarding flows.</details> | API Key | Easy |
 | [SuperTokens](https://supertokens.com/docs/community/introduction) | <details><summary>Open-source authentication with prebuilt UI and backend</summary>Includes email/password, social login, and session management. Easily customizable and self-hostable.</details> | None | Medium |
+| [Keycloak](https://www.keycloak.org/docs-api/15.0/rest-api/index.html) | <details><summary>Open-source identity and access management</summary>Supports SSO, MFA, and OAuth2 login — widely used in modern apps and microservices.</details> | Token | Medium |
+| [Stytch](https://stytch.com/docs) | <details><summary>Passwordless authentication API</summary>Offers email magic links, SMS OTPs, and OAuth integration for modern apps.</details> | API Key | Easy |
+| [Clerk API](https://clerk.dev/docs/reference/backend-api) | <details><summary>User auth, account management & sessions for modern web apps</summary>Integrates seamlessly with frontend frameworks like React, Next.js, and more.</details> | API Key | Easy |
+
 
 ---
 
@@ -186,6 +190,9 @@ Most requested APIs for common application features:
 | [ElevenLabs API](https://docs.elevenlabs.io/) | <details><summary>Text-to-speech API offering lifelike voice synthesis with multiple voices, emotions, and languages</summary>Create natural-sounding voiceovers, audiobooks, and voice interfaces with advanced AI voice synthesis technology.</details> | API Key | Medium |
 | [DeepL](https://www.deepl.com/docs-api) | <details><summary>Language translation API</summary>Accurate and fast machine translation for text and documents in multiple languages, with support for glossaries and document translation.</details> | API Key | Easy |
 | [DeepAI](https://deepai.org/) | <details><summary>AI-powered APIs for image recognition, text summarization, and more</summary>Free and paid APIs for image recognition, NSFW detection, text analysis, and style transfer.</details> | API Key | Easy |
+| [Stability AI](https://platform.stability.ai/docs/api-reference) | <details><summary>Text-to-image generation API using Stable Diffusion</summary>Create stunning visuals from text prompts — great for creative AI projects.</details> | API Key | Medium |
+| [Mistral AI](https://docs.mistral.ai/) | <details><summary>Fast, open-weight LLMs for text generation</summary>Use Mistral 7B, Mixtral, and others for chatbots, coding tools, and reasoning apps.</details> | API Key | Easy |
+| [Replicate](https://replicate.com/docs) | <details><summary>Run open-source ML models via API</summary>Use pre-trained models for audio, vision, language, and more. Includes real-time inference support.</details> | Token | Medium |
 
 ---
 
@@ -202,7 +209,10 @@ Most requested APIs for common application features:
 | [Shibe Online API](http://shibe.online/) | <details><summary>Random pictures of shibes, cats, and birds</summary>Great for pet-themed apps and generating cute animal images randomly.</details> | None | Easy |
 | [The Dog API](https://thedogapi.com/) | <details><summary>Comprehensive dog breed database with images and information</summary>Access extensive breed data, search by breed, temperament, and more. Includes image upload and voting features.</details> | API Key | Easy |
 | [Cat Ninjas API](https://catninjas.com/api) | <details><summary>Random cat images with ninja themes</summary>Get random cat images with ninja-themed content, perfect for fun applications and cat lovers who enjoy martial arts themes.</details> | None | Easy |
-| [Capy](https://capy.lol/) | <details><summary>Capybara Images</summary>capybara-api is a sweet, cute, fast API to get a whole bunch of images or a random image of a capybara</details>| None     | Easy       |      
+| [Capy](https://capy.lol/) | <details><summary>Capybara Images</summary>capybara-api is a sweet, cute, fast API to get a whole bunch of images or a random image of a capybara</details>| None     | Easy       |   
+| [Petfinder API](https://www.petfinder.com/developers/) | <details><summary>Find adoptable pets, shelters, and animal welfare orgs</summary>Use for pet adoption platforms and animal search directories.</details> | API Key | Medium |
+| [CATAAS](https://cataas.com/#/) | <details><summary>Cat as a Service API for fun cat images with custom text</summary>Perfect for testing image loads and having fun with memes.</details> | None | Easy |
+
 
 ---
 
@@ -233,6 +243,10 @@ Most requested APIs for common application features:
 | [ALTCHA API](https://altcha.org/) | <details><summary>Proof-of-work CAPTCHA & anti-spam API</summary>Create and verify challenges to protect forms and APIs without using cookies or user tracking. Supports classification and customizable complexity.</details> | API Key | Medium |
 | [IPQualityScore](https://www.ipqualityscore.com/documentation/overview) | <details><summary>Detect fraudulent users, bots, and malicious IPs</summary>Prevent fake signups and abuse with fraud scoring, email validation, and proxy/VPN detection.</details> | API Key | Medium |
 | [AbuseIPDB](https://docs.abuseipdb.com/) | <details><summary>Check if an IP address has been reported for abuse</summary>Check IP addresses for reports of abusive behavior such as spam, hacking attempts, or malicious activity. Useful for threat intelligence and security applications.</details> | API Key | Easy |
+| [Google Safe Browsing API](https://developers.google.com/safe-browsing/v4) | <details><summary>Check URLs against Google’s list of unsafe web resources</summary>Protect users by warning about phishing, malware, and harmful sites.</details> | API Key | Medium |
+| [Mozilla Observatory](https://http-observatory.security.mozilla.org/api) | <details><summary>Scan HTTP security headers for web applications</summary>Analyze websites for TLS, HSTS, CSP, XSS protection, and more.</details> | None | Easy |
+| [SecurityTrails API](https://securitytrails.com/corp-api) | <details><summary>Look up domain, DNS, IP, and historical WHOIS data</summary>Ideal for threat intelligence and domain investigation tools.</details> | API Key | Medium |
+
 
 ---
 
@@ -272,6 +286,9 @@ Most requested APIs for common application features:
 | [Google Books](https://developers.google.com/books) | <details><summary>Search and access book information from Google's book database</summary>Build book search engines, reading lists, and book recommendation systems.</details> | API Key | Easy |
 | [PoetryDB](https://poetrydb.org/index.html) | <details><summary>PoetryDB is the World's First API for next generation Internet poets.</details> | API Key | Easy |
 | [Gutendex](https://gutendex.com/) | <details><summary>API for Project Gutenberg’s free eBook collection</summary>Search, browse, and retrieve metadata of public domain books from Project Gutenberg.</details> | None | Easy |
+| [ISBNdb](https://isbndb.com/apidocs) | <details><summary>Search book details by ISBN</summary>Ideal for book-related platforms needing title, author, and category metadata.</details> | API Key | Easy |
+| [BookBrainz](https://bookbrainz.org/doc/Development/API) | <details><summary>Open and structured book metadata</summary>Perfect for cataloging and digital library projects.</details> | None | Medium |
+
   
 ---
 
@@ -283,6 +300,11 @@ Most requested APIs for common application features:
 | [IEX Cloud](https://iexcloud.io/docs/api/) | <details><summary>Financial data including stocks, ETFs, and market statistics</summary>Access comprehensive financial market data for building investment tracking and analysis tools.</details> | API Key | Easy |
 | [Domainsdb](https://domainsdb.info/) | <details><summary>Search across 260M+ registered domain names and 1000+ TLDs.</summary>Provides access to a vast index of registered domains, enabling keyword-based search across over 260 million domains and 1000+ TLDs.            </details> | None | Easy |
 | [ExchangeRate API](https://api.exchangerate.host) | <details><summary>Free currency exchange rate data</summary>Provides current and historical foreign exchange rates for multiple currencies with no auth required.</details> | No | Easy |
+| [CoinGecko API](https://www.coingecko.com/en/api) | <details><summary>Comprehensive cryptocurrency market data</summary>Access real-time prices, market caps, charts, exchanges, and trending coins — great for crypto dashboards and DeFi apps.</details> | None | Medium |
+| [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs/) | <details><summary>Stock fundamentals, income statements, company profiles, and more</summary>Ideal for financial dashboards and investment analysis tools.</details> | API Key | Medium |
+| [Finnhub](https://finnhub.io/docs/api) | <details><summary>Real-time stock, crypto, forex data, and financial news</summary>Rich financial data including earnings, analyst ratings, and more — great for fintech apps.</details> | API Key | Medium |
+| [Fixer.io](https://apilayer.com/marketplace/fixer-api) | <details><summary>Real-time foreign exchange rates for 170+ currencies</summary>Simple, powerful currency conversion API for pricing apps and dashboards.</details> | API Key | Easy |
+| [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Largest open database of companies in the world</summary>Get company info, jurisdictions, directors, and more — useful for KYC, research, and compliance tools.</details> | API Key | Medium |
 
 ---
 
@@ -292,6 +314,10 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Google Calendar](https://developers.google.com/calendar) | <details><summary>Calendar management and event scheduling</summary>Integrate calendar functionality, create events, manage schedules, and build scheduling applications.</details> | OAuth | Medium |
 | [Calendarific](https://calendarific.com/api-documentation) | <details><summary>Public holidays and observances for 230+ countries</summary>Get holiday information and observances to enhance calendar applications and scheduling systems.</details> | API Key | Easy |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | <details><summary>Search, list, and manage events and organizers</summary>Access public events, venues, and ticketing data. Ideal for event discovery platforms and scheduling tools.</details> | OAuth | Medium |
+| [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | <details><summary>Search for concerts, sports, and entertainment events</summary>Filter by keyword, genre, location, and date. Great for entertainment and booking apps.</details> | API Key | Medium |
+| [Date.nager.Date API](https://date.nager.at/swagger/index.html) | <details><summary>Worldwide public holiday API</summary>Free and open-source API to retrieve official holidays by country and year. Lightweight and easy to integrate.</details> | None | Easy |
+
 
 ---
 
@@ -301,6 +327,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Dropbox](https://www.dropbox.com/developers/documentation) | <details><summary>File storage and sharing platform integration</summary>Add file upload, sharing, and synchronization features to your applications.</details> | OAuth | Medium |
 | [Google Drive](https://developers.google.com/drive) | <details><summary>File storage and collaboration platform</summary>Integrate Google Drive functionality for file management, sharing, and collaboration features.</details> | OAuth | Medium |
+| [Box API](https://developer.box.com/reference) | <details><summary>Cloud content management and file collaboration</summary>Upload, manage, share files, and integrate workflows with secure access controls. Used by enterprises and startups alike.</details> | OAuth | Medium |
+| [Uploadcare API](https://uploadcare.com/docs/api_reference/) | <details><summary>File upload, CDN delivery, and media processing API</summary>Offers smart image compression, on-the-fly transformations, and secure file handling.</details> | API Key | Easy |
+| [Filestack API](https://www.filestack.com/docs/) | <details><summary>File upload, transform, and delivery service</summary>Integrates advanced file picker, image editing, and robust file delivery/CDN capabilities.</details> | API Key | Medium |
 
 ---
 
@@ -329,6 +358,10 @@ Most requested APIs for common application features:
 | [Google Translate](https://cloud.google.com/translate/docs) | <details><summary>Language translation service supporting 100+ languages</summary>Add translation capabilities to your applications for international users.</details> | API Key | Easy |
 | [Oxford Dictionaries API](https://developer.oxforddictionaries.com/documentation) | <details><summary>Dictionary & translation data</summary>Lookup word definitions, translations, pronunciations, example sentences, inflections, and word origins for multiple languages.</details> | App ID + App Key | Medium |
 | [Lingua Robot](https://www.linguarobot.io/docs) | <details><summary>Word definitions, pronunciation, and usage</summary>Powerful and developer-friendly dictionary API supporting phonetics, synonyms, and word meanings.</details> | API Key | Easy |
+| [Free Dictionary API](https://dictionaryapi.dev/) | <details><summary>Get definitions, synonyms, phonetics, and usage examples</summary>Supports multiple languages including English, Spanish, and French.</details> | None | Easy |
+| [WordsAPI](https://www.wordsapi.com/docs/) | <details><summary>Word definitions, rhymes, syllables, frequency, and more</summary>Great for language learning tools, writing apps, and games.</details> | API Key | Easy |
+| [Wordnik API](https://developer.wordnik.com/docs) | <details><summary>Get definitions, synonyms, antonyms, and usage examples</summary>Large and well-structured dataset. Great for writing assistants and NLP tools.</details> | API Key | Medium |
+
 
 ---
 
@@ -339,6 +372,9 @@ Most requested APIs for common application features:
 | [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/) | <details><summary>Real-time earthquake data globally</summary>Provides real-time earthquake data such as magnitude, location, and time from the U.S. Geological Survey.</details> | None | Medium |
 | [ReliefWeb API](https://api.reliefweb.int/docs) | <details><summary>Humanitarian disaster alerts and data</summary>Offers curated humanitarian information including disaster updates, jobs, and reports published by UN and NGOs.</details> | None | Medium |
 | [Global Disaster Alert (GDACS)](https://www.gdacs.org/) | <details><summary>Alerts on earthquakes, floods, cyclones</summary>The Global Disaster Alert and Coordination System gives updates on natural disasters like earthquakes, floods, and cyclones.</details> | None | Medium |
+| [IFRC GO API (Red Cross)](https://go.ifrc.org/api) | <details><summary>Disaster response and operations data by the International Federation of Red Cross</summary>Includes field reports, emergency operations updates, deployments, and appeal data across regions.</details> | None | Medium |
+| [NASA EONET API](https://eonet.gsfc.nasa.gov/docs/v3) | <details><summary>Earth Observatory Natural Event Tracker</summary>Real-time global natural events like wildfires, storms, and volcanic activity curated by NASA.</details> | None | Medium |
+
 
 
 ---
@@ -351,6 +387,9 @@ Most requested APIs for common application features:
 | [Mailgun](https://documentation.mailgun.com/en/latest/) | <details><summary>Email delivery service for developers</summary>Send transactional emails, newsletters, and notifications with high deliverability rates.</details> | API Key | Easy |
 | [Zoom API](https://marketplace.zoom.us/) | <details><summary>Schedule and manage video meetings via API</summary>Create meetings, manage users, and access recordings using JWT or OAuth authentication. Ideal for integrating Zoom into scheduling or video conferencing apps.</details> | API Key / OAuth | Medium |
 | [Google Meet (via Calendar API)](https://console.cloud.google.com/) | <details><summary>Create Meet links by scheduling calendar events</summary>Use the Google Calendar API to schedule events with embedded Google Meet links. Requires OAuth token and calendar scope.</details> | OAuth | Medium |
+| [Mailjet API](https://dev.mailjet.com/email/guides/send-api-v31/) | <details><summary>Send transactional or marketing emails via REST API</summary>Track email status, deliverability, opens, and clicks.</details> | API Key | Medium |
+| [Brevo (Sendinblue) API](https://developers.brevo.com/docs) | <details><summary>Email and SMS communication platform API</summary>Use for newsletters, OTPs, and alerts with real-time analytics.</details> | API Key | Easy |
+
 
 
 ---
@@ -382,6 +421,9 @@ Most requested APIs for common application features:
 | [MetaWeather](https://www.metaweather.com/) | <details><summary>Free weather data with no authentication</summary>Get current weather, forecasts, and historical weather data. Useful for quick testing and demos.</details> | No | Easy |
 | [Open-Meteo](https://open-meteo.com/en/docs) | <details><summary>Free weather forecast API for open-source use</summary>Provides hourly and daily forecasts for temperature, wind, rain, humidity, and more. Designed for fast integration without any API key. Ideal for open-source and academic projects with global weather coverage.</details> | None | Easy |
 | [Electricity Maps](https://www.electricitymaps.com/) | <details><summary>Electricity data and carbon intensity worldwide</summary>Get real time, historical, and forecasted data on electricity mix, prices, and carbon emissions.</details> | API Key | Easy |
+| [WeatherAPI](https://openweathermap.org/api) | Weather forecast and current weather data | API Key | Easy |
+| [Weatherstack](https://weatherstack.com/) | <details><summary>Real-time weather data</summary>Get temperature, wind speed, precipitation, and forecasts — great for dashboards and travel apps.</details> | API Key | Easy |
+
 
 ---
 
@@ -392,6 +434,11 @@ Most requested APIs for common application features:
 | [Fixer.io](https://fixer.io/documentation) | <details><summary>Foreign exchange rates and currency conversion</summary>Get real-time and historical exchange rates for building currency converters and financial applications.</details> | API Key | Easy |
 | [CurrencyAPI](https://currencyapi.com/) | <details><summary>Real-time and historical currency exchange rates</summary>Access accurate currency data for e-commerce, financial apps, and international business applications.</details> | API Key | Easy |
 | [Exchangerate.host](https://exchangerate.host) | <details><summary>Free currency exchange & conversion API</summary>Provides real-time foreign exchange rates and historical data. No API key needed and supports base currency selection.</details> | None | Easy |
+| [BankData API (OpenBanking)](https://api.apis.guru/v2/specs/openbanking.org.uk/2.0.0/swagger.json) | <details><summary>UK open banking API for bank and ATM data</summary>Access detailed information on banks, ATMs, branches, and account services — ideal for fintech and banking apps.</details> | None | Medium |
+| [IBAN API](https://www.iban.com/iban-api) | <details><summary>Validate international bank account numbers (IBAN)</summary>Useful for financial applications and international payment verification.</details> | API Key | Easy |
+| [CoinAPI](https://www.coinapi.io/) | <details><summary>Cryptocurrency exchange rates and market data</summary>Access real-time crypto prices from multiple exchanges, ideal for crypto wallets and finance dashboards.</details> | API Key | Medium |
+| [Frankfurter API](https://www.frankfurter.app/docs) | <details><summary>Free and simple foreign exchange rates</summary>Open-source exchange rate API powered by the European Central Bank. Ideal for quick currency conversion tools.</details> | None | Easy |
+| [Binlist API](https://binlist.net/) | <details><summary>Bank and card BIN lookup</summary>Get bank details, country, and card type from card BINs — useful for fraud detection and checkout validation.</details> | None | Easy |
 
 ---
 
@@ -422,6 +469,8 @@ Most requested APIs for common application features:
 | [Lichess API](https://lichess.org/api) | <details><summary>Free, open-source chess server API</summary>Access user profiles, game archives, tournaments, live game streams, and bot endpoints. Great for building analysis tools, custom clients, and tournament integrations.</details> | OAuth | Medium |
 | [Raider API](https://genshinlist.com/developer-api) | <details><summary>Alternate Genshin game data</summary>REST API (genshinlist.com) offering characters, weapon, and artifact endpoints; requires credit & non‑competing policy.</details> | None | Medium |
 | [Deck of Cards API](https://deckofcardsapi.com/) | <details><summary>Simulate a deck of cards including shuffling and drawing</summary>Useful for creating card games, testing logic, or teaching card mechanics.</details> | None | Easy |
+| [RAWG Video Games Database API](https://rawg.io/apidocs) | <details><summary>Largest open video game database API</summary>Includes game titles, genres, ratings, developers, and stores.</details> | API Key | Easy |
+| [Comic Vine API](https://comicvine.gamespot.com/api/) | <details><summary>Comics, characters, volumes, issues & publishers</summary>Great for superhero or comic tracking apps.</details> | API Key | Medium |
 
 
 ---
@@ -440,6 +489,10 @@ Most requested APIs for common application features:
 | [IPinfo](https://ipinfo.io/developers/) | <details><summary>IP address lookup and geolocation service</summary>Get location, ISP, and organization info for IPs—ideal for location-based customization or analytics.</details> | None | Easy |
 | [what3words API](https://developer.what3words.com/public-api) | <details><summary>A unique way to identify any 3m x 3m square in the world with just three words.</summary>Ideal for precise location sharing for deliveries, emergencies, and travel applications where street addresses are not accurate enough.</details> | API Key | Easy |
 | [OpenSky Network API](https://opensky-network.org/apidoc/rest.html) | <details><summary>Real-time and historical flight data for academic and non-commercial use.</summary>Track flights, get aircraft positions, and access a wealth of aviation data. A great free alternative for hobbyist projects.</details> | None | Medium |
+| [OpenCage Geocoder](https://opencagedata.com/api) | <details><summary>Geocoding and reverse geocoding API</summary>Built on OSM and other open sources — excellent for global location search and address formatting.</details> | API Key | Medium |
+| [Geoapify](https://apidocs.geoapify.com/) | <details><summary>All-in-one mapping, routing, and location services</summary>Great for map visualizations, POI search, and route planning apps.</details> | API Key | Medium |
+
+
 
 ## Government & Public Data
 
@@ -515,6 +568,12 @@ Most requested APIs for common application features:
 | [News Aggregator](https://gnews.io/) | <details><summary>Provides real-time and historical news  with easy search and integration</details> | API Key | Easy |
 | [Currents API](https://currentsapi.services/en) | <details><summary>Recent news published on blogs, websites, and news outlets</summary>Provides headlines and news articles across categories with filtering by language and region.</details> | API Key | Easy |
 | [GNews API](https://gnews.io/) | <details><summary>Access to news articles from thousands of sources</summary>Search, filter, and retrieve news content using the free-tier GNews API.</details> | API Key | Easy |
+| [Mediastack](https://mediastack.com/documentation) | <details><summary>Real-time and historical news data API</summary>Provides access to thousands of news sources for headlines, topics, and regions.</details> | API Key | Medium |
+| [NewsData.io](https://newsdata.io/docs) | <details><summary>Search real-time news from 50+ countries</summary>Support for multiple languages, categories (tech, sports, etc.), and keyword filtering.</details> | API Key | Medium |
+| [ContextualWeb News API](https://rapidapi.com/contextualwebsearch/api/web-search) | <details><summary>Fetch curated news headlines with relevance scoring</summary>Great for NLP apps, sentiment analysis, and trending news feeds.</details> | API Key (via RapidAPI) | Medium |
+| [New York Times API](https://developer.nytimes.com/apis) | <details><summary>Access top stories, archives, articles, and reviews</summary>Official API for pulling news from the New York Times. Offers article search, movie and book reviews, and real-time headlines.</details> | API Key | Medium |
+
+
 
 
 ---
@@ -527,6 +586,11 @@ Most requested APIs for common application features:
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
 | [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Access company data from over 140 jurisdictions — including legal entities, directors, and filing histories.</summary>Ideal for compliance tools, investigative journalism, B2B verification apps, and enterprise analytics.</details> | API Key | Hard |
 | [SearchAPI.io](https://www.searchapi.io/) | <details><summary>Real-time Google Search scraping API for extracting web results, news, images, shopping data, and more without captchas or IP bans</summary>Useful for SEO tools, market research, content monitoring, and building search-powered applications. Offers multiple engines (Google, Bing, Baidu, etc.), localization, and rich result extraction. Supports keyword tracking, location-based search, and custom device emulation.</details> | API Key | Medium |
+| [Data.gov API](https://api.data.gov/) | <details><summary>U.S. government’s open data across health, environment, and more</summary>Search and integrate datasets for civic tech and research applications.</details> | API Key | Easy |
+| [Open Data EU Portal](https://data.europa.eu/en/apis) | <details><summary>Datasets from the European Union’s public repositories</summary>Ideal for researchers, analysts, and open data visualizations.</details> | API Key | Medium |
+| [UN Data API (UNStats)](https://unstats.un.org/SDGAPI/swagger/) | <details><summary>Official UN statistics on global sustainable development</summary>Use for dashboards on education, poverty, health, and environment KPIs.</details> | None | Medium |
+| [OpenWeather Historical Bulk Data](https://open-meteo.com/en/docs) | <details><summary>Climate and meteorological open datasets</summary>Get open access to past weather data, temperature, humidity, and pressure for analytics.</details> | None | Medium |
+
 
 ---
 
@@ -561,6 +625,8 @@ Most requested APIs for common application features:
 | [Twilio](https://www.twilio.com/docs/api) | <details><summary>SMS, voice, and communication services</summary>Send SMS messages, make voice calls, and build communication features into your applications.</details> | API Key | Easy |
 | [TextBelt](https://textbelt.com/) | <details><summary>Free SMS API for sending text messages</summary>Send SMS messages programmatically with a simple REST API.</details> | None/API Key | Easy |
 | [Vonage](https://developer.vonage.com/) | <details><summary>SMS, Voice, Video and Verification APIs</summary>Add messaging, voice calls, video conferencing, and 2FA verification to applications. Supports global number provisioning and advanced communication workflows.</details> | API Key | Medium |
+| [Vonage API](https://developer.vonage.com/en/messaging/sms/overview) | <details><summary>Send and receive SMS programmatically</summary>Supports SMS alerts, delivery reports, and OTP workflows globally.</details> | API Key | Medium |
+
 
 ---
 
@@ -583,6 +649,9 @@ Most requested APIs for common application features:
 | [GitHub](https://docs.github.com/en/rest) | <details><summary>Code repositories, issues, and development data</summary>Build developer tools, portfolio sites, and code analysis applications with comprehensive GitHub data.</details> | OAuth/Token | Medium |
 | [Stack Overflow](https://api.stackexchange.com/) | <details><summary>Programming Q&A data from Stack Overflow</summary>Access questions, answers, and programming knowledge from the largest developer community.</details> | None/API Key | Easy |
 | [Judge0](https://judge0.com/docs) | <details><summary>Online code execution and compiling API</summary>Execute and evaluate code in multiple programming languages, ideal for building online compilers, coding challenges, and auto-graders.</details> | API Key | Medium |
+| [Judge0 API](https://judge0.com/) | <details><summary>Compile and execute code in 60+ languages</summary>Perfect for building online IDEs or coding challenge platforms.</details> | API Key | Medium |
+| [Codeforces API](https://codeforces.com/apiHelp) | <details><summary>Fetch problems, contests, user profiles from Codeforces</summary>Useful for building CP dashboards or live standings.</details> | None | Medium |
+
 
 ---
 
@@ -595,6 +664,9 @@ Most requested APIs for common application features:
 | [Wolfram Alpha API](https://products.wolframalpha.com/api/) | <details><summary>Computational knowledge engine</summary>Submit queries to get structured data, charts, or plain‑text answers across math, science, culture, history, and more.</details> | API Key | Hard |
 | [Periodic Table API](https://neelpatel05.pythonanywhere.com/) | <details><summary>Info about all elements of the periodic table</summary>Educational API for accessing atomic data and chemistry-related information.</details> | None | Easy |
 | [Open Notify](http://open-notify.org/Open-Notify-API/) | <details><summary>Track the ISS and get people-in-space data</summary>Get real-time data about the ISS location, upcoming passes over coordinates, and the current crew in space — no authentication needed.</details> | None | Easy |
+| [Numbers API](http://numbersapi.com/) | <details><summary>Get trivia and facts about numbers (math, dates, years)</summary>Fun and lightweight API for math-focused projects.</details> | None | Easy |
+| [Newton API](https://github.com/aunyks/newton-api) | <details><summary>Math expression solver with steps</summary>Solve algebra, calculus, matrices, equations — great for education tools.</details> | None | Medium |
+
 
 
 ---
@@ -605,6 +677,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [Best Buy](https://bestbuyapis.github.io/api-documentation/) | <details><summary>Product information and pricing from Best Buy</summary>Access product catalogs, pricing, and availability data for building price comparison and shopping applications.</details> | API Key | Easy |
 | [eBay](https://developer.ebay.com/api-docs/static/rest-request-components.html) | <details><summary>Marketplace data and product listings</summary>Access eBay listings, pricing data, and marketplace information for e-commerce applications.</details> | OAuth | Hard |
+| [Razorpay APIs](https://razorpay.com/docs/api/) | <details><summary>Full-stack payments solution for e-commerce</summary>Accept and manage online payments in India with invoices, webhooks, and subscriptions.</details> | API Key | Medium |
+| [Fake Store API](https://fakestoreapi.com/) | <details><summary>Mock e-commerce REST API with products, carts, and users</summary>Perfect for testing shopping cart UIs and product-based layouts.</details> | None | Easy |
+
 
 ---
 
@@ -634,6 +709,15 @@ Most requested APIs for common application features:
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | <details><summary>Fake REST API for testing and prototyping</summary>Perfect for learning, testing, and prototyping with fake posts, comments, albums, photos, todos, and users.</details> | None | Easy |
 | [Random User Generator](https://randomuser.me/) | <details><summary>Generate random user data for testing</summary>Get realistic user profiles with photos, names, addresses, and contact information for testing applications.</details> | None | Easy |
 | [Mockaroo](https://www.mockaroo.com/) | <details><summary>Generate realistic fake data for testing and development.</summary> Mockaroo allows you to easily download large amounts of randomly generated test data based on your own specs/schemas which you can then load directly into your test environment using CSV, SQL, JSON and many other formats.</details> | API Key | Easy |
+| [FakerAPI](https://fakerapi.it/en) | <details><summary>Generate fake users, texts, products, and more</summary>Great for table layouts, dashboards, and frontend development.</details> | None | Easy |
+| [Bored API](https://www.boredapi.com/) | <details><summary>Get random activity suggestions</summary>Useful for apps that suggest fun tasks, learning goals, or creative breaks. Great for demos or boredom-relief features.</details> | None | Easy |
+| [ReqRes](https://reqres.in/) | <details><summary>Fake API for simulating user CRUD operations</summary>Provides realistic response formats and supports login/registration flows. Great for frontend testing.</details> | None | Easy |
+| [Fake Store API](https://fakestoreapi.com/) | <details><summary>Fake e-commerce data including products, users, carts</summary>Ideal for prototyping shop UIs and testing shopping flows with dummy items and prices.</details> | None | Easy |
+| [Random Data API](https://random-data-api.com/documentation) | <details><summary>Generate fake users, addresses, credit cards, beers, and more</summary>Fun and flexible API with multiple endpoints for themed mock data like games, colors, appliances, etc.</details> | None | Easy |
+| [Uinames](https://uinames.com/) *(Note: may be deprecated)* | <details><summary>Generate random names by region and gender</summary>Lightweight API for generating culturally contextualized names for testing and onboarding flows.</details> | None | Easy |
+| [Corporate BS Generator](https://corporatebs-generator.sameerkumar.website/) | <details><summary>Get fake corporate jargon and startup phrases</summary>Fun API that outputs corporate-style buzzwords — great for text placeholders and demos.</details> | None | Easy |
+
+
 
 ---
 
@@ -656,6 +740,9 @@ Most requested APIs for common application features:
 |-----|-------------|------|------------|
 | [AfterShip](https://developers.aftership.com/reference) | <details><summary>Shipment tracking across multiple carriers</summary>Track packages from various shipping carriers and provide delivery updates in your applications.</details> | API Key | Easy |
 | [17track](https://www.17track.net/en/apilist) | <details><summary>Global package tracking service</summary>Track shipments from international and domestic carriers worldwide.</details> | API Key | Easy |
+| [AfterShip API](https://www.aftership.com/docs/api/4/overview) | <details><summary>Track shipments across 1000+ couriers</summary>Supports real-time tracking updates, delivery status, and carrier auto-detection.</details> | API Key | Medium |
+| [Shippo API](https://goshippo.com/docs/) | <details><summary>Multi-carrier shipping and label creation</summary>Great for creating shipping integrations for e-commerce platforms.</details> | API Key | Medium |
+
 
 ---
 
@@ -668,6 +755,9 @@ Most requested APIs for common application features:
 | [Skyscanner](https://developers.skyscanner.net/) | <details><summary>Flight search and travel booking platform</summary>Search flights, compare prices, and access travel data for building travel booking applications.</details> | API Key | Medium |
 | [Flightradar24](https://fr24api.flightradar24.com/docs/endpoints/overview) | <details><summary>Our API grants you immediate access to real-time and historical flight data</summary>Along with comprehensive information about airports and airlines. Whether you are developing an aviation app, integrating flight data into your systems, or conducting research, our API provides robust and reliable data to meet your needs</details> | API Key | Medium |
 | [AviationStack](https://aviationstack.com/) | <details><summary>Real-time flight data</summary>Access live flight status, airline routes, airport data, and historical flights from around the world.</details> | API Key | Medium |
+| [OpenSky Network API](https://opensky-network.org/apidoc/rest.html) | <details><summary>Real-time and historical flight data for academic and non-commercial use</summary>Track flights, get aircraft positions, and access a wealth of aviation data. A great free alternative for hobbyist projects.</details> | None | Medium |
+| [Transport API (UK)](https://developer.transportapi.com/) | <details><summary>Public transport data for the UK: buses, trains, routes, and stops</summary>Useful for transport tracking, schedule lookups, and journey planning apps.</details> | API Key | Medium |
+
 
 ---
 
@@ -679,6 +769,13 @@ Most requested APIs for common application features:
 | [Bitly](https://dev.bitly.com/) | <details><summary>URL shortening with analytics and custom domains</summary>Shorten URLs, track clicks, and analyze link performance with detailed analytics.</details> | OAuth | Medium |
 | [Is.gd](https://is.gd/apishortenservice.php) | <details><summary>Simple URL shortening service</summary>Basic URL shortening without registration requirements.</details> | None | Easy |
 | [CleanURI](https://cleanuri.com) | <details><summary>Simple and privacy-focused URL shortener</summary>URL shortening with a focus on user privacy, no tracking.</details> | None | Easy |
+| [Rebrandly API](https://developers.rebrandly.com/docs) | <details><summary>Custom branded URL shortening</summary>Track clicks, set slugs, and manage domain redirects programmatically.</details> | API Key | Medium |
+| [is.gd API](https://is.gd/developer.php) | <details><summary>Minimalist short URL generator</summary>Quickly shorten links without API keys. Great for testing or quick link drops.</details> | None | Easy |
+| [Shlink API](https://shlink.io/documentation/api-documentation/) | <details><summary>Self-hosted URL shortener with analytics</summary>Provides detailed stats, tags, expiration, and QR code support. Great for privacy-focused use cases.</details> | API Key | Medium |
+| [Polr API](https://github.com/cydrobolt/polr/wiki/Developer-API) | <details><summary>Open-source URL shortener API</summary>Host your own shortening service with custom slugs and link tracking.</details> | Token | Medium |
+| [Bit.do API (Unofficial)](https://bitdo-api.herokuapp.com/) | <details><summary>Unofficial wrapper for Bit.do shortening service</summary>Lightweight and useful for quick shortening in personal apps or demos.</details> | None | Easy |
+
+
 
 ---
 
