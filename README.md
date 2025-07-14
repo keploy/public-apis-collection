@@ -21,43 +21,25 @@ Whether you're building an MVP for your startup, learning to code, or hacking on
 This collection is the result of dedicated research by our API Fellows, who explored, tested, and documented these APIs to make them easily accessible for themselves and the broader developer community. Dive in and discover tools that can elevate your next project!
 
 
-## 🤝 How to Contribute
+## How to Contribute
 
-We welcome contributions from the community! Whether you're an experienced developer or just getting started, here's how you can contribute:
+We welcome contributions from the community! Here's how you can help:
 
-### 🪜 Steps to Contribute
+1. **Fork** this repository
+2. **Add** your API to the appropriate section following our format
+3. **Ensure** the API is free to use (with or without registration)
+4. **Test** that the API is working and accessible
+5. **Submit** a pull request with a clear description
 
-1. **Fork** this repository to your GitHub account  
-2. **Clone** your fork locally and create a new branch  
-   Example: `git checkout -b your-name-api-contribution`
-3. **Add** your API entry to the correct section using the table format  
-4. **Ensure** the API is free to use (with or without registration)  
-5. **Verify** the API is working and publicly accessible  
-6. **Commit** your changes with a clear message  
-7. **Push** your branch and open a **Pull Request (PR)** with a meaningful title and description
-
----
-
-### 📌 Contribution Guidelines
-
-- 🔗 APIs **must be publicly accessible** and **free to use**
-- 🧾 Provide **accurate descriptions** and **authentication details** (`API Key`, `OAuth`, or `None`)
-- 📐 Stick to the **markdown table format** for consistency
-- ✅ Double-check that **all links work**
+### Contribution Guidelines
+- APIs must be publicly accessible and free to use
+- Include accurate descriptions and authentication requirements
+- Maintain the table format for consistency
+- Verify all links are working before submitting
 
 ---
 
-### ✍️ API Entry Format (Example)
 
-Please follow the format below when adding a new API:
-
-
-| API        | Description                   | Auth | Difficulty |
-|------------|-------------------------------|------|------------|
-| AnimeChan  | Get random anime quotes       | None | Easy       |
-
-
----
 
 ## Project Enhancers
 
