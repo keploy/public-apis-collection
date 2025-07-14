@@ -205,6 +205,10 @@ Most requested APIs for common application features:
 | [Capy](https://capy.lol/) | <details><summary>Capybara Images</summary>capybara-api is a sweet, cute, fast API to get a whole bunch of images or a random image of a capybara</details>| None     | Easy       |      
 
 ---
+### 🧠 Fun APIs
+
+- [Bored API](https://www.boredapi.com/api/activity): Suggests random activities. No Auth. JSON. [Docs](https://www.boredapi.com/documentation)
+
 
 ## Anime & Manga
 
