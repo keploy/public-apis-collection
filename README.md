@@ -453,6 +453,11 @@ Most requested APIs for common application features:
 
 
 ---
+## Cryptocurrency
+
+| API Name | Description | Auth | HTTPS | CORS | Link |
+|----------|-------------|------|-------|------|------|
+| CoinGecko | Cryptocurrency prices and data | No | Yes | Yes | [Visit](https://www.coingecko.com/en/api) |
 
 ## Games & Comics
 
