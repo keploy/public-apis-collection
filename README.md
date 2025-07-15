@@ -720,6 +720,12 @@ Most requested APIs for common application features:
 
 
 
+| API Name      | Description                                                       | Auth | Difficulty |
+| ------------- | ----------------------------------------------------------------- | ---- | ---------- |
+| Keploy Quotes | A simple Spring Boot REST API providing random programming quotes | None | Easy       |
+
+
+
 ---
 
 ## Text Analysis & Processing
