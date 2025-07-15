@@ -334,6 +334,15 @@ Most requested APIs for common application features:
 
 ---
 
+## Comics & Entertainment
+
+| API | Description | Auth | Difficulty |
+|-----|-------------|------|------------|
+| [XKCD Comics](https://xkcd.com/json.html) | <details><summary>Get info from XKCD webcomic</summary>Provides JSON data for XKCD comics including title, image URL, transcript, and more. Useful for fun apps and bots.</details> | No | Easy |
+
+---
+
+
 ## Development & Testing
 
 | API | Description | Auth | Difficulty |
