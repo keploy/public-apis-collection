@@ -1,0 +1,10 @@
+[
+  {
+    "API": "Football Data",
+    "Description": "Provides free football data, fixtures, results, and statistics",
+    "Auth": "apiKey",
+    "HTTPS": true,
+    "Category": "Sports & Fitness",
+    "Link": "https://www.football-data.org/"
+  }
+]
