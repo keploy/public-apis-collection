@@ -216,6 +216,10 @@ Most requested APIs for common application features:
 
 
 ---
+### 🧠 Fun APIs
+
+- [Bored API](https://www.boredapi.com/api/activity): Suggests random activities. No Auth. JSON. [Docs](https://www.boredapi.com/documentation)
+
 
 ## Anime & Manga
 
