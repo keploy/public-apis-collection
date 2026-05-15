@@ -527,6 +527,8 @@ Most requested APIs for common application features:
 
 ---
 
+| [PsyQuiz](https://countrycode.xyz/api) | <details><summary>Psychological assessment API: Big Five, attachment, EQ and more</summary>Free REST API with 8 psychological assessment frameworks (63+ questions), including Big Five (OCEAN), attachment styles, emotional intelligence, cognitive distortions, decision styles, flow state, and social energy. No auth required. Returns scores, interpretations, and dimension breakdowns.</details> | None | Easy |
+
 ## Jobs & Careers
 
 | API | Description | Auth | Difficulty |
