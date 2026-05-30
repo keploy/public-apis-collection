@@ -523,6 +523,7 @@ Most requested APIs for common application features:
 | [Nutritionix API](https://developer.nutritionix.com/docs/v2) | <details><summary>Nutrition & food database</summary>Search branded and generic foods, fetch nutrition facts, serving sizes, UPC lookups, and natural language meal parsing.</details> | API Key | Medium |
 | [COVID19 API](https://covid19api.com) | <details><summary>Global COVID-19 stats</summary>Get accurate, country-wise COVID-19 case numbers, deaths, and recovery trends.</details> | None | Easy |
 | [Affirmations.dev](https://affirmations.dev/) | <details><summary>Positive self-affirmations</summary>API that returns simple, uplifting affirmations — ideal for apps focused on self-care and emotional health.</details> | None | Easy |
+| [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) | <details><summary>Public longevity sport leaderboard and biological-age competition data</summary>Provides athlete profiles, divisions, rankings, biomarkers, and biological-age competition results from an open longevity sport platform.</details> | None | Easy |
 
 
 ---
