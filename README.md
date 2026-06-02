@@ -592,6 +592,7 @@ Most requested APIs for common application features:
 | API | Description | Auth | Difficulty |
 |-----|-------------|------|------------|
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | <details><summary>Global development data and statistics</summary>Access economic, social, and development indicators for countries worldwide.</details> | None | Easy |
+| [CharitySense](https://data.charitysense.com/developers) | <details><summary>IRS Form 990 nonprofit search and charity research API</summary>Search U.S. nonprofits, compare charities, inspect financial metrics, review governance signals, and fetch citation-ready nonprofit profiles without authentication.</details> | None | Easy |
 | [Data.gov](https://www.data.gov/developers/apis) | <details><summary>US government open data</summary>Access thousands of government datasets covering various topics and departments.</details> | None/API Key | Easy |
 | [DuckDuckGo Instant Answer API](https://duckduckgo.com/api) | <details><summary>Zero-Click Information Retrieval</summary>Provides instant answers (definitions, facts, conversions) without tracking or requiring API keys.</details> | None | Medium |
 | [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Access company data from over 140 jurisdictions — including legal entities, directors, and filing histories.</summary>Ideal for compliance tools, investigative journalism, B2B verification apps, and enterprise analytics.</details> | API Key | Hard |
