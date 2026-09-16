@@ -448,6 +448,7 @@ Most requested APIs for common application features:
 | [CoinAPI](https://www.coinapi.io/) | <details><summary>Cryptocurrency exchange rates and market data</summary>Access real-time crypto prices from multiple exchanges, ideal for crypto wallets and finance dashboards.</details> | API Key | Medium |
 | [Frankfurter API](https://www.frankfurter.app/docs) | <details><summary>Free and simple foreign exchange rates</summary>Open-source exchange rate API powered by the European Central Bank. Ideal for quick currency conversion tools.</details> | None | Easy |
 | [Binlist API](https://binlist.net/) | <details><summary>Bank and card BIN lookup</summary>Get bank details, country, and card type from card BINs — useful for fraud detection and checkout validation.</details> | None | Easy |
+| [Sales Tax Calculator API](https://salestaxcalculatorapi/) | <details><summary>Computes sales tax amounts and explicit transaction outcomes for invoices and checkouts.</details> | API Key | Medium |
 
 ---
 
