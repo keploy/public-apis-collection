@@ -599,6 +599,7 @@ Most requested APIs for common application features:
 | [Data.gov API](https://api.data.gov/) | <details><summary>U.S. government’s open data across health, environment, and more</summary>Search and integrate datasets for civic tech and research applications.</details> | API Key | Easy |
 | [Open Data EU Portal](https://data.europa.eu/en/apis) | <details><summary>Datasets from the European Union’s public repositories</summary>Ideal for researchers, analysts, and open data visualizations.</details> | API Key | Medium |
 | [UN Data API (UNStats)](https://unstats.un.org/SDGAPI/swagger/) | <details><summary>Official UN statistics on global sustainable development</summary>Use for dashboards on education, poverty, health, and environment KPIs.</details> | None | Medium |
+| [Invokely](https://invokely.ai/docs) | Hosted MCP for source-cited official economic and demographic statistics. Free account: 500 MCP calls/month; no-account trial: 25 calls/day/IP. REST data queries require Builder, Pro or prepaid credits. | No account (trial); API key or OAuth (account) | Medium |
 | [OpenWeather Historical Bulk Data](https://open-meteo.com/en/docs) | <details><summary>Climate and meteorological open datasets</summary>Get open access to past weather data, temperature, humidity, and pressure for analytics.</details> | None | Medium |
 
 ---
