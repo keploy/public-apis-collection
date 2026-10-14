@@ -312,6 +312,7 @@ Most requested APIs for common application features:
 | [Finnhub](https://finnhub.io/docs/api) | <details><summary>Real-time stock, crypto, forex data, and financial news</summary>Rich financial data including earnings, analyst ratings, and more — great for fintech apps.</details> | API Key | Medium |
 | [Fixer.io](https://apilayer.com/marketplace/fixer-api) | <details><summary>Real-time foreign exchange rates for 170+ currencies</summary>Simple, powerful currency conversion API for pricing apps and dashboards.</details> | API Key | Easy |
 | [OpenCorporates API](https://api.opencorporates.com/documentation/API-Reference) | <details><summary>Largest open database of companies in the world</summary>Get company info, jurisdictions, directors, and more — useful for KYC, research, and compliance tools.</details> | API Key | Medium |
+| [roic.ai](https://www.roic.ai/) | <details><summary>Company fundamentals and earnings call transcripts</summary>Financial statements, 90+ ratios and transcripts for 68k+ companies, plus historical prices.</details> | API Key | Easy |
 
 ---
 
