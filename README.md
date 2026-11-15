@@ -559,6 +559,7 @@ Most requested APIs for common application features:
 | [TheAudioDB API](https://www.theaudiodb.com/free_music_api) | <details><summary>Community-driven music metadata</summary>Retrieve artist info, albums, tracks, images, and music videos; free tier with test key (“2”).</details> | API Key (test-level free) | Easy |
 | [Shazam (via ShazamKit / third-party)](https://developer.apple.com/shazamkit/) | <details><summary>Music recognition & discovery</summary>Use Shazam’s audio recognition in apps to identify songs, access metadata, lyrics, artist info, and match audio from mic or file.</details> | SDK Key | Medium |
 | [AudioDB](https://www.theaudiodb.com/api_guide.php) | <details><summary>Music artist and album data</summary>Search for artists, albums, tracks, and music videos — includes artwork and biography details.</details> | API Key | Easy |
+| [No Stairs Please](https://nostairsplease.com/mcp) | <details><summary>US live-music venues & booking directory (MCP)</summary>Query small independent live-music venues across all 50 US states, including capacities, stage/load-in specs, and booking contacts via Streamable HTTP MCP.</details> | None | Easy |
 
 
 
